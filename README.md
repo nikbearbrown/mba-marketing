@@ -2,7 +2,7 @@
 
 *Per-book CLAUDE.md for the `principles-marketing-with-llms` project. Loaded by every chapter generator before drafting.*
 
-**Author:** Nik Bear Brown
+**Author:** Humanitarians AI
 
 **Folder:** `books/principles-marketing-with-llms/`
 
