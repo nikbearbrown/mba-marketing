@@ -2,413 +2,243 @@
 
 *Why people buy what they buy is a harder question than it looks. The answer lives in five categories of influence, a five-stage decision process, and a hierarchy of needs none of us can talk about clearly.*
 
-## Learning Objectives
+---
 
-By the end of this chapter, you will be able to:
+In 1975, PepsiCo launched a campaign built around a simple test. Two unmarked cups. Two colas. Which do you prefer?
 
-1. Define consumer buying behavior and explain the buyer's black box (stimulus-response) model.
-2. Distinguish four types of consumer buying behavior — complex, dissonance-reducing, habitual, and variety-seeking — and explain when each one applies.
-3. Identify the five categories of factors that influence consumer behavior — cultural, social, personal, psychological, and situational — and apply them to a real purchase decision.
-4. Walk through the five stages of the consumer decision process and explain why some purchases skip stages while others don't.
-5. Apply Maslow's hierarchy of needs to a marketing campaign and identify which level of need the campaign is targeting.
-6. Explain the three perceptual processes — selective attention, selective distortion, and selective retention — and predict where they will distort a marketing message.
-7. Distinguish heuristics that consumers use to make purchase decisions (price-quality, brand loyalty, country of origin) and recognize when each is doing the work in a real decision.
-8. Evaluate a brand's ethical consumerism positioning and explain what a customer is actually buying when they buy "ethical."
+The results were real and repeatable: loyal Coca-Cola drinkers, shielded from the brand, frequently chose Pepsi. One famous commercial showed a grandmother saying, "I can't believe it. I've never had a Pepsi in my life, but it must be better!" Pepsi won blind taste tests against Coke at meaningful rates across thousands of trials.
 
-## Prerequisites
+Coca-Cola did not lose market share.
 
-You should be familiar with **Chapter 2's** value ratio ($V = B/P$) — particularly the four layers of perceived benefit (functional, monetary, social, psychological) and the five layers of customer need (stated, real, unstated, delight, secret). This chapter goes inside the customer's head to explain *how* those perceptions form.
+This is the puzzle. If consumers prefer Pepsi when they can't see the label, why do so many of them keep buying Coke when they can? The standard explanation — that they're irrational, or that advertising has fooled them — doesn't survive scrutiny. These are real people making real choices with their own money, repeatedly. Something else is going on.
 
-You should also be familiar with **Chapter 3's** strategic-planning frameworks — particularly the BCG matrix and SWOT — because consumer behavior data is the substrate that segmentation (Chapter 7) and targeting decisions are built from.
+The answer is that **what consumers experience when they drink an unbranded sample is not what they experience when they drink a branded one**. The brand is part of the product. The cup with the Coca-Cola label isn't just a delivery mechanism for flavored carbonated water; it carries associations built over decades — the color red, the script logo, the memory of where you were when you first tasted it, the cultural moment of a Super Bowl ad. Removing the brand doesn't reveal a cleaner version of the experience. It amputates half of it.
 
-## Why This Chapter Matters
-
-Marketing strategy aimed at a customer the firm doesn't actually understand is theatre. The most common failure mode in introductory marketing is *imagining the customer rather than studying them* — designing a value proposition for a person who exists in the marketer's head, not in the marketplace.
-
-This chapter teaches the discipline of studying real consumers. It introduces the **buyer's black box** model that frames what is observable (stimuli in, behavior out) and what is not (the interior reasoning, which is partially observable through research methods covered in Chapter 8). It then unpacks five categories of influence that shape what happens inside the black box, and walks the five-stage decision process that consumers move through — sometimes consciously, often not.
-
-The reason this matters operationally: every one of the four Ps from Chapter 2 has a different optimal setting depending on which type of buying behavior the consumer is in. Complex buying (a new car) needs detailed product information, expert sales support, post-purchase reassurance; habitual buying (a carton of milk) needs shelf-space dominance and consistent packaging. The same firm can sell both kinds of products and needs to handle them differently. Without understanding consumer behavior, you can't tell which mode you're in.
-
-By the end of the chapter, you will be able to look at any purchase — your own, a friend's, a stranger's — and identify the influences shaping it, the decision stage it's in, and the psychological levers a marketer would pull to move it.
+This is the central claim of this chapter, stated plainly: the consumer's perception of a product is not a neutral reading of the product's properties. It is constructed — shaped by culture, social context, personal history, psychological mechanisms, and the situation of the purchase itself. Marketing that ignores this is aiming at a consumer who doesn't exist.
 
 ---
 
-## Concept 1 — The Black Box and the Five Categories of Influence
+## The Black Box
 
-### The motivating puzzle
-
-In March 2020, COVID-19 closed the dining rooms of essentially every restaurant in the United States. Quick-service chains were hit hard but unevenly. Some collapsed. Some held. **McDonald's**, the largest of them, did neither — it adapted faster than the category did, by leaning hard on what the company called the **3 Ds**: **digital, delivery, and drive-through**.
-
-The numbers matter. Digital sales — Mobile Order & Pay app + self-order kiosks (the kiosks installed since 2015, the app launched in 2017) — exceeded **$10 billion in 2020, nearly 20 percent of system-wide sales**. McDonald's invested in dynamic menu boards and pruned its menu to a "core menu," which **shaved 30 seconds from drive-through times** — translating to 300 million additional drive-through customers served. Delivery, an emergency expansion, scaled from **28,000 restaurants offering delivery to 41,000**, and delivery sales more than tripled.
-
-The pandemic didn't *create* the consumer behaviors McDonald's exploited. The behaviors already existed — preference for digital ordering, willingness to pay for delivery, a learned tolerance for drive-through service. The pandemic shifted the *proportion* of consumers using each channel. McDonald's investments in digital from 2015 to 2019 paid off because the company had read the underlying consumer-behavior trend correctly years earlier.
-
-Now ask: how would you know, in 2017, that mobile ordering was worth $10 billion in 2020 sales? You couldn't, exactly. But you could read the consumer-behavior signals — the time-pressure of weekday lunches, the friction of waiting in line, the comfort with phone-mediated transactions that younger consumers had grown up with. The frameworks in this chapter are the tools that turn those signals into strategic bets.
-
-### The mechanism — the buyer's black box
-
-A consumer is a system that takes **stimuli** as input and produces **buying behavior** as output. The interior of the system — the mental processing that decides what to buy, when, where, and how much — is not directly observable. Marketers call it the **black box**, sometimes the **stimulus-response model**.
+Marketers use the phrase "buyer's black box" to name something honest: we can observe what goes in (the stimuli — ads, prices, product features, environmental conditions) and what comes out (the purchase decision), but the interior of the consumer's reasoning is not directly accessible.
 
 <!-- → DIAGRAM: The buyer's black box. Left side: stimuli (Marketing 4Ps + environmental factors — economic, legal/political, technological, cultural). Center: the black box itself (buyer characteristics — beliefs, attitudes, motives, perceptions, values; buyer decision process — five stages). Right side: response (what to buy, when, where, how often, how much). Show that the inputs and outputs are observable; the contents of the black box are inferred. -->
 
-**Inputs to the black box** come in two flavors:
+**Inputs** come from two directions. Marketing stimuli are the firm's four Ps — every ad, price point, product feature, and distribution choice. Environmental stimuli are the world the consumer lives in: economic conditions, technological capabilities, cultural norms, legal structures. Both streams hit the black box simultaneously.
 
-- **Marketing stimuli** — the firm's 4Ps. Product, price, place, promotion. Ads, packaging, store layout, online experience.
-- **Environmental stimuli** — the world the consumer lives in. Economic conditions (inflation, employment), legal and political factors (trade restrictions, tax structure), technological factors (new platforms, new capabilities), cultural factors (shared values, generational norms).
+**Inside** sits the consumer — their beliefs, attitudes, motives, perceptions, values — and the decision process that turns inputs into outputs.
 
-**Inside the black box** sits the consumer — buyer characteristics (beliefs, attitudes, motives, perceptions, values) and the buyer decision process (the five stages we'll walk in Concept 2).
+**Outputs** are what's observable: what the consumer bought, when, where, and how often.
 
-**Outputs from the black box** are observable buying behavior — the actual purchase decisions a marketer can record.
-
-The honesty of the model is in the word *black*. Marketers can observe inputs (the firm controls some of them) and observe outputs (sales data, surveys, behavioral analytics). What happens *inside* — the mental act of weighing, comparing, deciding — is partially inferred from research and partially mysterious. Marketing research (Chapter 8) is the discipline of inferring more of the box's interior; consumer behavior research, which this chapter introduces, is the discipline of building the right hypotheses about what's inside.
-
-### The trade-off — comprehensive influence map vs. measurable specificity
-
-There are five categories of factors that influence consumer behavior:
-
-- **Cultural** — culture, subculture, social class, gender
-- **Social** — family, reference groups, roles and status
-- **Personal** — age and life cycle, occupation, economic situation, lifestyle, personality and self-concept
-- **Psychological** — motivation, perception, learning, beliefs and attitudes
-- **Situational** — environmental atmospherics, social situation of shopping, goal of the trip, timing, mood
-
-This is a comprehensive map. It is also unmanageable as an everyday marketing tool — no firm can measure all five categories on all customers all the time.
-
-The trade-off: a five-category framework is *complete* (it forces you to think through every dimension) but not *predictive* (it doesn't tell you which dimension will dominate for your category). Working marketers solve this by *learning which 1–2 categories dominate their category* and instrumenting those specifically. A luxury watchmaker tracks personal factors (lifestyle, self-concept) and social factors (reference groups). A grocery chain tracks situational factors (atmospherics, mood, time pressure) and personal factors (life cycle stage, economic situation). The framework tells you what to look at; experience tells you what to look at *first*.
-
-### The five categories, briefly
-
-**Cultural factors.** Culture is the values, ideas, and attitudes shared by a group, mostly learned in childhood. The same purchase carries different cultural weight across cultures: a **Hindu bride in India** wears red lehenga; a **Christian bride in the West** wears white; an **Indian widow** wears white; a **Western widow** wears somber colors. The garment is the same physical object; the cultural meaning is what differs. Subcultures are tighter clusters within a culture — environmentalists, bodybuilders, the Amish, biker culture. Gender shapes both what people buy and *how* they shop, though the size and source of those differences is genuinely contested. Social class — sociologists commonly identify five (upper, upper-middle, lower-middle, working, economically disadvantaged) — affects both what consumers can afford and what they aspire to.
-
-**Social factors.** Family of orientation (the family you grew up in) and family of procreation (the family you formed) both shape buying. If your father drove Chevys, you are more likely to consider Chevys. If your spouse needs a crossover SUV for the kids, you may not buy the pickup you'd have bought single. Reference groups are the groups you compare yourself to — country clubs, professional associations, friend circles, online communities. **Social media influence** is reference-group dynamics at scale: **Kendall Jenner has more than 217 million Instagram followers**; **Lionel Messi has more than 310 million**. The influence of opinion leaders inside reference groups is older than social media; the platforms just made it measurable and tradeable.
-
-**Personal factors.** Age and life-cycle stage matter, but not as cleanly as marketers often assume. The four current generational cohorts in the US:
-
-- **Baby Boomers (born 1946–1964)** — ~70 million, $2.6 trillion in buying power. Heavy in pharmacy/health care, household goods, wine, books, cosmetics, skin care.
-- **Generation X (born 1965–1979/80)** — ~65 million, peak earning years, often dual-income; target for higher-end brands and convenience-related goods.
-- **Millennials / Gen Y (born 1981–1994/96)** — ~72 million, the largest US generation. Notable for sustainability-driven buying across food, household, linens, clothing.
-- **Generation Z / Zoomers (born 1997–2012)** — 67+ million, mostly still in school and living with parents; discretionary spending limited but growing.
-
-Generational labels are useful at a population level and unreliable at the individual level. *Some* 40-year-olds are sending kids to college; some are starting families; some are single. Generational targeting works for mass-market campaigns; it fails for precision personalization.
-
-Lifestyle (active / sedentary / soccer-parent / urban-creative), occupation (white-collar / blue-collar / specialized — like nurses buying scrubs or construction workers buying steel-toed boots), economic situation (income relative to needs), and personality / self-concept all also count.
-
-**Psychological factors.** This is its own concept section — Concept 3 — because the mechanism is rich enough to deserve unpacking.
-
-**Situational factors.** Lighting, music, smell, store layout, crowd density, queue length, social context, mood, time pressure. **Researchers conducted a 21-week study comparing fluorescent vs. LED lighting in a grocery store** and found **consumers bought 25 percent more products on the LED-lit side**. **Abercrombie & Fitch** sprays its "Fierce" cologne throughout its stores and plays loud club music — both choices designed to attract a specific clientele (young, comfortable with high-stimulation environments) and to repel another (older customers, lower stimulus tolerance). Situational factors are mostly within the firm's control via the *place* P from Chapter 2; they are also one of the most underestimated levers in marketing.
-
-### Worked example — the hip-hop / sneaker subculture
-
-A subculture's effect on a category can be visible decades later.
-
-In **1986**, **Run-DMC** released "My Adidas," and the song produced **the first endorsement deal between a fashion brand and a musical act** — Run-DMC × Adidas. The deal was small in dollar terms by modern standards. Its strategic significance was that it made *cultural endorsement of a sneaker brand from inside hip-hop* into a known asset.
-
-Watch what happened next:
-
-- **Master P × Converse**
-- **Jay-Z × Reebok** (and later **Jay-Z × Puma**)
-- **50 Cent × Reebok**
-- **Missy Elliott × Adidas**
-- **Big Sean × Adidas**
-- **Drake × Nike** (Drake's Air Jordan partnership)
-
-Each of these deals reflects the same underlying mechanism: a subculture (hip-hop) has reshaped a commodity category (sneakers) by lending the cultural value of artists to specific brands. The functional value of the sneakers — they cushion your feet, they have rubber soles — has not changed. The social and psychological value (Chapter 2) has been completely rebuilt. A customer buying Drake's signature Nike isn't paying for a better shoe; they are paying for membership in a cultural moment.
-
-That's a cultural-factor effect (hip-hop as a subculture), playing out via social-factor dynamics (Drake as a reference-group opinion leader), filtered through personal factors (which generational cohort grew up listening to which artist), shaped by psychological factors (self-concept — "I am someone who follows this music"), and triggered by situational factors (the Instagram post, the music video, the in-store display).
-
-The five categories don't operate alone. They operate in concert. The marketer's job is to read which combination is doing the work in their category and design the marketing mix accordingly.
-
-### Common misconceptions
-
-**"Demographics determine behavior."** They constrain it. They don't determine it. Two 30-year-old urban women with the same income and education can have completely different buying behavior because their personalities, lifestyles, and reference groups differ. Demographics are the cheapest and least reliable variable to segment on; psychographics (the next chapter's territory) almost always do better.
-
-**"All consumers in a generation buy the same way."** A Boomer who lived through 1970s stagflation buys differently from a Boomer who lived through 1990s prosperity. A Millennial who came of age during the 2008 financial crisis buys differently from a Millennial who graduated into a strong job market in 2018. Generational cohorts are useful at the macro level and dangerous at the individual level.
-
-**"Cultural factors are about international markets only."** No. The biggest cultural-factor lessons in marketing happen *within* countries, where subcultures (hip-hop, environmentalist, evangelical, queer, immigrant communities of various origins) coexist and the same product can mean different things to different subcultures simultaneously.
+The discipline of consumer behavior is the discipline of inferring the box's interior as accurately as possible. We never have perfect access to it. What we have are frameworks — models of the factors that shape what happens inside — that let us make better-than-random predictions. The rest of this chapter is three of those frameworks.
 
 ---
 
-## Concept 2 — The Five-Stage Decision Process and the Four Buying-Behavior Types
+## Five Categories of Influence
 
-### The motivating puzzle
+The buyer's black box doesn't operate in a vacuum. Five categories of factors shape what enters the box, how it gets processed, and what comes out.
 
-You bought a phone case last week and a smartphone last year. The phone case took five minutes; the smartphone took several weeks of research, comparison, and second-guessing. Why?
+**Cultural factors** are the values, ideas, and attitudes a person absorbs from the group they grow up in — what's considered normal, beautiful, generous, wasteful, aspirational. The same garment carries completely different cultural weight depending on context: a Hindu bride in India wears red lehenga; a Christian bride in the West wears white; an Indian widow wears white; a Western widow wears somber colors. The cloth is identical. The meaning is opposite. A subculture is a tighter cluster within a culture — environmentalists, bodybuilders, biker culture, immigrant communities — each with their own values that shape purchasing. Social class affects both what consumers can afford and what they aspire to.
 
-The two purchases involved the same person, similar product categories (mobile-related), similar price ranges per dollar of perceived benefit. The decision process was completely different. The mechanism that explains the difference is one of the most useful frameworks in consumer behavior — and once you see it, you start to recognize which kind of buying behavior is happening in any purchase, including your own.
+**Social factors** are the relationships that exert direct or indirect pressure on behavior. The family you grew up in (family of orientation) shaped baseline tastes — if your father drove Chevys, you are more likely to consider Chevys. The family you formed (family of procreation) constrains current choices — you may not buy the sports car you'd have bought single. Reference groups are the communities you compare yourself to. This is older than social media; the platforms just made it measurable and tradeable. Kendall Jenner has more than 217 million Instagram followers. Lionel Messi has more than 310 million. Opinion-leader influence at that scale is a different quantitative beast from the friend who recommended a restaurant, but the underlying mechanism — *I trust this person's taste, so I update my own* — is identical.
 
-### The mechanism — the five-stage consumer decision process
+**Personal factors** include age and life-cycle stage, occupation, economic situation, lifestyle, and personality. The four generational cohorts currently moving through the US market have meaningfully different buying patterns: Baby Boomers (born 1946–1964, roughly 70 million, $2.6 trillion in buying power, heavy on pharmacy and health care) differ from Millennials (born 1981–1994, roughly 72 million, notably sustainability-driven) and Generation Z (born 1997–2012, still building spending power). Occupation shapes purchasing in obvious ways — nurses buying scrubs, construction workers buying steel-toed boots — and lifestyle (active, urban-creative, suburban-parent) shapes it in subtler ones.
 
-The OpenStax source frames the consumer decision process as five sequential stages:
+Generational labels are useful at the population level and dangerous at the individual level. Some 40-year-olds are sending kids to college; some are starting families; some are single. Demographic segmentation is the cheapest and least reliable variable to act on; it works for mass campaigns and fails for precision targeting.
 
-1. **Need recognition** — you sense a difference between your actual state and your desired state. Internal stimuli (hunger, thirst) or external stimuli (seeing an ad, smelling a bakery).
-2. **Information search** — you gather information about possible solutions. Heightened attention (passive — you start noticing related ads) or active information search (deliberate — internal search via the Internet, external via friends and family, experiential via store visits).
-3. **Evaluation of alternatives** — you treat each option as a "bundle of attributes" and weigh them. For a smartphone, that's battery life, speed, storage, price; for a hotel, location, cleanliness, Wi-Fi, breakfast, pool, price.
-4. **Purchase decision** — you commit. Often via **heuristics** — mental shortcuts that simplify the choice. Common ones: *price = quality* (the more expensive product must be better), *brand loyalty* (always buy the same brand), *country of origin* (prefer products made in a specific country).
-5. **Post-purchase evaluation** — you assess whether you're satisfied. Three outcomes: *very satisfied* (performance exceeds expectations), *satisfied* (performance meets expectations), *dissatisfied* (performance falls short). Doubts here produce **cognitive dissonance** — also called buyer's remorse — the mental tension of suspecting you made the wrong choice.
+**Psychological factors** are the chapter's third concept section — motivation, perception, learning, beliefs, and attitudes — and deserve their own unpacking. Short version for now: the perceptual system that filters 6,000 to 10,000 daily advertising impressions, the belief structures that make the Coca-Cola label add something to the experience, and the learned associations that make a positive product experience more likely to become a repeat purchase.
+
+**Situational factors** are the immediate environment of the purchase: lighting, music, smell, crowd density, queue length, time pressure, mood, the social context of shopping. A 21-week study comparing fluorescent versus LED lighting in a grocery store found that consumers bought 25 percent more products on the LED-lit side. Abercrombie & Fitch sprays its "Fierce" cologne throughout its stores and plays loud club music — both choices designed to attract a specific clientele and to repel another. Situational factors are mostly within the firm's control via the *place* P; they are also one of the most underestimated levers in marketing, possibly because they're harder to put in a slide deck than an ad campaign.
+
+These five categories don't operate alone. They run in concert, and the marketer's job is to figure out which combination is doing the most work in their specific category. A luxury watchmaker tracks personal factors (lifestyle, self-concept) and social factors (reference groups) because those two dominate decisions in that category. A grocery chain tracks situational factors (atmospherics, time pressure) and personal factors (life-cycle stage). The framework tells you what to look at; experience with the category tells you what to look at first.
+
+<!-- → TABLE: Five categories of influence — reference table. Five rows, one per category. Columns: Category, What it includes, Example purchase it dominates, Marketing lever most affected. Helps students see the categories as a lookup tool, not just a list to memorize. -->
+
+The worked example that makes this concrete is the hip-hop / sneaker subculture. In 1986, Run-DMC released "My Adidas," and the song produced the first endorsement deal between a fashion brand and a musical act. That deal was small in dollar terms. Its strategic significance was that it made *cultural endorsement of a sneaker brand from inside hip-hop* into a known, replicable asset. What followed: Master P × Converse, Jay-Z × Reebok, 50 Cent × Reebok, Missy Elliott × Adidas, Drake × Nike. Each reflects the same mechanism: a subculture lent its cultural value to specific brands, completely rebuilding the social and psychological layer of the value ratio. A customer buying Drake's signature Nike isn't paying for a better shoe. They're paying for membership in a cultural moment. That's a cultural-factor effect playing out via social-factor dynamics, filtered through personal factors, shaped by psychological factors, triggered by situational ones. All five categories, in one purchase.
+
+---
+
+## The Five-Stage Decision Process and the Four Buying-Behavior Types
+
+You bought a phone case last week and a smartphone last year. The phone case took five minutes. The smartphone took several weeks. Same person, similar product categories, different decision processes. Why?
+
+The answer is a two-axis framework that is worth knowing precisely, because once you have it, you start recognizing it everywhere.
+
+The consumer decision process, in full, runs five stages:
+
+**Stage 1 — Need recognition.** A gap opens between your actual state and your desired state. Internal stimuli (you're hungry, your current phone is broken) or external stimuli (you see an ad, you smell a bakery) make the gap salient.
+
+**Stage 2 — Information search.** You gather data on possible solutions. Heightened attention (passive — you start noticing related ads because your perceptual filter is now set to the category) or active search (deliberate — web research, asking friends, visiting stores).
+
+**Stage 3 — Evaluation of alternatives.** Each option is treated as a bundle of attributes. For a smartphone: battery life, camera quality, storage, price, operating system, brand reputation. For a hotel: location, cleanliness, Wi-Fi, breakfast, pool, price. The consumer builds a rough expected utility for each option and ranks.
+
+**Stage 4 — Purchase decision.** Commitment. Frequently via heuristics — mental shortcuts that reduce decision cost. *Price = quality* (the more expensive product must be better). *Brand loyalty* (always buy the same brand). *Country of origin* (prefer products made in a specific country). Heuristics aren't irrational; they're efficient. The consumer who uses *price = quality* on a category they don't deeply understand often makes a better choice than the one who tries to evaluate every attribute. They're a different kind of reasoning, not the absence of it.
+
+**Stage 5 — Post-purchase evaluation.** Did the product meet, exceed, or fall short of expectations? The three outcomes map to: very satisfied (performance exceeded), satisfied (met), dissatisfied (fell short). Dissatisfaction at this stage — or the lingering suspicion that you might have made the wrong choice — produces **cognitive dissonance**, also called buyer's remorse. Post-purchase communication that addresses dissonance early is one of the highest-ROI marketing investments in high-involvement categories, and one of the most neglected.
 
 <!-- → DIAGRAM: Five-stage consumer decision process as a horizontal flow. Each stage gets one sentence describing the activity and one example (toilet paper vs. car) showing how the same stage looks different across categories. Below the flow: an arrow back to Stage 1 from Stage 5, showing that post-purchase evaluation feeds the next round of need recognition. -->
 
-### The trade-off — completeness vs. shortcutability
+The process is a complete map. But not all purchases use the full map. Toilet paper activates Stage 1 (you're out) and Stage 4 (grab the usual brand). The middle stages collapse to seconds. A new car activates all five stages over months, with Stage 2 and Stage 3 consuming most of the time and Stage 5 extending for years.
 
-The five-stage process is a complete map of what happens for *any* purchase. But not all purchases use the full map. **Toilet paper at the grocery store** activates Stage 1 (need recognition: you're out) and Stage 4 (purchase decision: grab the usual brand). The middle stages collapse to seconds. **A new car** activates all five stages, often over months, with information search and evaluation taking up most of the time and post-purchase evaluation extending for years (every ad for the rejected alternatives is a small dissonance event).
-
-The trade-off the framework forces: a marketer who treats every purchase the same way — assuming consumers go through all five stages every time — wastes effort on low-involvement categories and underinvests in high-involvement categories. A marketer who treats every purchase as habitual — assuming consumers don't research — loses the high-involvement categories where research is decisive.
-
-The fix is the four-type taxonomy.
-
-### The four types of buying behavior
-
-A 2×2 matrix on **purchase involvement** (high vs. low) and **perceived brand differentiation** (significant differences vs. few differences):
-
-|  | **Significant differences between brands** | **Few differences between brands** |
-|---|---|---|
-| **High involvement** | **Complex buying behavior** (new car) | **Dissonance-reducing buying behavior** (ceramic tile) |
-| **Low involvement** | **Variety-seeking buying behavior** (tortilla chips) | **Habitual buying behavior** (organic milk) |
+The framework that names this variation is a 2×2 on **purchase involvement** (high vs. low) and **perceived brand differentiation** (significant vs. few differences):
 
 <!-- → TABLE: Four types of buying behavior 2×2. Rows: High involvement / Low involvement. Columns: Significant brand differences / Few brand differences. Each quadrant gets the type name, a one-sentence definition, an example, and a marketing implication. The student should see that the marketing mix changes by quadrant. -->
 
-**Complex buying behavior** — high involvement, significant brand differences. Examples: new car, expensive electronics, real estate. The consumer goes through all five decision stages with high engagement at each. *Marketing implications:* detailed product information, expert sales support, comparison content, post-purchase reassurance.
+**Complex buying behavior** — high involvement, significant brand differences. New car, expensive electronics, college choice. All five stages are active and deliberate. Marketing implication: invest in detailed product information, expert sales support, comparison content, and post-purchase reassurance. The consumer is doing their homework; your job is to be findable and credible when they are.
 
-**Dissonance-reducing buying behavior** — high involvement, few perceived brand differences. Example: ceramic tile for a kitchen renovation. Expensive enough that the consumer is engaged, but the brands feel interchangeable, so the decision often turns on price or availability. Post-purchase dissonance is high — the consumer notices disadvantages of their chosen brand, hears good things about brands they didn't choose. *Marketing implications:* post-purchase reassurance materials, follow-up communications, simplified comparison tools.
+**Dissonance-reducing buying behavior** — high involvement, few perceived brand differences. Ceramic tile for a kitchen renovation. Expensive enough to care, but the brands feel interchangeable, so the decision often turns on price or availability. Post-purchase dissonance is high — the consumer will notice disadvantages of their chosen brand and hear good things about brands they didn't choose. Marketing implication: post-purchase reassurance is the highest-value investment here. The sale isn't the end of the marketing job.
 
-**Habitual buying behavior** — low involvement, few brand differences. Example: organic milk, paper towels, batteries. The consumer doesn't deliberate; they buy what they bought last time. Brand loyalty is weak — if the regular brand is out of stock or another brand is on sale, they switch easily. *Marketing implications:* shelf-space dominance, consistent packaging, frequent reminders, low-cost-to-switch promotions.
+**Habitual buying behavior** — low involvement, few brand differences. Organic milk, paper towels, batteries. No deliberation; the consumer buys what they bought last time. Brand loyalty is weak — a competing brand on sale, or your brand out of stock, is enough to switch. Marketing implication: shelf-space dominance, consistent packaging, frequent low-cost reminders. Don't make the consumer think; make your brand the path of least resistance.
 
-**Variety-seeking buying behavior** — low involvement, significant brand differences. Example: tortilla chips, candy bars, craft beer. The consumer isn't deeply engaged but enjoys trying new things. Brand-switching is the norm, not because of dissatisfaction but because of curiosity. *Marketing implications:* new flavors / variants / packaging refreshes; trial promotions; impulse-buy displays.
+**Variety-seeking buying behavior** — low involvement, significant brand differences. Tortilla chips, candy bars, craft beer. The consumer isn't deeply engaged but enjoys novelty. Brand-switching is the norm, not because of dissatisfaction but because of curiosity. Marketing implication: new flavors, packaging refreshes, impulse-buy displays. The consumer will try your product if you make it easy; the challenge is to make the experience good enough that they'll seek you out next time rather than just grabbing the next interesting thing.
 
-### Worked example — choosing a college
-
-Run all five stages on the most consequential purchase decision most students make.
-
-**Stage 1 — Need recognition.** Maybe a working adult realized advancement at work required a degree. Maybe a high school senior felt parental pressure. Maybe a career path required specific credentials. The "actual state" (no degree) differs from the "desired state" (degree-holder).
-
-**Stage 2 — Information search.** College websites (internal search). Conversations with family, friends, current students, alumni (external search). Campus visits, virtual tours, sample classes (experiential search).
-
-**Stage 3 — Evaluation of alternatives.** Bundle of attributes: location, size, prestige, cost, financial aid availability, program of study, online vs. in-person options, athletic programs, social atmosphere.
-
-**Stage 4 — Purchase decision.** Heuristics often dominate: *price = quality* (this expensive school must be better), *brand loyalty* (my parents went here), *referral trust* (my friend goes here and loves it). Decision made.
-
-**Stage 5 — Post-purchase evaluation.** Six months in, are you very satisfied (the school exceeded expectations), satisfied (met expectations), or dissatisfied (fell short)? The number of students who transfer in their first two years suggests post-purchase dissonance is common in this category.
-
-A college decision is **complex buying behavior** (high involvement, significant brand differences). The marketing implications follow: colleges invest heavily in content marketing, campus visit experiences, alumni outreach, financial aid packaging, and post-enrollment communications designed to reduce buyer's remorse before it metastasizes into a transfer application.
-
-### Common misconceptions
-
-**"Everyone goes through all five stages every time."** Most everyday purchases skip Stages 2 and 3 entirely. The framework describes what *can* happen; it doesn't claim what *always* happens.
-
-**"Satisfaction equals expectations met."** Subtler than that. *Satisfied* means met. *Very satisfied* means *exceeded*. The difference matters because very-satisfied customers refer; satisfied customers stay until something cheaper appears. The post-purchase target isn't satisfaction — it's surprise-and-delight.
-
-**"Heuristics are irrational."** They're efficient. The consumer who uses *price = quality* on a category they don't deeply understand often makes a better choice than the consumer who tries to evaluate every attribute. Heuristics are computational shortcuts that work well in most cases and fail in identifiable edge cases (the Pepsi Challenge example below). They're not the absence of reasoning; they're a different kind of reasoning.
+The reason this 2×2 matters operationally is that every one of the four Ps has a different optimal setting in each quadrant. A firm that uses complex-buying-behavior marketing on a habitual-buying product — detailed feature comparisons, sales support, post-purchase letters — is wasting resources and adding friction where the consumer doesn't want it. A firm that uses habitual-buying marketing on a complex-buying product — shelf presence only, no content, no sales support — loses at the stage where the consumer is doing research.
 
 ---
 
-## Concept 3 — Maslow, Perception, and Why Customers Don't Always Buy What They "Need"
+## Maslow, Perception, and Why the Label Changes the Taste
 
-### The motivating puzzle
+Now we can return to the Pepsi paradox and give it a proper explanation.
 
-In 1975, **PepsiCo launched the Pepsi Challenge** — a blind taste-test campaign where participants tasted two unmarked colas and chose the one they preferred. The advertised result, run for years on television: **loyal Coca-Cola drinkers, when shielded from the brand, frequently chose Pepsi**. One famous commercial showed a grandmother saying, *"I can't believe it. I've never had a Pepsi in my life, but it must be better!"*
+In 2003, **Read Montague** at Baylor College of Medicine ran a version of the Pepsi Challenge inside an fMRI scanner. With no brand information, about half the subjects preferred Pepsi — consistent with earlier results. When subjects were told which sample was Coca-Cola, 75 percent said they preferred Coke, and the areas of the brain associated with cultural knowledge and identity (the medial prefrontal cortex) showed significantly elevated activity. The brand wasn't just information about the product. It was activating a different cognitive process entirely.
 
-The Pepsi Challenge results were real. Pepsi did win blind taste tests against Coke at meaningful rates. But Coca-Cola did not lose market share in the way the test results would have predicted. Why?
+To understand why, you need two pieces of the psychology.
 
-The answer reveals a layer the buyer's black box adds to value perception that the value ratio in Chapter 2 only hinted at: **what consumers perceive when they drink an unbranded sample is not what they perceive when they drink a branded one**. The brand is part of the product experience. Removing the brand changes what the consumer is consuming, in a way that's measurable and reproducible.
-
-That is one example of a more general phenomenon: psychological factors are not noise on top of consumer behavior. They are part of the signal.
-
-### The mechanism — Maslow's hierarchy of needs
-
-**Abraham Maslow** proposed in 1943 that human needs are arranged in a hierarchy of five levels, from most basic to most psychologically advanced:
+The first is **Maslow's hierarchy of needs** — the claim that human needs are arranged in five levels, from most basic to most psychologically advanced:
 
 1. **Physiological** — food, water, shelter, sleep
 2. **Safety and security** — physical safety, financial safety, freedom from harm
 3. **Belonging / social** — friendship, love, community membership
-4. **Esteem** — recognition, achievement, respect from others, self-respect
+4. **Esteem** — recognition, achievement, respect from others and from yourself
 5. **Self-actualization** — personal growth, fulfillment of potential
 
 <!-- → INFOGRAPHIC: Maslow's hierarchy as a pyramid. Each level labeled with the need category, a one-sentence description, and a marketing campaign that explicitly targets it. The student should see that the same human is being marketed to at all five levels by different brands simultaneously. -->
 
-Maslow argued that lower-level needs generally have to be satisfied before higher-level needs become motivating. A starving person doesn't shop for self-actualization; a financially insecure person doesn't pursue belonging through expensive brand affiliations. This isn't a strict rule — humans are complicated and the levels overlap — but it's a useful directional principle.
+Lower-level needs generally have to be satisfied before higher-level ones become motivating. This isn't a strict rule — humans are complicated and the levels overlap — but it's a useful directional principle. What it tells marketers is that every product, in addition to its functional value, carries a potential appeal to one of these five levels, and which level you aim for determines who you're competing against, what your margins look like, and how durable your brand equity is.
 
-For marketers, the hierarchy maps onto campaign messaging:
+Snickers: *"You're not you when you're hungry."* Physiological. Allstate: *"You're in good hands."* Safety. Most beer marketing: belonging. Dove's real-beauty campaign: esteem. Nike's *"Find Your Greatness."* Self-actualization.
 
-- **Physiological:** **Snickers** — *"You're not you when you're hungry."* The campaign explicitly invokes hunger as the trigger and Snickers as the resolution.
-- **Safety and security:** **Allstate** — *"You're in good hands with Allstate."* **Lysol** — *"Practice Healthy Habits"* / *"What It Takes to Protect."* Both target safety needs (physical and household).
-- **Belonging / social:** The Ad Council's *"Belonging Begins With Us"* PSA targets this directly. So does most beer marketing, most social-media platform marketing, and most family-oriented car commercials.
-- **Esteem:** **Dove** — the long-running self-esteem campaign (real bodies, anti-Photoshop messaging, "confidence-boosting boards" on Pinterest). The campaign sells soap as a vehicle for esteem.
-- **Self-actualization:** **Nike** — *"Find Your Greatness"* — explicitly targeted at self-actualization needs. Nike sells shoes and gear as the means; the message is about becoming who you're capable of being.
+The hierarchy is also a trade-off map. Lower-level appeals (physiological, safety) are universal — everyone needs food and security. The market is enormous and so is the competition. Higher-level appeals (esteem, self-actualization) are more specialized: fewer consumers are actively in the market at any moment, but the ones who are will pay premium prices to brands that address the need authentically. **Patagonia**'s mission — *"Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis"* — is a self-actualization play. Smaller market than Snickers. Higher margins. Stronger loyalty. The climb up the hierarchy takes decades and isn't reliably reversible; once a brand positions at a higher level, dropping back to functional-only appeals often destroys the equity that made the positioning work.
 
-### The trade-off — lower levels are universal but competitive; higher levels are specialized but powerful
+The second piece of psychology is **perception** — specifically, the three ways the consumer's perceptual system modifies the marketing information it receives:
 
-Every product category sits somewhere on Maslow's hierarchy, and the position determines who you compete with and how.
+**Selective attention** is the filter. The estimate for 2021 is that the average person encounters between 6,000 and 10,000 ads per day. No human processes all of them. The mind pays attention only to stimuli that feel relevant to current wants and needs. The car ad you never noticed last year becomes salient the moment you start considering a purchase. Nothing about the ad changed; your filter did.
 
-**Lower-level appeals (physiological, safety)** are universal. Everyone needs food, water, shelter, safety. The market is enormous, but the competition is also enormous. Snickers competes with every other candy bar, every other snack food, every other "I'm hungry" solution. The barriers to entry are low; the differentiation work is hard.
+**Selective distortion** is the reframing. Information that contradicts your existing beliefs gets interpreted in ways that reduce the contradiction. This is what happened with the Coke loyalists in the original Pepsi Challenge — shown results that suggested their preferred brand tasted worse, many reframed ("the test was rigged," "I prefer Coke's consistency," "taste isn't everything") rather than updating. Selective distortion is why showing consumers contradictory evidence often doesn't change minds; the evidence gets absorbed into the existing belief structure, not used to revise it.
 
-**Higher-level appeals (esteem, self-actualization)** are more specialized. Fewer customers feel actively motivated by self-actualization at any given moment; the ones who do are willing to pay premium prices to brands that authentically address that need. **Patagonia's** mission — *"Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis"* — is a self-actualization play for environmentally-conscious consumers. The market is smaller than Snickers's market. The margins are higher. The brand loyalty is stronger.
+**Selective retention** is the memory filter. Information that supports your existing attitudes gets remembered; information that contradicts them gets forgotten, even when both were encountered equally. The consumer who believes Brand X is high quality remembers the positive reviews and forgets the negative ones — not because they're lying, but because that's how memory works.
 
-The trade-off: a brand competing on lower-level needs has a bigger market but thinner differentiation. A brand competing on higher-level needs has a smaller market but durable differentiation. Most successful brands eventually try to climb the hierarchy — Nike started with shoes (functional / physiological) and now sells "Find Your Greatness" (self-actualization). Coca-Cola started as a beverage (physiological) and now sells "Open Happiness" (esteem / belonging). The climb takes decades and isn't always reversible — once a brand is positioned at a higher level, dropping back to lower-level appeals (price, function only) often dilutes the brand equity.
+<!-- → DIAGRAM: The three perceptual filters as a sequential funnel. Top: 6,000–10,000 daily stimuli enter. Filter 1: Selective Attention — only relevant stimuli pass. Filter 2: Selective Distortion — passing stimuli get reinterpreted to fit existing beliefs. Filter 3: Selective Retention — only belief-compatible information gets stored. Output: what the consumer actually "received" from the marketing message. Student should see how much of the original message is lost before it reaches memory. -->
 
-### Perception — selective attention, distortion, retention
+Return to the Coca-Cola question. A consumer who has grown up with Coke — who has a belief that Coke is the superior cola, whose identity is partly bound up in that preference, who has learned the positive associations through decades of advertising, who has a reference group that confirms the preference — is not drinking a liquid when they open a Coke. They are activating a self-concept. The brand passes through selective attention (they notice it because it matters to them), avoids selective distortion (the belief is already compatible with the experience), and gets selectively retained (the positive moments are what they remember). Pepsi wins the biochemical taste test. Coca-Cola wins the consumption experience. Both are real. They're measuring different things.
 
-Maslow explains *which* needs a customer is motivated by. **Perception** explains *how* they process the marketing messages competing for their attention.
+This is not a minor observation about a cola rivalry. It's the reason marketing is not engineering. Engineering optimizes the product. Marketing optimizes the relationship between the product and the person's perception of it. The same physical product, positioned differently — aimed at a different Maslow level, designed to pass different perceptual filters — is a different product from the consumer's point of view.
 
-**The estimate from 2021:** the average person encounters **between 6,000 and 10,000 ads per day**. No human can pay attention to all of them. The mind filters.
-
-**Selective attention** — paying attention only to stimuli that feel relevant to your current wants and needs, screening out the rest. The car ad invisible to you when you're not in the market becomes salient the moment you start considering a purchase.
-
-**Selective distortion** — interpreting information in ways that fit your preconceived beliefs. The Pepsi Challenge — Coca-Cola loyalists who chose Pepsi in blind tests then *re-rationalized* the result rather than abandoning their brand loyalty. Selective distortion is why simply showing consumers contradictory evidence often doesn't change minds; the evidence gets reframed inside their existing belief system.
-
-**Selective retention** — remembering information that supports your existing attitudes; forgetting information that contradicts them. A consumer who believes Brand X is high-quality remembers the positive reviews and forgets the negative ones, even when they read both equally.
-
-The three perceptual processes are why simple marketing — "tell consumers your product is better, with evidence" — often doesn't work. The consumer's perceptual system filters, distorts, and forgets. The marketing job is to design messages that survive those filters: relevant enough to attract selective attention, framed compatibly with existing beliefs to avoid selective distortion, repeated and emotionally anchored enough to overcome selective retention.
-
-### Beliefs, attitudes, and the Law of Effect
-
-The remaining psychological building blocks:
-
-- **Beliefs** — what the consumer thinks is true about a brand or product. *Coffee helps me focus. Coffee stains my teeth.* Both can be held simultaneously; both shape behavior.
-- **Attitudes** — composite of beliefs, feelings, and behavioral intentions toward an object. The vegetarian's attitude toward hamburgers integrates a belief (meat causes harm), a feeling (revulsion), and a behavioral intention (won't eat). Attitudes are stable, learned, and slow to change.
-- **Learning / Law of Effect** — actions followed by pleasant consequences get repeated; actions followed by unpleasant consequences don't. A positive iPhone experience produces a higher probability of buying the next Apple product. Behavior is learned; brands either earn the right to be repeated, or they lose customers who learned otherwise.
-
-### Common misconceptions
-
-**"Maslow predicts purchase order."** It directionally describes which needs are most motivating at any moment. It doesn't predict that a person buys all their food before any of their books. Real consumers buy across multiple levels simultaneously; Maslow says only that the lower levels generally take priority when they're threatened.
-
-**"Self-actualization marketing is for premium products only."** No. Many mass-market brands invoke self-actualization successfully — Nike isn't a premium brand by price, but its messaging is consistently self-actualizing. The level of the appeal is independent of the price point of the product.
-
-**"Perception is irrational."** It's bounded-rational. Perceptual filters exist because no system can process every input it receives. The filters often produce errors at the margin (the Pepsi paradox), but they exist for good reason.
+The remaining psychological building blocks follow from this. **Beliefs** are what the consumer thinks is true about a product — *this coffee helps me focus*, *this food stains my teeth* — and two contradictory beliefs can coexist and both shape behavior. **Attitudes** integrate beliefs, feelings, and behavioral intentions — the vegetarian's attitude toward hamburgers combines a belief (meat causes harm), a feeling (revulsion), and a behavioral intention (won't eat). Attitudes are stable, learned, and slow to change; you cannot usually talk someone out of an attitude by arguing with the belief, because the belief is only one component of three. **Learning**, in the behaviorist sense: actions followed by pleasant consequences get repeated. A positive first experience with a product raises the probability of a second purchase. A bad one lowers it. The brand either earns the right to be repeated, or it loses the customer who learned otherwise.
 
 ---
 
-## Integration — Influences, Process, and Psychology Together
+## The Ethical Consumer
 
-Three concepts. One consumer.
+A growing layer runs across all of this that the framework needs to account for: many consumers explicitly factor ethics into their buying, and the share is large enough to be a strategic variable.
 
-The **five categories of influence** (Concept 1) shape what the consumer cares about, who they listen to, and what context they're shopping in.
+A Statista poll found that 90 percent of US survey respondents said they would boycott a brand if they discovered the company engaged in irresponsible business practices. Mintel found that 56 percent of US consumers say they would no longer do business with organizations they believe are unethical. A Statista survey of US cosmetics consumers: 32 percent would "very likely" stop purchasing their favorite brand if the manufacturer tested on animals. A separate survey: 72 percent say they purchase from companies whose beliefs match theirs on environmental preservation and child labor.
 
-Inside that shaping, the **five-stage decision process** (Concept 2) walks the consumer from *I have a need* to *I bought a thing* to *I'm satisfied (or not)*. The process isn't always conscious, isn't always sequential, and isn't the same for every category — the four types of buying behavior tell you which decision-process shape applies.
+Decode this through the chapter's frameworks. The mechanism is not mysterious. Ethics maps onto personal factors (values) and cultural factors (shifting norms) in the influence taxonomy. It activates at the esteem and self-actualization levels of Maslow's hierarchy — *I am the kind of person who refuses to support this*. It triggers post-purchase dissonance when a consumer discovers, after purchase, that the brand they chose does not align with those values. And the discovery mechanism is social: a viral report on a brand's supply chain travels via reference groups at scale.
 
-Underneath both, **psychological mechanisms** (Concept 3) — Maslow's hierarchy, perception, beliefs, attitudes, learned associations — determine which needs feel motivating, which messages get through, which brands get remembered.
+Patagonia is the canonical case. The ethical claims are specific and documented: fair-trade certified for sewing, publicly disclosed first-tier suppliers, recycled materials, organic cotton, plastic bottles recycled into fleece, a take-back program for worn-out gear. The customer pays a premium for a product whose ethical attributes are part of $B$ in the value ratio. The ethics aren't decoration on top of the product; they are part of the product, in the same way the Coca-Cola brand is part of what the consumer experiences when they drink Coke.
 
-A marketer who understands all three layers can read a purchase decision the way a clinician reads symptoms. *Why is this consumer choosing Brand X over Brand Y?* Layer 1 question: which influence category is dominant — cultural, social, personal, psychological, situational? Layer 2 question: which decision stage are they in, and what type of buying behavior is the category driving? Layer 3 question: which level of Maslow's hierarchy is the purchase serving, and which perceptual filters might be in play?
+The discipline this requires: doing the underlying work *and* communicating it credibly. Doing the work without communicating it loses the value. Communicating without doing it is exposed by social media and produces the trust failure that the 56 percent boycott statistic describes. The brand cannot borrow ethical positioning without ethical operations. The consumers who care about this — and a majority of them do — have become quite good at telling the difference.
 
-### Ethical consumerism — the customer who buys "ethical"
+<!-- → TABLE: Ethical consumerism data summary. Rows: each survey statistic from this section. Columns: source, claim, percent. Caption notes the convergence: multiple independent surveys pointing at the same directional finding — ethical concern is a majority consumer behavior in the US across multiple product categories. -->
 
-A growing layer that runs across all three concepts: many consumers explicitly factor ethics into their buying.
+---
 
-The data:
+## Where This Chapter Fits
 
-- **A Statista poll: 90 percent of US survey respondents said they would boycott a brand if they discovered the company engaged in irresponsible business practices.**
-- **Mintel: 56 percent of US consumers say they would no longer do business with organizations they believe are unethical.**
-- **A 2017 Statista survey of US cosmetics consumers: 32 percent would "very likely" stop purchasing their favorite brand if the manufacturer tested on animals.**
-- **A separate survey: 72 percent of respondents say they purchase from companies whose beliefs match theirs on environmental preservation and child labor.**
+Chapter 2 gave you the value ratio: $V = B/P$, where $B$ is perceived benefits. This chapter is the inside of $B$ — the mechanism by which perceived benefits are constructed. They don't come from the product. They come from what the consumer brings to the product: their cultural context, their social relationships, their personal history, their psychological state, and the immediate situation of the purchase.
 
-This is influence (cultural and personal — values), in interaction with the decision process (an ethical violation triggers immediate post-purchase dissonance and often reverses brand loyalty), filtered through psychology (esteem and self-actualization motives — *I am the kind of person who refuses to support unethical business*).
+Chapter 3's strategic tools are only as good as the consumer model underneath them. A BCG matrix that misidentifies which product has high consumer involvement, or a SWOT that misreads which influence category is dominant in the category, produces strategic recommendations aimed at the wrong consumer.
 
-**Patagonia** is the canonical case. Mission: *"Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis."* Operational: fair-trade certified for sewing, publicly discloses all first-tier suppliers (mapping the rest down to farm level), products made from recycled materials and organic cotton, plastic soda bottles recycled into fleece jackets, take-back program for worn-out gear. Patagonia's customer is paying a premium for a product whose ethical attributes are part of $B$ in the value ratio. The ethics aren't separate from the product; they *are* part of the product.
+Chapter 7 — Segmentation, Targeting, Positioning — takes the five influence categories from Concept 1 as the substrate for segmentation. You cannot divide a market into useful groups without first identifying which variables produce meaningfully different buying behaviors. This chapter built those variables.
 
-**Chipotle** does a lighter version: sourcing ingredients from family farmers within a **130-mile radius** of each location where possible, eliminating GMO ingredients in response to public concern. The ethics are a positioning lever; the customer pays a small premium for a fast-food meal whose ingredients come with a story.
+Chapter 8 — Marketing Research — provides the methods for actually measuring what this chapter describes as inferable but not directly observable. Surveys, focus groups, observation, behavioral analytics: the toolkit that turns the buyer's black box from fully black into partially illuminated.
 
-The integration point: ethical consumerism is not a separate concept. It is a value layer (Chapter 2's $B$) that activates differently across consumers based on their cultural, social, and personal factors (Concept 1), shapes which decision stages they invest energy in (Concept 2), and connects to higher Maslow needs (Concept 3) — esteem and self-actualization rather than functional need.
+And every decision about every P in Chapters 12–22 is downstream of an assumption about consumer behavior. A product designed without understanding how consumers perceive it. A price set without understanding which Maslow level the purchase serves. A promotional message aimed at the wrong perceptual filter. Each is a marketing decision made about a consumer who lives only in the marketer's imagination.
 
-A brand that wants to compete on ethics has to do the underlying work *and* communicate it credibly. **Doing the work without communicating** loses the value. **Communicating without doing** is exposed by social media and produces the kind of trust failure Chapter 2 documented (the 56 percent boycott statistic).
+The discipline of this chapter — studying the real consumer rather than imagining them — is the corrective. It doesn't give you perfect access to the black box. Nothing does. But it gives you frameworks specific enough to be wrong about, which means they're specific enough to learn from.
 
 ---
 
 ## Exercises
 
-### Warm-up
+### Warm-Up
 
-**1. Classify your last five purchases.** List the last five things you bought, regardless of size. For each, name the type of buying behavior (complex / dissonance-reducing / habitual / variety-seeking) and which of the five categories of influence (cultural / social / personal / psychological / situational) was dominant. Where you're unsure, record the uncertainty.
+**1. Classify five purchases.** List the last five things you bought, regardless of size or category. For each, name (a) the type of buying behavior — complex, dissonance-reducing, habitual, or variety-seeking — and (b) which of the five influence categories was most dominant. Where you're genuinely unsure, record the uncertainty rather than forcing a clean answer.
 
-*Tests: Objectives 2, 3. Difficulty: Low.* Forces application of two frameworks to lived experience.
+*(Tests: Objectives 2, 3. Difficulty: Low. Forces application of both frameworks to lived experience before they feel abstract.)*
 
-**2. Walk a college decision through the five stages.** Take your decision to attend your current college (or a college you considered seriously). Write 1–2 sentences for each of the five stages of the decision process, identifying what specifically happened at each. Be honest about which stages you skipped or shortcut.
+**2. Walk a real decision through the five stages.** Take your decision to attend your current college — or a major purchase you made in the last year that involved real deliberation. Write one to two sentences for each of the five stages, describing what specifically happened. Be honest about which stages you skipped or collapsed into seconds, and name the heuristic, if any, that closed Stage 4 for you.
 
-*Tests: Objective 4. Difficulty: Low.* Tests recognition of the five-stage model in the student's own life.
+*(Tests: Objective 4. Difficulty: Low.)*
 
-**3. Match the campaign to Maslow.** For each of the following campaigns, identify which level of Maslow's hierarchy is being targeted and explain why:
+**3. Match the campaign to Maslow.** For each of the following campaigns, identify which level of Maslow's hierarchy is being targeted and explain in one sentence why:
 
 - **Geico:** *"15 minutes could save you 15 percent or more on car insurance."*
 - **De Beers:** *"A diamond is forever."*
 - **Apple:** *"Think different."*
-- **Subway (older campaign):** *"Eat fresh."*
+- **Lysol:** *"Practice Healthy Habits."*
 
-*Tests: Objective 5. Difficulty: Low.* Tests recognition of Maslow levels from real campaign language.
+*(Tests: Objective 5. Difficulty: Low.)*
+
+<!-- → TABLE: Student answer scaffold for Exercise 3 — three columns: Campaign / Brand, Maslow Level, One-Sentence Rationale. Four rows. Empty rationale column for student to fill. The table format prevents the student from vague answers like "higher needs" without naming the specific level and why. -->
 
 ### Application
 
-**4. Identify the heuristic.** Find three online product listings (Amazon, a retailer's site, anywhere with consumer reviews and prices). For each, identify which heuristic — *price = quality*, *brand loyalty*, *country of origin*, *most reviews*, *highest rating* — most consumers in the category likely use to make their decision. Then identify one specific consumer for whom a *different* heuristic would dominate, and explain why.
+**4. Identify the dominant heuristic.** Choose three product categories where you have made a purchase in the last six months. For each, identify which heuristic most consumers in that category likely use at Stage 4 — *price = quality*, *brand loyalty*, *country of origin*, *most reviews*, *highest rating*, or another you observe. Then identify one specific consumer segment for whom a *different* heuristic would dominate, and explain why.
 
-*Tests: Objective 7. Difficulty: Medium.* Forces the student to recognize that heuristic-use is segment-specific.
+*(Tests: Objective 7. Difficulty: Medium. Forces recognition that heuristic use is segment-specific, not universal.)*
 
-**5. Diagnose the perceptual failure.** Find a marketing campaign that you remember from the last six months but cannot recall the brand for. Reflect: which perceptual process (selective attention, selective distortion, or selective retention) most likely caused the failure? Then propose, in three sentences, a specific change to the campaign that would have fixed the perceptual failure.
+**5. Diagnose a perceptual failure.** Find a marketing campaign you remember from the last six months but cannot name the brand for. Identify which perceptual process — selective attention, selective distortion, or selective retention — most likely caused the failure. Then propose, in two to three sentences, one specific change to the campaign that would have corrected it.
 
-*Tests: Objective 6. Difficulty: Medium.* Tests recognition of perceptual mechanisms in real campaign performance.
+*(Tests: Objective 6. Difficulty: Medium.)*
 
-**6. Run the four-type matrix on your own category.** Pick a product category you understand well — gaming hardware, athletic wear, restaurant choice, anything. For each of the four types of buying behavior, write a one-paragraph profile of what a consumer in that quadrant looks like in your category. Then write a one-sentence description of how the marketing mix should differ across the four quadrants.
+**6. Map the four quadrants in a category you know.** Pick a product category you understand well — gaming hardware, athletic footwear, restaurant choice, coffee shops, streaming services, anything. For each of the four buying-behavior types, write a one-paragraph profile of what a consumer in that quadrant looks like in your chosen category. Then write one sentence describing how the marketing mix should differ across the four quadrants.
 
-*Tests: Objective 2. Difficulty: Medium.* Forces system-level application of the involvement × differentiation framework.
+*(Tests: Objective 2. Difficulty: Medium. Forces system-level application of the involvement × differentiation framework, not just label recognition.)*
 
 ### Synthesis
 
-**7. Map the hip-hop / sneaker mechanism to a different category.** The chapter's worked example tracked how hip-hop subculture reshaped the sneaker category from 1986 onward. Identify a different subculture-and-category pairing that has similarly reshaped consumer behavior over a decade or longer (e.g., yoga and athleisure, tech and casual workwear, indie music and craft beer, gaming and streaming services). Document at least three specific brand-endorsement or cultural-collaboration moments that show the mechanism in action.
+**7. Map the hip-hop/sneaker mechanism to a different category.** The chapter tracked how hip-hop subculture reshaped the sneaker category from 1986 onward. Find a different subculture-and-category pairing that has similarly reshaped consumer behavior over a decade or more — yoga and athleisure, indie music and craft beer, gaming and streaming, tech culture and casual workwear are possible starting points. Document at least three specific brand-collaboration or cultural-endorsement moments that show the mechanism in action. For each, name which of the five influence categories was doing the primary work.
 
-*Tests: Objectives 1, 3. Difficulty: Medium-high.* Tests transfer of the cultural/social/psychological framework across categories.
+*(Tests: Objectives 1, 3. Difficulty: Medium-high. Tests transfer of the cultural/social/psychological framework across categories.)*
 
-**8. Diagnose the Pepsi paradox.** Pepsi reliably won blind taste tests against Coca-Cola, yet Coca-Cola did not lose market share in the way the test results would have predicted. Using the chapter's frameworks, write a 250-word explanation of why. Cite at least one mechanism from each of the three concept sections.
+**8. Diagnose the Pepsi paradox.** Pepsi reliably won blind taste tests against Coca-Cola. Coca-Cola did not lose market share in the way those results would have predicted. Write a 250-word explanation of why, using at least one mechanism from each of the chapter's three main sections — the five categories of influence, the five-stage decision process, and the psychological mechanisms (Maslow, perception, beliefs/attitudes). Do not repeat the chapter's own explanation verbatim; apply the frameworks to reconstruct the reasoning yourself.
 
-*Tests: Objectives 1, 4, 6. Difficulty: Medium-high.* Forces integration across the chapter's three frameworks.
+*(Tests: Objectives 1, 4, 6. Difficulty: Medium-high. Forces integration across the chapter's three frameworks.)*
 
 ### Challenge
 
-**9. The ethics positioning audit.** Find a brand that explicitly positions on ethical consumerism — Patagonia, Allbirds, TOMS, Beyond Meat, Lush, Ben & Jerry's, anyone with a clearly visible ethics-as-positioning move. Conduct an audit: (a) which specific ethical claims does the brand make publicly, (b) what evidence does the brand publish to support those claims, (c) what would a hostile critic point to as a credibility gap, (d) how would the brand's positioning need to evolve if a credibility gap became public.
+**9. The ethics positioning audit.** Find a brand that explicitly competes on ethical consumerism — Patagonia, Allbirds, TOMS, Beyond Meat, Lush, Ben & Jerry's, or anyone with a visible ethics-as-positioning claim. Conduct a structured audit: (a) what specific ethical claims does the brand make publicly, (b) what evidence does it publish to support those claims, (c) what would a hostile critic point to as a credibility gap, (d) how would the brand's positioning need to evolve if that credibility gap became a public story.
 
-Then evaluate: is the brand's ethics positioning *durable* or *fragile*? What would make the difference?
+Then evaluate: is the brand's ethics positioning *durable* — hard to displace because the operations genuinely back it — or *fragile* — dependent on consumers not looking too closely? What would make the difference?
 
-*Tests: Objective 8. Difficulty: High.* Tests evaluative judgment about the relationship between ethics, evidence, and brand-positioning durability.
-
-**10. Design an experiment.** A consumer product company suspects that situational factors (lighting, music, smell) significantly influence in-store conversion. They have one budget and one quarter to run an experiment.
-
-Design the experiment. Specify (a) the dependent variable, (b) at least two independent variables, (c) how you would control for confounds, (d) what data you would collect, (e) what result would change the company's marketing strategy and what result would not, and (f) one ethical concern raised by the experiment that the company should address before running it.
-
-*Tests: Objectives 1, 6. Difficulty: High.* Tests integration of consumer-behavior theory with research design (a preview of Chapter 8).
-
----
-
-## Chapter Summary
-
-**What you can do now that you could not do before this chapter:**
-
-You can read a purchase decision — your own, a friend's, a stranger's — and identify the categories of influence shaping it, the decision stage it's in, the type of buying behavior the category is producing, the level of Maslow's hierarchy the purchase is serving, and the perceptual filters that will determine whether a marketing message reaches the consumer. You can predict, given a product category, what kind of marketing mix is most likely to work — content-heavy and reassurance-rich for complex buying; shelf-presence and consistency for habitual; novelty for variety-seeking; post-purchase reassurance for dissonance-reducing.
-
-**The one idea that matters most from this chapter:**
-
-Consumer behavior is not random, but it is also not directly observable. The buyer's black box model is honest about that limit. The interior of the consumer is partially inferable through frameworks (the five influence categories, the five-stage decision process, Maslow's hierarchy, the perceptual processes) and partially mysterious. A marketer who pretends to know the interior fully is wrong. A marketer who refuses to study it is also wrong. The discipline is studying the inferable parts rigorously and remaining humble about the mysterious parts.
-
-**The common mistake to watch for:**
-
-Reasoning from the marketer's own consumer behavior rather than from the target customer's. The single most common failure mode in introductory marketing is *imagining the customer rather than studying them*. A 24-year-old marketer designing a campaign for 60-year-olds will get it wrong unless they study 60-year-olds; reading their own intuition won't substitute. Consumer behavior research (Chapter 8) exists specifically to break this projection bias.
-
-**The Feynman test:**
-
-Close the book. Pick a product you bought in the last week. In two minutes, can you walk a friend through (a) which influence categories shaped the decision, (b) which decision stages you went through and which you skipped, (c) what type of buying behavior the category is, (d) what level of Maslow's hierarchy the purchase served, and (e) how the marketer who sold it to you most likely designed the campaign that reached you? If yes, you have internalized the chapter. If not, the gap tells you which concept section to reread.
+*(Tests: Objective 8. Difficulty: High. Tests evaluative judgment about the relationship between ethics, evidence, and brand-positioning durability.)*
 
 ---
 
 ## Connections Forward
 
-**Chapter 6 — Business Markets and Purchasing Behavior** runs a parallel investigation for business buyers. Most of this chapter's frameworks need adjustment because business buyers operate by different decision logic than consumer buyers — multiple decision-makers, longer time scales, formalized processes, derived demand. Both kinds of buyers exist; both need their own treatment.
+**Chapter 6 — Business Markets and Purchasing Behavior** runs a parallel investigation for organizational buyers. Most of this chapter's frameworks need adjustment: business buying involves multiple decision-makers, longer time scales, formalized processes, and derived demand — demand that exists only because another firm has a consumer-facing demand upstream. Both kinds of buyers exist in the marketplace; both need their own treatment.
 
-**Chapter 7 — Market Segmentation, Targeting, and Positioning (STP)** uses the influence categories from this chapter as the *substrate for segmentation*. You cannot segment consumers usefully without first understanding the variables that produce different consumer groups — which is exactly what Concept 1 of this chapter built.
+**Chapter 7 — Market Segmentation, Targeting, and Positioning** uses the influence categories from this chapter as the substrate for segmentation. The five categories are what produce meaningfully different consumer groups; you cannot segment without them.
 
-**Chapter 8 — Marketing Research** provides the methods for actually measuring the variables this chapter describes. Surveys, focus groups, observation, behavioral data — the research toolkit that turns the buyer's black box from a black box into a partially-illuminated one.
+**Chapter 8 — Marketing Research** provides the measurement methods. Surveys, focus groups, observation, behavioral analytics — the toolkit that makes the buyer's black box partially illuminated.
 
-**Chapter 10 — Marketing in a Diverse Marketplace** extends the cultural-factors lens of this chapter to the diversity of the modern domestic marketplace. The same human cognitive and social mechanisms operate across cultures; the specific content (what counts as a status symbol, what subcultures matter, which generational cohorts drive purchasing) varies dramatically.
+**Chapter 10 — Marketing in a Diverse Marketplace** extends the cultural-factors lens to the diversity of the modern domestic marketplace. The cognitive and social mechanisms operate across cultures; the specific content varies dramatically by group, and Chapter 10 is where that variation gets the treatment it deserves.
 
-**Chapters 12–22** then deploy the consumer-behavior insights of this chapter and the next into the design of products (Ch 12–14), prices (Ch 15), promotion (Ch 16–19), and place (Ch 20–21). Every P decision is downstream of an assumption about consumer behavior; this chapter taught you what those assumptions are made of.
+**Chapters 12–22** deploy all of this into the four Ps. Every product, price, promotion, and place decision is an implicit hypothesis about consumer behavior. This chapter taught you what those hypotheses are made of.
 
----
-
-*Voice anchor: Feynman × MKBHD hybrid. See `style/VOICE.md`.*
-*Source: OpenStax modules m00001–m00005. All statistics, brand examples, and historical claims drawn from the provided source text. The Wired Coffee Bar case study (m00005) is deferred to the bookmap as a candidate for Chapter 7 (segmentation/targeting) or Chapter 20 (distribution / direct relationships with community).*
 ---
 
 ## LLM Exercise — Chapter 5: Consumer Markets and Purchasing Behavior
@@ -492,17 +322,19 @@ something is breaking and the mechanism that would unstick it.
 
 **Preview of next chapter:** Chapter 6 adds B2B capability. The assistant will be able to map a buying center, identify a buy class (new task / modified rebuy / straight rebuy / blanket), and run the 8-stage business-buying process. Crucial for any brand that sells to businesses, not just consumers.
 
-
 ---
 
 ## AI Wayback Machine
 
-**Ernest Dichter** was pioneered "motivation research" in the 1940s — using psychoanalysis to understand consumer behavior.
+**Ernest Dichter** pioneered "motivation research" in the 1940s — using psychoanalysis to understand consumer behavior.
 
 **Run this:**
 
 ```
-Who is Ernest Dichter, and how does their work connect to consumer purchasing behavior we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who is Ernest Dichter, and how does their work connect to consumer
+purchasing behavior we covered in this chapter? Keep it to three
+paragraphs. End with the single most surprising thing about their
+career or ideas.
 ```
 
 → Search **"Ernest Dichter"** on Wikipedia.
