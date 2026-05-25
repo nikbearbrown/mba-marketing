@@ -2,234 +2,153 @@
 
 *Marketing research is what turns "I think customers want X" into "we have evidence that customers in segment Y want X under conditions Z." Without it, every other framework in this book is a hypothesis.*
 
-## Learning Objectives
+Here is a result worth sitting with.
 
-By the end of this chapter, you will be able to:
+In 2021, LEGO commissioned a study of nearly 7,000 parents and children aged 6 to 14 across seven countries to understand how gender stereotypes shape children's play. What they found: 83 percent of parents were likely to encourage girls to play dress-up, versus 17 percent for boys. Coding was pushed toward boys by 71 to 29. Sports by 76 to 24. The gaps were not subtle.
 
-1. Define marketing research and explain its role in turning marketing hypotheses into evidence-grounded decisions.
-2. Distinguish big data from marketing intelligence and explain the three Vs (volume, velocity, variety) of big data.
-3. Identify the three categories of marketing information sources — external data, internal data, competitive intelligence — and recognize when each is appropriate.
-4. Walk the seven-step marketing research process and identify which step a real research project is in.
-5. Distinguish primary from secondary data, and qualitative from quantitative data, and pick the right combination for a given research question.
-6. Match the four research designs (exploratory, descriptive, experimental/causal, ethnographic) to the appropriate research questions.
-7. Compare the four major data collection methods (observation, interviews, focus groups, surveys) on cost, depth, and generalizability.
-8. Distinguish probability from nonprobability sampling and explain why the choice affects what conclusions the research can support.
+LEGO launched a campaign — "Ready for Girls" — on October 11, 2021, the International Day of the Girl. They timed it. They built the creative around documented numbers. The campaign was not an act of corporate sentiment. It was an act of research made visible.
 
-## Prerequisites
+Here is what that result conceals: the discipline that produced it. Someone at LEGO had to decide that a vague belief — *gender stereotypes probably affect how kids play with our products* — was not good enough to build a campaign on. Someone had to specify: which countries, which ages, which behaviors to measure. Someone had to figure out that surveying 7,000 people across seven countries was the right scale to produce numbers you could act on. Someone had to make sure the questions weren't leading. Someone had to be prepared for the possibility that the data came back flat — that there was no gap, that the hypothesis was wrong.
 
-You should be familiar with the consumer-behavior frameworks from **Chapter 5** (the buyer's black box, the five categories of influence) and the segmentation frameworks from **Chapter 7** (the four consumer segmentation methods, the ADAMS criteria for evaluating segments). Marketing research is what populates those frameworks with empirical data; without research, segmentation is guessing.
-
-## Why This Chapter Matters
-
-Every chapter so far has named frameworks the firm uses to make decisions: $V = B/P$, the 4Ps, the three environments, BCG, SWOT, the buying center, segmentation methods, perceptual maps. All of those frameworks share an underlying assumption — that the firm has *information* to feed into them. Where does that information come from?
-
-Marketing research is the discipline of producing information good enough to make decisions on. It is also the discipline most commonly skipped, faked, or done badly in real marketing work — because research is expensive, slow, and often returns answers the marketer didn't want to hear.
-
-This chapter teaches the standard process: define the problem, develop a plan, choose data collection methods, design a sample, collect data, analyze, report. It also teaches what each step requires and what failure mode each step protects against. By the end of the chapter, you should be able to read any marketing claim — *"customers prefer our packaging"*, *"our segment is growing 20 percent annually"*, *"the campaign produced a 15 percent lift"* — and ask the right questions about how the underlying research was done.
-
-The single most useful skill this chapter teaches is the ability to recognize research that is *informally good enough to act on* versus research that *looks rigorous but doesn't actually answer the question being asked*. That skill is rarer than it should be.
+That whole chain of decisions, from vague belief to actionable evidence, is marketing research. This chapter is about how that chain works.
 
 ---
 
-## Concept 1 — Marketing Research, Big Data, and the Marketing Information System
+## What Marketing Research Actually Is
 
-### The motivating puzzle
+The American Marketing Association defines marketing research as the function that links the consumer, customer, and public to the marketer through information. That sounds abstract. The concrete version: marketing research is the discipline of producing information good enough to act on.
 
-In 2021, **LEGO** launched a research study of nearly **7,000 parents and children aged 6–14 across seven countries** to understand how gender stereotypes shape children's play with LEGO bricks. The study uncovered a sharp pattern. Parents were:
+It has four parts. Figuring out what information you need. Gathering it through deliberate methods. Analyzing it for signals that are actually decision-relevant. Communicating the findings to the people who will make the decisions.
 
-- **83 percent** likely to encourage **girls** to play dress-up vs. **17 percent** for boys
-- **81 percent** for **girls** to dance vs. **15 percent** for boys
-- **80 percent** for **girls** to bake vs. **20 percent** for boys
-- **71 percent** for **boys** to do computer coding vs. **29 percent** for girls
-- **76 percent** for **boys** to play sports vs. **24 percent** for girls
+Each part has standard practices and failure modes. The failure mode for part one is defining the problem too vaguely — *"help us understand our customers"* is not a research problem. The failure mode for part two is choosing methods that don't match the question. The failure mode for part three is treating correlation as causation, or cherry-picking the analyses that support the answer you wanted. The failure mode for part four is producing a report that is read and then ignored because it didn't connect to an actual decision.
 
-LEGO's response: launch the **"Ready for Girls" campaign** on October 11, 2021 — the **International Day of the Girl** — with a 10-step guide to collect ongoing information about how girls engage with LEGO. The campaign produced a series of stories about girls and creativity.
+The chapter covers all four parts. But before the process, two things about the information environment marketing research operates in.
 
-The puzzle the LEGO case introduces: research turned a vague hypothesis (*gender stereotypes affect creative play*) into specific actionable evidence (*here are the percentages, here is the gap*). The campaign that followed was not built on intuition; it was built on data the firm produced through deliberate research design. That is the discipline this chapter teaches.
+---
 
-### The mechanism — defining marketing research
+## Three Sources, One System
 
-The **American Marketing Association** defines marketing research as: *"the function that links the consumer, customer, and public to the marketer through information."* The AMA further specifies that marketing research *"specifies the information required to address these issues, designs the method for collecting information, manages and implements the data collection process, analyzes the results, and communicates the findings and their implications."*
+Marketing information comes from three places.
 
-Stripped of jargon: marketing research is the discipline of producing information good enough to act on. It has four parts: (1) figuring out what information you need, (2) gathering it through deliberate methods, (3) analyzing it for decision-relevant signals, (4) communicating the findings to the people who will make the decisions.
+**External data** originates outside the firm: customer surveys, competitor website reviews, social media mentions, industry reports, syndicated research subscriptions. External data captures what is happening in the market — where strategic shifts originate, what competitors are doing, what customers are saying publicly. The cost is real: subscriptions, labor to collect, time to analyze.
 
-Each of those four parts has standard practices, common failure modes, and ethical risks. The chapter walks each in turn.
+**Internal data** already exists inside the firm: sales records, promotional effectiveness data, pricing history, product launch results. Internal data gives a historical view — what worked, where targets were missed. Most firms underexploit their internal data. The data exists but isn't connected to decision-making. Someone asks how the Q3 promotion performed and finds the answer buried in a spreadsheet no one has opened since October.
 
-### The mechanism — three categories of marketing information
+**Competitive intelligence** is a specialized form of external data focused specifically on competitors — pricing, promotional reach, distribution channels, customer reviews, product positioning. It answers the question the value ratio poses from the outside: what $B$ are our competitors offering, and at what $P$?
 
-Marketing information comes from three sources:
+A research effort usually combines all three. The LEGO study used external data (the multi-country survey), internal data (existing customer demographics and sales history), and competitive intelligence (how other toy companies were positioned on gender).
 
-**External data.** Originates outside the organization. Customer service surveys, competitor website reviews, social media mentions, news articles, journal publications, third-party industry reports, syndicated research subscriptions. The advantage: external data captures what's happening *outside* the firm, which is where most strategic shifts originate. The cost: data is expensive (subscriptions, labor to collect, time to analyze), and not all sources are free.
-
-**Internal data.** Already exists inside the firm's databases. Sales records, promotional effectiveness data, pricing history, product launch information, R&D, logistics. Internal data gives the firm a historical view — what worked in the past, where goals were missed. Most firms underexploit their internal data; the data exists but isn't connected to decision-making.
-
-**Competitive intelligence.** A specialized form of external data focused on competitors. Pricing, promotional reach, distribution channels, product features, customer reviews. Used to evaluate the firm's position relative to alternatives and identify both vulnerabilities and gaps.
-
-A research effort typically combines all three. The LEGO campaign used external data (a multi-country survey of parents and children), internal data (LEGO's existing customer demographics and historical sales), and competitive intelligence (other toy companies' positioning on gender).
-
-### Big data and the marketing information system
-
-The volume of available data has changed the structure of research practice. **Big data** is the ever-growing set of records from point-of-sale systems, IoT-connected devices, social media, location data from mobile devices, and direct customer interactions. Big data is described through three Vs:
-
-- **Volume** — the amount of data, larger than ever before
-- **Velocity** — the rate at which new data is generated, accelerating
-- **Variety** — the diversity of data types and sources, expanding
-
-**Estimated global daily data creation: roughly 2.5 quintillion bytes.** A **2021 NewVantage Partners survey of senior executives at Fortune 1000 companies** found **96 percent reported success using big data and artificial intelligence**, and **99 percent are pursuing new or existing big data programs**.
-
-A **marketing information system (MIS)** is the infrastructure that collects, analyzes, and reports findings from internal and external data. The MIS is what turns the abstract availability of "big data" into actionable marketing inputs. Building a useful MIS is harder than buying access to data; the discipline lives in the analysis layer, not the storage layer.
+The infrastructure that collects, analyzes, and reports from these sources is called a **marketing information system** — the MIS. The MIS is not a database. It is a translation layer: it takes raw data from three sources and produces decision-relevant outputs. Building a useful MIS is harder than buying access to data; the discipline lives in the analysis layer, not the storage layer.
 
 <!-- → DIAGRAM: Marketing Information System architecture. Three input sources (internal data, external data, competitive intelligence) flowing into a central MIS, which produces three outputs (strategic decisions, tactical decisions, performance feedback). The student should see the MIS as a translation layer, not a database. -->
 
-### The trade-off — data abundance vs. signal extraction
+**On big data.** The volume of available data has fundamentally changed what the bottleneck is. Estimated global daily data creation runs roughly 2.5 quintillion bytes — from point-of-sale systems, connected devices, mobile location data, social media, direct customer interactions. Big data is described through three Vs: **volume** (more data than ever), **velocity** (generating faster than ever), **variety** (more types and sources than ever). A 2021 NewVantage Partners survey of senior executives at Fortune 1000 companies found 96 percent reported success using big data and AI, and 99 percent are pursuing big data programs.
 
-Big data creates an inversion of the historical research problem. A century ago, the constraint was *not enough data* — researchers spent most of their effort gathering observations. Today, the constraint is *signal extraction* — the data exists, but turning it into usable insight is the bottleneck.
+The inversion this creates: a century ago, research was constrained by not enough data — researchers spent most of their effort gathering observations. Today, the constraint is signal extraction. The data exists. Turning it into usable insight is the bottleneck. The discipline shifts from *how do we get more data* to *what question are we actually trying to answer before we touch the data.* Researchers who start with the dataset drown in correlations. Researchers who start with the question use the data efficiently.
 
-The trade-off forces a new discipline: **identify the specific question the research must answer before touching the data**. Researchers who start with the data ("what does this dataset tell us?") drown in correlations. Researchers who start with the question ("which channel produces the highest conversion among our college-student segment?") use the data efficiently.
-
-This is also why the marketing research process (Concept 2) starts with *define the problem*, not *collect data*. The order matters.
-
-### Common misconceptions
-
-**"Big data answers questions automatically."** Big data answers questions someone has carefully framed. Without the framing, the data produces patterns that may or may not be causal, predictive, or relevant.
-
-**"Internal data is less valuable than external data."** Often the reverse. Most firms have rich internal data they don't fully analyze; collecting more external data while ignoring internal data is a common waste.
-
-**"Marketing intelligence is the same as marketing research."** Related but distinct. Marketing intelligence is the *information output* — what the firm knows about the market. Marketing research is the *production process* — the deliberate effort to gather and analyze information. Intelligence accumulates passively; research is intentional.
+This is why the research process starts with *define the problem*, not *collect data*. The order matters.
 
 ---
 
-## Concept 2 — The Seven-Step Marketing Research Process
+## The Seven-Step Process
 
-### The motivating puzzle
+A small business planning to open needs to know whether there's demand before they sign a lease. A Fortune 100 brand needs to know whether a campaign will work before they spend $40 million. The research discipline scales, but the sequence is the same.
 
-A new entrepreneur wants to open a small business in their community. They could start by buying a storefront, ordering inventory, and hoping customers come. Most who do this fail. The ones who succeed usually do something different: they run research first. Specifically, they do a sequence: define what they're investigating, plan how to investigate it, collect data, analyze, decide.
+**Step 1 — Define the problem.** The most critical step and the most commonly done badly. A good problem definition specifies what is being investigated, for whom, and what questions the research must answer to inform a decision. *"Why are cat owners not buying our new cat toy subscription service?"* is a defined problem. *"Help us understand our customers"* is not. The rest of the process cannot work without this step.
 
-The seven-step framework that follows is what professional marketing researchers do for the same reason — and it works at any scale, from a one-person startup to a Fortune 100 brand campaign.
+**Step 2 — Develop the research plan.** Decide what kind of data is needed, how it will be collected, on what timeline, at what budget. Two key choices here.
 
-### The mechanism — seven steps
+First: **primary versus secondary data**. Primary data is collected specifically for the current project — surveys, focus groups, observations, experiments. It is current and tailored, but expensive and slow. Secondary data already exists for other purposes — census data, journal articles, internal sales records, syndicated research subscriptions. It is cheap and fast, but it may be outdated, mis-targeted, and equally available to every competitor in the category.
 
-**Step 1 — Define the problem.** Articulate what specifically needs to be investigated. *"Why are cat owners not buying our new cat toy subscription service?"* is a defined problem. *"Help us understand our customers"* is not. The defined problem includes a target population for research (similar to the target market from Chapter 7) and explicit research objectives (the questions the research must answer to inform a decision).
+Second: **research design**. Four standard types. **Exploratory** research generates general understanding of a new or poorly mapped territory. Qualitative methods — focus groups, interviews, secondary data review — are the primary tools. Used early, when the landscape is unclear. **Descriptive** research describes a market situation or measures a specific behavior, attitude, or opinion of a defined group. Usually quantitative; surveys are the most common method. The LEGO study was descriptive. **Experimental or causal** research establishes cause-and-effect between variables. A/B testing is the canonical form: group A sees one treatment, group B sees another, the difference in outcome reveals causation. **Ethnographic** research observes people interacting with products in their natural environment — not in a research facility, but at home, at work, in the store. Used when the question is *how do people actually use this in real life?* Baking soda is the classic case: observation revealed it was being used as deodorizer, toothpaste, polish, and baking ingredient simultaneously — uses the manufacturer didn't know about and couldn't have discovered from a survey.
 
-**Step 2 — Develop the research plan.** Decide what kind of data is needed, how it will be collected, on what timeline, at what budget. Two key choices:
+**Step 3 — Select the data collection method.** Match method to research question. More on this below.
 
-- **Primary vs. secondary data.** **Primary data** is collected specifically for the current project — surveys, focus groups, observations, experiments. **Secondary data** already exists for other purposes — census data, journal articles, internal sales records, syndicated research. Primary data is current and tailored but expensive and slow; secondary data is cheap and fast but may be outdated, mis-targeted, and equally available to competitors.
+**Step 4 — Design the sample.** Most research can't survey the entire population — that's a census. A sample surveys a portion. Sample design specifies who is eligible (the **sample frame**), what constitutes one respondent (the **sampling unit**), and how many respondents are needed (the **sample size**). The sampling method — how specific respondents are selected — determines what conclusions the research can support.
 
-- **Research design.** Four standard designs:
-  - **Exploratory** — generate general understanding of a new topic. Qualitative methods (focus groups, interviews, secondary data review). Used early in a project when the landscape is unclear.
-  - **Descriptive** — describe a market situation or define an opinion / attitude / behavior of a group. Usually quantitative; surveys are the most common method. The LEGO study was descriptive.
-  - **Experimental / causal** — establish cause-and-effect between variables. **A/B testing** is the canonical example: group A sees one treatment, group B sees another, and the comparison reveals which causes the desired outcome.
-  - **Ethnographic** — observe people interacting with products in their natural environment. Used when the question is *how do people actually use this in real life?* Baking soda is the classic ethnographic case — used as deodorizer, toothpaste, polish, and baking ingredient; observation reveals which uses dominate.
+**Step 5 — Collect the data.** Execute the plan. Manage data quality, response rates, and adherence to ethical research standards: informed consent, data privacy, honest reporting.
 
-**Step 3 — Select the data collection method.** Match method to research question (Concept 3 covers this in depth).
+**Step 6 — Analyze the data.** Quantitative data goes to statistical analysis — frequencies, means, correlations, regressions, significance tests. Qualitative data goes to coding and theme identification. Both types often combine in the analysis phase: the quantitative data tells you *what proportion*, the qualitative data tells you *why*.
 
-**Step 4 — Design the sample.** Most research can't survey the entire population (that's a *census*); instead it surveys a *sample*. Sample design includes the **sample frame** (who's eligible — e.g., college students who live on campus), the **sampling unit** (each individual respondent), and the **sample size** (how many respondents). The sampling method matters enormously (Concept 3).
-
-**Step 5 — Collect the data.** Execute the plan. Manage data quality, response rates, and adherence to ethical research standards (informed consent, data privacy, honest reporting).
-
-**Step 6 — Analyze the data.** Turn raw responses into insight. Quantitative data → statistical analysis (frequencies, means, correlations, regressions, significance tests). Qualitative data → coding, theme identification, narrative summary. Both types often combine in the analysis phase.
-
-**Step 7 — Report findings.** Communicate insights to decision-makers. A research report that doesn't change a decision is a report that wasn't read carefully or wasn't useful in the first place; the report's effectiveness is judged by whether it produces action, not by its length or polish.
+**Step 7 — Report findings.** Communicate findings to decision-makers in a form that produces action. A research report that doesn't change a decision is a report that wasn't useful. The report's effectiveness is judged by whether it answers the question defined in Step 1, not by its length or polish.
 
 <!-- → DIAGRAM: Seven-step marketing research process as a horizontal flow. Each step labeled with its activity and primary deliverable. Arrows show forward flow; a feedback arrow from Step 7 back to Step 1 indicates that completed research often surfaces new questions. -->
 
-### The trade-off — depth vs. scale
+---
 
-The key strategic choice within the research process is the depth-vs-scale trade-off:
+## The Depth-vs-Scale Trade-off
 
-**Qualitative methods** — interviews, focus groups, ethnography — produce rich understanding of *why* customers do what they do. The findings are deep and explanatory. They are also unrepresentative — 12 people in a focus group cannot tell you what the market thinks. You learn *what's possible*, not *what's typical*.
+The key strategic choice inside the research process is one that cannot be fully resolved — only managed.
 
-**Quantitative methods** — surveys, large-scale experiments, behavioral data — produce statistical generalizability. The findings tell you what percentage of the population believes or does what. They are also shallow — the survey question reveals the answer chosen, not the reasoning behind it. You learn *what's typical*, not *why*.
+**Qualitative methods** — interviews, focus groups, ethnography — produce rich understanding of *why* customers do what they do. Twelve people in a focus group generate more explanatory insight than 12,000 survey responses. But those twelve people cannot tell you what the market thinks. You learn *what's possible*, not *what's typical*. The findings are deep and unrepresentative simultaneously.
 
-The trade-off is unresolvable at any single method. The fix is **mixed methods**: qualitative research first to map the territory and generate hypotheses; quantitative research second to test the hypotheses at scale. The LEGO study likely did this — qualitative interviews with parents and children to understand what gender norms looked like, then a 7,000-person quantitative survey to measure how widely those norms applied.
+**Quantitative methods** — surveys, large-scale experiments, behavioral analytics — produce statistical generalizability. They tell you what percentage of the population believes or does something, with a confidence level you can calculate. But the survey question reveals the answer chosen, not the reasoning behind it. You learn *what's typical*, not *why*. The findings are wide and shallow simultaneously.
 
-### Common misconceptions
-
-**"Surveys are the gold standard."** Surveys are *one* method, well-suited to descriptive questions and large samples. They're poorly suited to questions like *why do customers say one thing in the survey but do another in real life?* That kind of question needs ethnographic or experimental research.
-
-**"Larger samples are always better."** A larger sample improves statistical precision but doesn't fix sample bias. A poorly drawn sample of 10,000 people produces less reliable results than a well-drawn sample of 1,000.
-
-**"Research is for big companies."** Research scales down. A small business can run a 50-person customer survey, a 6-person focus group, or 10 in-store observations and produce meaningful evidence. The methodology is the same; only the scope is smaller.
+No single method resolves the trade-off. The standard fix is **mixed methods**: qualitative research first to map the territory and generate hypotheses, quantitative research second to test the hypotheses at scale. The LEGO study almost certainly ran this way — qualitative interviews with parents and children to understand what gender norms looked like in practice, then a 7,000-person quantitative survey to measure how widely those norms held across seven countries.
 
 ---
 
-## Concept 3 — Data Collection Methods and Sampling
+## Four Data Collection Methods
 
-### The motivating puzzle
+**Observation.** Watch what people actually do. Unobtrusive observation — one-way mirrors, website analytics recording every click — captures real behavior without the bias of subjects performing for the observer. Mechanical observation scales beyond what humans can track: vehicle counters at billboards, customer-counting cameras at store entrances, app engagement telemetry. Observation tells you *what* but not *why*: you see the behavior without understanding the reasoning.
 
-Two firms launch product surveys for the same product category. Firm A surveys 500 of its existing customers. Firm B surveys 500 randomly selected adults across the country. Both firms get a 70 percent positive response rate. Both firms report *"customers love our product."*
+**Interviews.** One-on-one conversations that allow the interviewer to ask follow-up questions, probe specific responses, and build genuine understanding from each person. Strength: depth, customization. Weakness: one respondent at a time — expensive, slow, small sample sizes.
 
-The two reports are not comparable. Firm A surveyed a self-selected group already buying the product — the 70 percent positive rate is unsurprising and reveals nothing about non-customers. Firm B surveyed a random sample including people who'd never heard of the product — the 70 percent is far more meaningful, because it includes people with no prior commitment.
+**Focus groups.** Typically eight to twelve people led by a moderator, asked to discuss a topic and build on each other's responses. The synergy is real: one participant's insight prompts another's. Good for exploratory research, rapid hypothesis generation, early-stage concept testing. Weaknesses: dominant personalities can suppress quieter respondents; results are qualitative and resist statistical summary. *"The focus group preferred Option A seven-to-three"* is a descriptive fact about twelve people, not a market-level finding.
 
-The same data collection method (a survey) with the same sample size (500) produces different evidentiary value depending on *how the sample was constructed*. That is the discipline of sampling.
-
-### The mechanism — four data collection methods
-
-**Observation.** Watch what people actually do. Two flavors:
-
-- **Unobtrusive observation** — subjects don't know they're being observed. A one-way mirror in a retail store; analytics on a website that records every click. Captures real behavior without the bias of subjects performing for the observer.
-- **Mechanical observation** — technology does the observing. Vehicle counters at billboards. Customer-counting cameras at store entrances. App analytics. Scales beyond what humans can manually track.
-
-Strengths: behavioral data captures *what people actually do*, not what they say they do (which is often different). Weaknesses: observation tells you *what* but not *why* — you see the action without understanding the reasoning.
-
-**Interviews.** One-on-one conversations with respondents. The interviewer can ask follow-up questions, probe specific responses, and get nuanced understanding from each person. Strengths: depth, customization. Weaknesses: time-intensive (one respondent at a time); expensive; sample size usually small.
-
-**Focus groups.** A small group (typically **8–12 people**) led by a moderator, asked to discuss a topic and build on each other's responses. Strengths: synergy from group discussion (one participant's insight prompts another's), more respondents per hour than interviews, good for exploratory research. Weaknesses: dominant personalities can suppress others' contributions; reserved participants may stay silent; results are qualitative and resist easy summary statistics.
-
-**Surveys.** Standardized questions delivered to many respondents. Four delivery modes:
-
-- **Mailed surveys** — sent through postal mail. Reach: large; convenience: high for respondent. Weaknesses: expensive (postage both ways), slow (weeks to compile), risk of manual data-entry errors.
-- **Phone surveys** — collected by phone call. Real-time; respondent can clarify questions. Weaknesses: respondents increasingly avoid calls from unknown numbers; subject to the **Telephone Consumer Protection Act of 1991**, which prohibits calls before 8:00 AM or after 9:00 PM in the recipient's time zone.
-- **In-person surveys** — door-to-door, intercept (mall / public location), or workplace. Used by the US Census Bureau as the follow-up method when households don't return the mailed census. Weaknesses: time-intensive labor; respondent reluctance; privacy concerns for sensitive questions.
-- **Electronic surveys** — email links, web forms, QR codes. Cheapest and fastest to deploy. Weaknesses: spam-filter risk, low response rates, sample skews toward digitally engaged populations.
+**Surveys.** Standardized questions delivered to many respondents. Four delivery modes: mailed (large reach, expensive, slow); phone (real-time clarification, subject to the Telephone Consumer Protection Act of 1991, which prohibits calls before 8:00 AM or after 9:00 PM in the recipient's time zone); in-person (used by the US Census Bureau as follow-up when households don't return the mailed form); electronic (cheapest and fastest, response rates are low, samples skew toward digitally engaged populations).
 
 <!-- → TABLE: Four survey methods × four characteristics (cost, speed, reach, response quality). Rows: Mailed / Phone / In-person / Electronic. The student should see the trade-off pattern: methods that reach further tend to have lower response quality, and vice versa. -->
 
-### The mechanism — sampling
+---
 
-A **census** surveys the entire population. The US Census attempts this every 10 years for the US population; it is expensive, slow, and even with the federal government's resources, response rates require follow-up door-to-door collection. For most marketing questions, a census is impractical.
+## Sampling: The Choice That Determines What You Can Conclude
 
-A **sample** surveys a portion of the population. The sample design controls what conclusions the research can support.
+Two firms survey 500 people each about the same product. Firm A surveys 500 of its existing customers. Firm B surveys 500 randomly selected adults across the country. Both get a 70 percent positive response. Both report "customers love our product."
 
-**Sample frame** — the eligible population (e.g., "college students who live on campus," "small-business owners with fewer than 10 employees").
+The two results are not comparable. Firm A surveyed people already buying the product — the 70 percent is unsurprising and reveals nothing about non-customers or the broader market. Firm B surveyed a random sample that includes people who have never heard of the product — the 70 percent is genuinely informative. Same method. Same sample size. Completely different evidentiary value. The difference lives entirely in how the sample was constructed.
 
-**Sampling unit** — each respondent (the individual student, the individual business owner).
+A **census** surveys the entire population. Impractical for most marketing questions. The US Census attempts it every ten years for the US population, with federal enforcement authority, and still requires door-to-door follow-up.
 
-**Sample size** — how many respondents. Driven by the size of the population, the desired confidence level, the variability of the population, the budget.
+A **sample** surveys a portion. Sample design has three components. The **sample frame** defines who is eligible — "college students who live on campus," "small-business owners with fewer than ten employees." The **sampling unit** is each individual respondent. The **sample size** is how many respondents, driven by the population's size, the desired confidence level, the population's variability, and the budget.
 
-Two main sampling categories:
+**Probability sampling.** Every member of the sample frame has a known probability of being selected. Simple random sampling — the purest form — gives every eligible person an equal chance of inclusion. Stratified random, cluster, and systematic sampling preserve the probability property while adjusting for cost or subgroup coverage needs. Probability samples support statistical inference: results from the sample can be extrapolated to the population with measurable confidence. This is the sampling method required when the research must produce market-level claims.
 
-**Probability sampling.** Every member of the sample frame has a known probability of being selected. The standard form is **simple random sampling** — every eligible person has an equal chance of being included or excluded. Other forms (stratified random, cluster, systematic) preserve the probability property while adjusting for cost or specific subgroup needs. Probability samples support statistical inference: the results from the sample can be extrapolated to the population with measurable confidence.
+**Nonprobability sampling.** The probability of selection is unknown or unequal. Convenience sampling (whoever is available), volunteer sampling (whoever responds), snowball sampling (referrals from other respondents). Cheaper and faster than probability sampling. The limitation: you can describe what your respondents said, but you cannot statistically infer what the broader population thinks. Appropriate for exploratory research, early hypothesis generation, low-stakes concept testing — not for market-sizing or segment-share claims.
 
-**Nonprobability sampling.** The probability of selection is unknown or unequal. Examples: convenience sampling (whoever's available), volunteer sampling (whoever responds), snowball sampling (referrals from other respondents). Nonprobability samples are cheaper and faster but limit the conclusions you can draw — you can describe what your respondents said, but you can't statistically infer what the broader population thinks.
-
-The trade-off forces a discipline: **match the sampling method to the type of conclusion the research must support**. Research that needs statistical generalization (market sizing, segment-share estimates) requires probability sampling. Research that needs hypothesis generation (early exploration, idea testing) can use nonprobability sampling without invalidating the findings — as long as the report explicitly says the conclusions are exploratory.
-
-### Common misconceptions
-
-**"Random sample = anyone who responds."** No. A random sample is one where every member of the sample frame had an equal probability of being selected *before* responding. A self-selected group of online survey respondents is convenience sampling, not random sampling, regardless of how it's labeled.
-
-**"Larger response rate = better data."** Response rate matters, but response *bias* matters more. A 90 percent response rate from a biased sample is worse than a 30 percent response rate from a representative one.
-
-**"Focus groups produce statistical findings."** They produce qualitative findings. A statement like *"the focus group preferred Option A 7-to-3"* is descriptively accurate but should never be reported as if it represents the broader market.
+The discipline: match the sampling method to the type of conclusion the research must support. Researchers who use convenience samples and then report market-level claims are not running bad statistics — they are making a logical error about what their evidence can support.
 
 ---
 
-## Integration — Research Ethics and the Trust Layer
+## Research Ethics: The Layer That Makes Everything Else Valid
 
-Marketing research operates inside an ethical framework that affects what data the firm can legitimately collect and how findings can be used.
+Marketing research operates inside an ethical framework. Violating it doesn't just create legal or reputational risk — it produces bad data. Participants who don't trust the research process self-protect: they give socially desirable answers, lie about their actual behavior, or refuse to participate in future research. Bad ethics poisons the pipeline.
 
-**Informed consent.** Research participants should know they are participating in research, understand the purpose, and consent before data is collected. Unobtrusive observation in public spaces (counting passersby) usually doesn't require consent; observation in private contexts or collection of personal data does.
+**Informed consent.** Research participants should know they are participating in research, understand the purpose, and consent before data is collected. Unobtrusive observation in public spaces — counting foot traffic — usually doesn't require consent. Observation in private contexts or collection of personal data does.
 
-**Data privacy.** Respondent data should be stored securely, used only for the stated purpose, and anonymized when reported. The **General Data Protection Regulation (GDPR)** in the EU and the **California Consumer Privacy Act (CCPA)** are the main legal frameworks; both impose specific requirements for consumer data collection, storage, and deletion.
+**Data privacy.** Respondent data should be stored securely, used only for the stated purpose, and anonymized in reported findings. The **General Data Protection Regulation (GDPR)** in the EU and the **California Consumer Privacy Act (CCPA)** impose specific requirements for consumer data collection, storage, and deletion. Both carry enforcement teeth.
 
-**Honest reporting.** The findings reported should reflect what the data actually showed. This includes reporting null results (when the research found no effect), reporting unfavorable findings (when the data contradicts the firm's preferred narrative), and avoiding cherry-picking or p-hacking (selectively presenting only the analyses that produced favorable results). The discipline is harder than it sounds; firms commissioning research often pressure researchers toward findings that support pre-existing decisions.
+**Honest reporting.** The findings reported should reflect what the data actually showed — including null results, including unfavorable findings, including the absence of statistical significance when the effect was small. The discipline is harder than it sounds. Firms commissioning research often pressure researchers toward findings that support pre-existing decisions. The temptation to cherry-pick the analysis that produces the favorable result — a practice called p-hacking — is real and common. Resisting it is the researcher's professional obligation.
 
-**Respect for participants.** Research should not waste participants' time, mislead them about the research purpose, or use their participation against them. The American Marketing Association's Statement of Ethics codifies these principles formally.
+The connection to Chapter 2 is direct. The value ratio depends on the customer's perception of $B$, and perception is built on trust. A firm that treats research participants with integrity builds the data foundation for accurate strategy. A firm that treats them as a means to a predetermined end gets data that is confidently, precisely wrong — and acts on it accordingly.
 
-The trust layer is consequential because research that violates ethics produces unreliable findings (participants self-protect, give socially desirable answers, or refuse future participation) and exposes the firm to legal and reputational risk.
+---
 
-The connection to Chapter 2's value framework is direct: $V = B/P$ depends on the customer's perception, and the customer's perception is shaped by their trust in the firm's research practices. A firm that treats research participants well builds the data foundation for accurate marketing; a firm that treats them poorly poisons its own customer pipeline.
+## What This Gives You
+
+Here is the test. Pick a marketing claim you have encountered recently — *"84 percent of customers prefer our product,"* *"the campaign produced a 15 percent lift,"* *"our segment is growing 20 percent annually."* Ask five questions.
+
+What research design produced this? Exploratory — we don't know yet. Descriptive — we measured something. Experimental — we established a cause. Ethnographic — we watched people in context.
+
+Was the sample probability or nonprobability? If nonprobability, can the claim legitimately extend beyond the people surveyed?
+
+What data collection method was used? Survey responses are what people say they think. Behavioral observation is what they actually do. These are often different.
+
+What biases might affect the result? Leading questions in the survey instrument. Social desirability bias — respondents saying what sounds good rather than what is true. Non-response bias — the people who didn't participate being systematically different from those who did.
+
+What does the research actually support, and what is the marketing claim inferring beyond what the evidence supports?
+
+Most of the time — not all the time, but most — the gap between what the research supports and what the marketing claims is wide enough to drive through. This chapter is how you see the gap.
 
 ---
 
@@ -237,106 +156,66 @@ The connection to Chapter 2's value framework is direct: $V = B/P$ depends on th
 
 ### Warm-up
 
-**1. Classify the data source.** For each scenario, identify whether it's primary or secondary data, and internal or external:
+**1. Classify the data.** For each of the following, identify whether the data is (a) primary or secondary, and (b) internal or external:
 
-- A retailer's monthly sales figures pulled from its POS system.
-- A US Census Bureau report on household income.
-- A focus group conducted last week to test a new logo.
+- A firm's own sales records from the past two years.
+- A US Census Bureau report on household income, downloaded today.
+- Focus group results the firm commissioned last month to test a new product concept.
 - A competitor's pricing scraped from their website.
-- An industry report from a paid research subscription.
+- A paid industry report from a syndicated research subscription.
 
 *Tests: Objectives 3, 5. Difficulty: Low.*
 
-**2. Match the research design to the question.** For each research question, identify which of the four research designs (exploratory, descriptive, experimental/causal, ethnographic) is most appropriate:
+**2. Match the research design.** For each research question, identify which design is most appropriate — exploratory, descriptive, experimental/causal, or ethnographic — and explain the match in one sentence.
 
-- "What percentage of our customers are aware of our new product feature?"
-- "Why do customers abandon their shopping carts at the payment screen?"
-- "Does package design A produce higher sales than design B?"
-- "How do users actually use our app during their morning commute?"
+- "What percentage of our existing subscribers are aware of our new premium tier?"
+- "Why do users abandon the checkout flow at the payment screen?"
+- "Does a green 'Add to Cart' button produce more conversions than an orange one?"
+- "How do families actually use our meal-kit service on a typical weeknight?"
 
 *Tests: Objective 6. Difficulty: Low.*
 
-**3. Identify the sampling method.** For each scenario, identify whether it's probability or nonprobability sampling:
+**3. Classify the sampling method.** For each scenario, identify whether the sampling method is probability or nonprobability, name the specific type, and state in one sentence what conclusions it can and cannot support.
 
-- A researcher randomly draws 100 names from a list of all registered alumni.
-- A marketer surveys customers who happen to be in the store on a given afternoon.
-- A team posts a survey on social media and uses whoever responds.
-- A government statistician systematically selects every 50th household from a sorted list.
+- A researcher randomly draws 200 names from a complete list of all registered loyalty-program members.
+- A marketer surveys shoppers who happen to be in the store on a given Saturday afternoon.
+- A team posts a survey on the brand's Instagram and uses whoever responds.
+- A researcher selects every 50th customer from a sorted list of 10,000 recent purchasers.
 
 *Tests: Objective 8. Difficulty: Low.*
 
 ### Application
 
-**4. Design a 7-step research project.** A small coffee shop wants to know whether to introduce vegan pastries. Walk all 7 steps of the marketing research process — for each step, write 1–2 sentences specifying what should happen.
+**4. Walk the seven steps for a real question.** A regional gym chain wants to understand why member cancellations spike in February and March each year. Walk all seven steps of the marketing research process. For each step, write two to three sentences specifying what should happen — what decisions are made, what deliverable is produced, what failure mode the step protects against.
 
 *Tests: Objective 4. Difficulty: Medium.*
 
-**5. Choose a data collection method.** A subscription box company wants to understand why subscribers churn after 3–6 months. Recommend a primary data collection method (observation / interview / focus group / survey, including delivery mode). Justify the choice in 200 words, addressing depth vs. scale and cost.
+**5. Choose and justify a data collection method.** A direct-to-consumer skincare brand wants to understand why customers who purchased once never repurchase. The brand has a $15,000 budget and six weeks. Recommend a primary data collection method — observation, interviews, focus groups, or survey (name the delivery mode). Justify your choice in 200 words, explicitly addressing the depth-vs-scale trade-off and why the alternatives are less suited to this specific question.
 
-*Tests: Objective 7. Difficulty: Medium.*
+*Tests: Objectives 5, 7. Difficulty: Medium.*
 
-**6. Build a sample plan.** A regional restaurant chain wants to estimate customer satisfaction across all locations. Define: (a) the sample frame, (b) the sampling unit, (c) approximate sample size, (d) probability or nonprobability sampling, and (e) one specific bias risk and how to mitigate it.
+**6. Diagnose the sampling problem.** A consumer electronics firm wants to claim that "82 percent of users are satisfied with our product." Their research: an email survey sent to customers who registered their product online, with a 12 percent response rate. Identify at least three distinct bias or evidentiary problems with this research. For each problem, name the type of bias or error, explain how it affects the 82 percent figure, and propose one specific design change that would reduce that problem.
 
 *Tests: Objective 8. Difficulty: Medium.*
 
 ### Synthesis
 
-**7. Critique a published marketing claim.** Find a published marketing claim — *"X percent of customers prefer our product,"* *"our segment is growing Y percent annually,"* *"the campaign produced Z lift."* Investigate the underlying research as much as is publicly available. Evaluate: (a) what kind of research design was used, (b) was the sample probability or nonprobability, (c) what biases might affect the result, (d) what conclusions does the research support and what conclusions does it not support.
+**7. Apply the five-question test to a real claim.** Find a published marketing claim — a brand's market-share figure, a campaign performance number, a survey result reported in a press release or news article. Apply the five questions from the chapter's closing section: research design, probability vs. nonprobability sampling, data collection method, plausible biases, and what the research actually supports versus what the claim asserts. Write 300–400 words. Where the underlying methodology is not publicly disclosed, note that explicitly and explain what you would need to evaluate the claim properly.
 
 *Tests: Objectives 4, 6, 8. Difficulty: Medium-high.*
 
-**8. Combine quantitative and qualitative.** A streaming service wants to understand why subscriber growth has plateaued in a specific demographic. Design a mixed-methods research plan: one qualitative phase (specifying the method and why) and one quantitative phase (specifying the method, sample design, and why). Show how the two phases connect — what hypotheses emerge from the qualitative phase, what they would be tested with in the quantitative phase.
+**8. Design a mixed-methods plan.** A streaming service has noticed that subscriber growth among 45–60-year-olds has stalled while all other age cohorts continue to grow. The brand's hypothesis: the content catalog is not appealing to this demographic. Design a two-phase mixed-methods research plan. Phase 1 is qualitative — specify the method, the sample (size and frame), and exactly what hypotheses it should generate. Phase 2 is quantitative — specify the method, the sample design (frame, approximate size, probability or nonprobability, and why), and the specific hypotheses from Phase 1 that it should test. Describe how the two phases connect: the output of Phase 1 must become the input of Phase 2 in a way you make explicit.
 
-*Tests: Objectives 5, 6, 7. Difficulty: Medium-high.*
+*Tests: Objectives 5, 6, 7, 8. Difficulty: Medium-high.*
 
 ### Challenge
 
-**9. The big-data ethics audit.** A consumer-products firm has assembled a marketing information system that integrates 12 data sources including loyalty program records, mobile-app behavioral data, third-party purchased data on demographics and household income, and social media monitoring. They ask for your evaluation.
+**9. Audit a marketing information system for ethics.** A consumer-packaged goods firm has built a marketing information system integrating nine data sources: loyalty program purchase history, mobile app behavioral logs, geolocation data from opt-in app users, third-party demographic and income data purchased from a data broker, social media monitoring, website clickstream analytics, customer service call transcripts, email open and click data, and post-purchase survey responses.
 
-Write a 400-word audit covering: (a) what specific privacy concerns the integration raises, (b) what regulatory frameworks apply (GDPR, CCPA, others), (c) what the firm should disclose to customers about the integration, (d) at least one specific decision the firm should *not* make from the data even if the data would technically support it.
+Write a 400-word audit covering: (a) which of these sources raises the most significant privacy concerns and why, (b) which regulatory frameworks apply — GDPR, CCPA, others — and what they specifically require for at least two of the sources, (c) what the firm should disclose to customers about the data integration, and (d) one specific marketing decision the firm should not make from this integrated dataset even if the data would technically support it, and why.
 
 *Tests: Objectives 2, 3. Difficulty: High.*
 
-**10. Design a research-driven STP refresh.** A mid-size apparel brand believes its segmentation has drifted in the post-pandemic period — old segments may no longer describe customers accurately. They have a $200K budget and three months. Design a research project that will produce a refreshed STP for the brand.
-
-Specify: (a) which research designs (exploratory + descriptive + ?), (b) what mix of primary and secondary data, (c) sample design including frame and approximate sample size, (d) the deliverable that will go to the marketing team, (e) how the project will know whether the refreshed segmentation is *better* than the existing one.
-
-*Tests: Objectives 4–8. Difficulty: High.*
-
----
-
-## Chapter Summary
-
-**What you can do now that you could not do before this chapter:**
-
-You can design a marketing research project from problem definition through report. You can match a research design (exploratory, descriptive, causal, ethnographic) to a research question. You can choose a data collection method that fits the question's depth-vs-scale requirements, and you can specify a sample frame, sampling method, and sample size that supports the conclusions the research needs to draw. You can read any marketing claim and ask the right questions about whether the underlying research justifies the claim.
-
-**The one idea that matters most from this chapter:**
-
-Research that is informally good enough to act on is rarer than research that *looks* rigorous. The discipline of evaluating research is to start with the question — *what specifically does this research need to support?* — and then check whether the design, sample, and analysis produce evidence that actually supports it. Most of the time, they don't.
-
-**The common mistake to watch for:**
-
-Doing research to justify a decision the firm has already made. The political pressure to produce favorable findings is strong, especially when research budgets and project sponsors are involved. Marketers who learn to recognize this pressure — in themselves and in colleagues — produce more reliable strategy than marketers who don't.
-
-**The Feynman test:**
-
-Close the book. Pick a marketing claim you've encountered recently — a brand's market-share assertion, a campaign's performance number, a survey result. In two minutes, can you describe (a) what kind of research design likely produced it, (b) what data collection method was used, (c) what kind of sample, (d) what biases might affect the result, and (e) what conclusion the research supports vs. what conclusion the marketing claims? If yes, you have internalized the chapter. If not, the gap tells you which concept section to reread.
-
----
-
-## Connections Forward
-
-**Chapters 9–10** apply marketing research methods to specific contexts: international markets (where research methodology must adapt to cross-cultural variation) and diverse domestic markets (where research must capture sub-population differences accurately).
-
-**Chapter 12 — Products: Consumer Offerings** through **Chapter 22** all depend on research outputs to inform product, price, place, and promotion decisions. A product launch without research is a hypothesis; with research, it's a strategy.
-
-This chapter closes Unit 2 — the audience layer. By now you have the tools to identify *who* a firm should serve (Chapters 5–6 buyer behavior; Chapter 7 STP) and *how* to gather evidence about them (Chapter 8). Unit 3 — the delivery layer — uses these inputs to design the marketing mix.
-
----
-
-*Voice anchor: Feynman × MKBHD hybrid. See `style/VOICE.md`.*
-*Source: OpenStax modules m00033–m00037. All statistics, brand examples, and historical claims drawn from source. The ethics integration section synthesizes the source's treatment of research ethics with the broader regulatory frameworks (GDPR, CCPA) referenced for forward use in Chapter 19 (digital marketing).*
 ---
 
 ## LLM Exercise — Chapter 8: Marketing Research and Market Intelligence
@@ -418,12 +297,11 @@ research vendor.
 
 **Preview of next chapter:** Chapter 9 adds global-marketing capability. The assistant will be able to assess a brand's global readiness, recommend an entry mode, and adapt the marketing mix using Hofstede's five cultural dimensions.
 
-
 ---
 
 ## AI Wayback Machine
 
-**George Gallup** was founded modern survey research in the 1930s — bringing scientific sampling to public opinion and marketing.
+**George Gallup** founded modern survey research in the 1930s — bringing scientific sampling to public opinion and marketing.
 
 **Run this:**
 
