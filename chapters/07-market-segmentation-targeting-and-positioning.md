@@ -1,485 +1,347 @@
-# Chapter 7 — Market Segmentation, Targeting, and Positioning
+# Chapter 5 — Consumer Markets and Purchasing Behavior
 
-*You cannot sell to everyone. The discipline that turns "everyone" into "this specific group, in this specific way, against these specific competitors" is the most consequential framework most marketers will ever use.*
-
-## Learning Objectives
-
-By the end of this chapter, you will be able to:
-
-1. Define market segmentation and explain why a strategy aimed at "everyone" produces worse results than a strategy aimed at a specific subset.
-2. Apply the four methods of consumer-market segmentation — geographic, demographic, behavioral, psychographic — to a real product category.
-3. Apply the five categories of B2B firmographic segmentation (industry, location, size, legal structure, performance) plus technographic, needs-based, value-based, and behavioral segmentation to business markets.
-4. Use the ADAMS criteria (accessible, differentiable, actionable, measurable, substantial) to evaluate whether a segment is worth pursuing.
-5. Distinguish target market from target audience and develop buyer personas that serve specific marketing decisions.
-6. Compare the four target-market strategies — undifferentiated, differentiated, concentrated, micromarketing — and pick the appropriate strategy for a given firm and market.
-7. Distinguish head-to-head positioning from differentiation positioning, and write a positioning statement using a standard template.
-8. Construct and read a perceptual positioning map, identifying competitive density and white-space opportunities.
-9. Evaluate an ethical concern in target-market selection — children, the elderly, low-income consumers, racial profiling — and explain when targeting becomes exploitation.
-
-## Prerequisites
-
-You should be familiar with the consumer-behavior frameworks from **Chapter 5** (cultural / social / personal / psychological / situational influences; the four buying-behavior types) and the B2B frameworks from **Chapter 6** (the buying center; the four buy classes; the five categories of B2B influence). Segmentation operationalizes those influence categories into actionable market groupings.
-
-You should also be familiar with the strategic-planning frameworks from **Chapter 3** — particularly SWOT and the four growth strategies. STP is the *how* of growth strategy: once you know which growth strategy you're pursuing, STP tells you which customers to pursue and how.
-
-## Why This Chapter Matters
-
-This chapter teaches the framework that, more than any other in the book, separates working marketers from people who took one marketing course. Segmentation, targeting, and positioning — STP — is what marketers do all day. A marketer who can do STP well can build a working strategy in any industry. A marketer who can't will produce campaigns that compete against everyone simultaneously and win against no one.
-
-The core argument is unromantic: every firm has limited resources. A campaign that targets *everyone* spreads the resources too thin to win in any segment. A campaign that targets a specific segment can win that segment decisively, then expand. Decisive wins compound. Diluted attention does not.
-
-By the end of this chapter, you will be able to take any product category and (a) divide its market into useful segments using the appropriate variables, (b) evaluate which segments are worth pursuing using the ADAMS criteria, (c) choose a target-market strategy that fits the firm's resources, (d) write a positioning statement that compresses the firm's value proposition into a sentence the customer can carry, and (e) recognize the ethical lines that turn legitimate targeting into exploitation.
+*Why people buy what they buy is a harder question than it looks. The answer lives in five categories of influence, a five-stage decision process, and a hierarchy of needs none of us can talk about clearly.*
 
 ---
 
-## Concept 1 — Segmentation: Dividing the Market into Useful Groups
+In 1975, PepsiCo launched a campaign built around a simple test. Two unmarked cups. Two colas. Which do you prefer?
 
-### The motivating puzzle
+The results were real and repeatable: loyal Coca-Cola drinkers, shielded from the brand, frequently chose Pepsi. One famous commercial showed a grandmother saying, "I can't believe it. I've never had a Pepsi in my life, but it must be better!" Pepsi won blind taste tests against Coke at meaningful rates across thousands of trials.
 
-**Mattel** introduced the action figure **Max Steel** in 1999. In the United States, sales were modest. In South America, the same product became enormously popular — outselling Mattel's flagship lines, **Hot Wheels** and **Barbie**.
+Coca-Cola did not lose market share.
 
-A decade later, Mattel decided to revive Max Steel in the US. The relaunch worked. The product is now a minor superhero "staple" in toy aisles, cartoons, and movies. What changed?
+This is the puzzle. If consumers prefer Pepsi when they can't see the label, why do so many of them keep buying Coke when they can? The standard explanation — that they're irrational, or that advertising has fooled them — doesn't survive scrutiny. These are real people making real choices with their own money, repeatedly. Something else is going on.
 
-Not the product. The toy was the same. What changed was the *segmentation* — who Mattel targeted and how. The relaunch combined three segmentation variables: **gender** (boys), **age** (6–11), and **psychographic / lifestyle** (interest in superheroes, video games, animated media). Mattel built a Disney Channel cartoon for Max Steel that aired *months before* the product relaunch — preconditioning the target market to recognize and want the figure when it arrived in stores.
+The answer is that **what consumers experience when they drink an unbranded sample is not what they experience when they drink a branded one**. The brand is part of the product. The cup with the Coca-Cola label isn't just a delivery mechanism for flavored carbonated water; it carries associations built over decades — the color red, the script logo, the memory of where you were when you first tasted it, the cultural moment of a Super Bowl ad. Removing the brand doesn't reveal a cleaner version of the experience. It amputates half of it.
 
-The same toy, segmented and targeted differently, produced a different commercial outcome. That is what STP does.
-
-### The mechanism — four methods of consumer-market segmentation
-
-**Market segmentation** is the process of dividing a broad market into smaller subgroups that share common characteristics and are likely to respond similarly to a marketing action. The OpenStax source organizes consumer-market segmentation into four methods:
-
-**Geographic — the "where."** Segment by location, climate, language, population type and density. **Starbucks** uses this at multiple scales: global geographic segmentation (Americas, China, Asia Pacific, EMEA), then sub-segmentation for cultural preferences. In China, where tea dominates, Starbucks offers **Red Bean Green Tea Frappuccino and Black Tea Latte**. In South Korea, where consumers prefer creamy drinks, **Jeju Honey Peanut Latte and Happy Cheese White Mocha**. **India alone has more than 19,500 mother tongues spoken; 121 languages are spoken by 10,000 people or more** — a single Hindi advertisement misses huge population segments where Assamese or Telugu dominate.
-
-**Demographic — the "who."** Segment by gender, income, age, education, race, religion, ethnicity, occupation, family structure. **Mercedes-Benz** segments by income through its model lineup: **A-Class starts in the low $30,000s; C-Class $40,000–$55,000; E-Class $55,000–$72,000; S-Class $95,000+**. Each tier is positioned for a specific income segment. Age segmentation has three forms: **age range** (children, teens, adults — but consider perceived vs. chronological age; people buy on perceived), **life cycle / life stage** (childhood / adolescence / young adult / middle age / older adult — though family dynamics scramble the predictability), and **generation-based** (Boomers / Gen X / Millennials / Gen Z; each cohort shares characteristics despite age differences within).
-
-**Behavioral — the "how."** Segment by behavior patterns toward the product or service. **Benefit segmentation** — **Crest** sells multiple toothpaste formulations (Crest Kids, Gum Detoxify Deep Clean, Gum and Breath Purify Deep Clean) for different benefits even though the buyers may look demographically identical. **Occasion segmentation** — Valentine's Day chocolates, Easter PEEPS, holiday-specific marketing. **Usage-based segmentation** — non-users, light users, medium users, heavy users. The **Pareto principle** in marketing: **80 percent of revenue typically comes from the top 20 percent of repeat or loyal customers**. Heavy users are usually a small minority of buyers and a large majority of revenue.
-
-**Psychographic — the "why."** Segment by lifestyle, personality, values. The standard lifestyle framework is **AIO**: **Activities** (daily routine, hobbies — cycling commuter vs. driver), **Interests** (crypto, gaming, photography), **Opinions** (now monitored at scale by **PepsiCo** and **Mastercard** through 24/7 social media monitoring). A second psychographic framework is **VALS** (values, attitudes, and lifestyles), which classifies consumers into eight types: **Innovators** (high income, individualistic), **Thinkers** (resourceful, knowledge-motivated), **Believers** (peer-affirmed), **Achievers** (high resources, family-and-career excellence), **Strivers** (achiever values, fewer resources), **Experiencers** (high resources, want novelty), **Makers** (self-expression, family-focused), **Survivors** (least resources, brand-loyal).
-
-Values-based segmentation is its own subset. **IKEA's** furniture buyback and resale program; **Lululemon's** Like New trade-in (100% of profits reinvested in sustainability initiatives) — both target customers whose values include environmental responsibility and who choose brands that demonstrate it.
-
-<!-- → DIAGRAM: Four-quadrant figure showing the four consumer-market segmentation methods (geographic, demographic, behavioral, psychographic) with one example brand per quadrant. Below the quadrants: a callout that segmentation methods are usually combined ("multi-segment marketing") rather than used alone. -->
-
-### The mechanism — segmenting B2B markets
-
-B2B segmentation is structurally harder than B2C because the buyer is an organization, not a person, and decisions are made by the buying centers from Chapter 6. Five firmographic categories:
-
-- **Industry** — what the organization's primary activities are. Often coded with NAICS (North American Industry Classification System) codes.
-- **Location** — geographic concentration matters more in B2B than B2C (Detroit = autos, Silicon Valley = tech).
-- **Size** — by revenue or employee count. Small/midsize vs. Fortune 500 needs differ profoundly.
-- **Legal structure** — sole proprietorship, LLC, corporation, nonprofit, parent vs. subsidiary.
-- **Performance** — market share, sales figures, growth or decline trajectory.
-
-Plus four B2B-specific segmentation approaches:
-
-- **Technographic** — what hardware and software the customer uses. Cloud-native firms vs. legacy on-prem firms have different needs.
-- **Needs-based** — Theodore Levitt's quote applies: *"People don't want to buy a quarter-inch drill; they want a quarter-inch hole."* Segment by what the buyer is trying to accomplish, not by what they look like.
-- **Value-based** (tiering / profitability segmentation) — group customers by potential revenue value, prioritize accordingly.
-- **Behavioral** — interaction with the firm's website, email opens, content engagement, recent activity patterns.
-
-**Mailchimp** ran an analysis comparing segmented marketing campaigns to non-segmented campaigns across **18 million email recipients**. Segmented campaigns saw a **14.3 percent higher email open rate** and substantial improvements in click-through and conversion. The discipline of segmentation has measurable lift — even at the simplest level (just matching campaigns to declared interests).
-
-### The mechanism — segmenting international markets
-
-International markets add complications consumer and B2B segmentation alone don't capture: cultural differences, political/legal differences, economic-development differences, infrastructure constraints. Four primary methods:
-
-- **Geographic.** Region groupings (Western Europe, Middle East, Africa, Latin America). But geographic similarity doesn't always imply cultural similarity — UK and Scotland are similar; Ireland nearby is different in important ways. Also: infrastructure constraints. China's **Belt and Road Initiative** spans **80+ countries** with railways, energy pipelines, highways, and ports — directly altering what's geographically reachable for global producers.
-- **Political and legal.** Government type and stability, foreign-investment receptivity, monetary regulations, tariffs, import quotas, currency controls, local content requirements. **In 2022**, in response to Russia's invasion of Ukraine, the **UK imposed a 35 percent tax on some Russian imports**; **McDonald's, Coca-Cola, Starbucks, and Marks & Spencer** suspended or withdrew operations in Russia. Political shifts can erase international segments overnight.
-- **Economic.** Developed vs. developing vs. underdeveloped, measured by GDP, GNP, per capita income, industrialization, standard of living. **The United Nations classifies 36 countries as developed (in North America, Europe, and Developed Asia/Pacific) and 126 as developing (in Africa, Asia, Latin America, Caribbean).**
-- **Cultural.** Common language, religion, values, attitudes. **McDonald's** uses *"think global, act local"* — standardized global menu (McNuggets, McFlurry) plus local customization (the **Maharaja Mac** in India — corn-and-cheese patty, branded as "Social Burger" to evoke royalty and community). **Burger King** offers a **Spicy Shrimp Whopper** in Japan, a **SufganiKing donut burger** in Israel, and operates a fully equipped sauna restaurant in Norway.
-
-The standard cultural framework, developed by **social psychologist Geert Hofstede** in the 1970s after studying IBM employees in 50+ countries, identifies cultural dimensions that affect marketing: **Power Distance Index (PDI)** measuring acceptance of power inequality (US scores 40, world average 55), plus dimensions on individualism vs. collectivism, masculinity vs. femininity, uncertainty avoidance, and long- vs. short-term orientation.
-
-### The trade-off — precision vs. cost
-
-Finer segmentation produces more relevant marketing and higher response rates. It also costs more to execute. A campaign targeting one demographic-by-geographic-by-behavioral-by-psychographic micro-segment may convert at a high rate but reach too few people to matter.
-
-The discipline that resolves this trade-off is the **ADAMS criteria** (Concept 2's mechanism) — five conditions a segment must satisfy to be worth pursuing.
-
-### Common misconceptions
-
-**"Segments are objective categories that exist in the data."** Segments are *constructed*. Two equally smart marketers analyzing the same dataset can arrive at different segmentations, and either may produce a working strategy. Segments are useful if they help you make decisions, not if they're "correct."
-
-**"More segments = better marketing."** No. More segments means more campaigns to design, fund, and operate. Most firms execute three to six segments well; firms that try to execute twenty produce thin marketing across all of them.
-
-**"You can segment once and be done."** Segments drift. Demographics shift. New behaviors emerge. The 2008 financial crisis broke a generation of segmentation models; the COVID-19 pandemic broke another. Segmentation is continuous; firms that don't refresh their segments operate on stale assumptions.
+This is the central claim of this chapter, stated plainly: the consumer's perception of a product is not a neutral reading of the product's properties. It is constructed — shaped by culture, social context, personal history, psychological mechanisms, and the situation of the purchase itself. Marketing that ignores this is aiming at a consumer who doesn't exist.
 
 ---
 
-## Concept 2 — Targeting: Choosing Which Segments to Serve
+## The Black Box
 
-### The motivating puzzle
+Marketers use the phrase "buyer's black box" to name something honest: we can observe what goes in (the stimuli — ads, prices, product features, environmental conditions) and what comes out (the purchase decision), but the interior of the consumer's reasoning is not directly accessible.
 
-**LEGO** sells construction toys to children. Children, however, do not generally buy LEGO sets — their parents do. LEGO's marketing has to work on two distinct audiences simultaneously: the children who want the toys, and the parents who decide which toys to buy. LEGO solves this by branding its products as **STEAM-aligned learning tools** (science, technology, engineering, the arts, mathematics), with parent-facing websites featuring tips for "playful parenting with LEGO bricks" alongside child-facing websites with daily build challenges.
+<!-- → DIAGRAM: The buyer's black box. Left side: stimuli (Marketing 4Ps + environmental factors — economic, legal/political, technological, cultural). Center: the black box itself (buyer characteristics — beliefs, attitudes, motives, perceptions, values; buyer decision process — five stages). Right side: response (what to buy, when, where, how often, how much). Show that the inputs and outputs are observable; the contents of the black box are inferred. -->
 
-The puzzle the LEGO case introduces: there's a difference between the people you're segmenting *for* and the people who will actually transact with you. Both matter. Target market is the segment whose needs you're designing for; target audience is the people whose attention and dollars you're trying to capture.
+**Inputs** come from two directions. Marketing stimuli are the firm's four Ps — every ad, price point, product feature, and distribution choice. Environmental stimuli are the world the consumer lives in: economic conditions, technological capabilities, cultural norms, legal structures. Both streams hit the black box simultaneously.
 
-### The mechanism — target market vs. target audience, plus buyer personas
+**Inside** sits the consumer — their beliefs, attitudes, motives, perceptions, values — and the decision process that turns inputs into outputs.
 
-A **target market** is a segment whose needs the firm has decided to design for. A **target audience** is the specific group whose attention the marketing is aimed at — and the audience may or may not overlap with the target market. For LEGO: target market = children 4–12; target audience = parents of children 4–12.
+**Outputs** are what's observable: what the consumer bought, when, where, and how often.
 
-**Buyer personas** are semi-fictional representations of ideal customers, built on real data, used to keep marketing decisions specific to real people rather than abstract demographics. **Best Buy** uses four named personas:
-
-- **Buzz** — the young tech enthusiast.
-- **Barry** — the wealthy professional.
-- **Ray** — the family man.
-- **Jill** — the soccer mom who is the primary household shopper but generally avoids electronics stores.
-
-Each persona has a name (so the marketing team can reference them in conversation), an age, interests, media usage, financial characteristics, and brand affinities. The marketing team designing a campaign asks: *will this work for Jill?* not *will this work for women aged 35–44 with household income $75K–$125K?* The persona forces specificity.
-
-Most firms benefit from **3–8 personas** — enough to capture the major segments without fragmenting attention.
-
-### The trade-off — the ADAMS criteria
-
-Not every segment is worth targeting. The **ADAMS** criteria — Accessible, Differentiable, Actionable, Measurable, Substantial — are the standard discipline:
-
-- **Accessible.** Can you reach the segment at affordable cost given your marketing capabilities? A segment that responds only to a channel you can't afford to use isn't accessible to you.
-- **Differentiable.** Is the segment internally homogeneous (members share preferences) and externally heterogeneous (different from other segments)? If two segments respond identically to your marketing, treating them as separate segments is wasted effort.
-- **Actionable.** Can you execute a marketing strategy that produces measurable outcomes for the segment? A segment you can observe but not act on is interesting but not useful.
-- **Measurable.** Can you estimate the segment's size — by revenue, customer count, or addressable market? Without measurability, you can't decide how much to invest.
-- **Substantial.** Is the segment large enough to justify dedicated marketing investment? A 50-person segment may be perfectly differentiable and accessible and still not worth targeting.
-
-A segment that fails any of the five may still be visible in the data — but pursuing it produces marketing that doesn't pay back. ADAMS forces the firm to choose.
-
-### The mechanism — four target-market strategies
-
-Once segments are identified and ADAMS-evaluated, the firm chooses a target-market strategy. Four canonical options:
-
-**Undifferentiated marketing (mass marketing).** One marketing mix for the entire market. Used when customer differences across segments are weak relative to the cost savings of mass production and mass advertising. Examples: **Coca-Cola**'s flagship cola is sold and advertised broadly with similar mix across segments. Economies of scale advantage; precision disadvantage.
-
-**Differentiated marketing (segmented marketing).** Multiple distinct marketing mixes for multiple segments. **Marriott International** runs **Courtyard by Marriott** for budget-conscious road travelers, **Ritz-Carlton** for premium luxury travelers, and **Marriott ExecuStay** for extended-stay professionals. Each chain has its own product, price, place, and promotion strategy. Higher operating cost than undifferentiated but higher overall revenue and segment-by-segment relevance. Most multi-product firms use this approach.
-
-**Concentrated marketing (niche marketing).** A single segment receives all the firm's marketing investment. Other segments may be visible but are deliberately not pursued. **LUSH** focuses on eco-conscious cosmetics buyers — at least half its website is dedicated to ethical sourcing, anti-animal-testing advocacy, and packaging-reduction messaging. Smaller firms with limited resources often prefer this approach; the trade-off is concentration risk if the segment shifts.
-
-**Micromarketing (customized marketing).** One step beyond concentrated — targets specific individuals within a niche, often with personalized offerings. **Stitch Fix** uses **85 meaningful data points** about each customer plus machine learning, algorithms, and human stylists to send personalized clothing selections; customers return what doesn't fit using prepaid labels within 30 days. Real estate is another classic micromarketing category: a residential realtor specializing in luxury properties for the over-55 segment in a specific neighborhood is doing micromarketing.
-
-<!-- → TABLE: Four target-market strategies × four characteristics (cost, precision, scalability, example brand). Rows: Undifferentiated / Differentiated / Concentrated / Micromarketing. The student should see the trade-off pattern: as you move from undifferentiated to micromarketing, cost per customer rises and reach falls, but conversion-per-customer rises. -->
-
-### The trade-off — scale economics vs. relevance economics
-
-The four target-market strategies sit on a single spectrum.
-
-**Mass / undifferentiated marketing** wins on **scale economics** — the marginal cost of one more customer is near zero, advertising spreads across millions, production benefits from volume.
-
-**Micromarketing** wins on **relevance economics** — each customer receives a marketing message and offer optimized for them specifically; conversion rates are dramatically higher than mass marketing; per-customer revenue is higher.
-
-The middle two strategies — differentiated and concentrated — balance the two. Differentiated trades some scale for some segment relevance. Concentrated trades most scale for deep segment relevance.
-
-The right answer for any given firm depends on (a) how heterogeneous the customer base is — if customers really are similar, mass marketing wins; if customers are very different, segmented or niche wins, and (b) the firm's resource base — small firms can't afford differentiated marketing across many segments, large firms can't get micromarketing-level returns at scale.
-
-### Common misconceptions
-
-**"Concentrated marketing means you're not growing."** A concentrated firm grows by deepening its segment, not by expanding to new segments. **In-N-Out Burger** has stayed concentrated geographically (mostly Western US) and grown for 75 years.
-
-**"Micromarketing requires AI."** Personalization at scale benefits from machine learning, but the underlying strategy of treating each customer as an individual is older than computers. A neighborhood bank that knows every customer's name and circumstances is doing micromarketing.
-
-**"Buyer personas are made-up demographic averages."** A persona built from imagined data is theatre. A persona built from real research, real customer interviews, and real behavioral data is a working marketing tool. The discipline is in the inputs.
+The discipline of consumer behavior is the discipline of inferring the box's interior as accurately as possible. We never have perfect access to it. What we have are frameworks — models of the factors that shape what happens inside — that let us make better-than-random predictions. The rest of this chapter is three of those frameworks.
 
 ---
 
-## Concept 3 — Positioning: How the Customer Should Perceive the Offer
+## Five Categories of Influence
 
-### The motivating puzzle
+The buyer's black box doesn't operate in a vacuum. Five categories of factors shape what enters the box, how it gets processed, and what comes out.
 
-In 1962, **Avis** was a money-losing car rental company — losing about **$3.2 million a year**, well behind market leader **Hertz**. Avis launched an advertising campaign with a slogan that didn't try to claim leadership: *"When you're only No. 2, you try harder. Or else."*
+**Cultural factors** are the values, ideas, and attitudes a person absorbs from the group they grow up in — what's considered normal, beautiful, generous, wasteful, aspirational. The same garment carries completely different cultural weight depending on context: a Hindu bride in India wears red lehenga; a Christian bride in the West wears white; an Indian widow wears white; a Western widow wears somber colors. The cloth is identical. The meaning is opposite. A subculture is a tighter cluster within a culture — environmentalists, bodybuilders, biker culture, immigrant communities — each with their own values that shape purchasing. Social class affects both what consumers can afford and what they aspire to.
 
-The campaign reframed the underdog position from a liability into an asset. The result: Avis turned a $3.2M loss into a **$1.2M profit** — its first profitable year in over a decade.
+**Social factors** are the relationships that exert direct or indirect pressure on behavior. The family you grew up in (family of orientation) shaped baseline tastes — if your father drove Chevys, you are more likely to consider Chevys. The family you formed (family of procreation) constrains current choices — you may not buy the sports car you'd have bought single. Reference groups are the communities you compare yourself to. This is older than social media; the platforms just made it measurable and tradeable. Kendall Jenner has more than 217 million Instagram followers. Lionel Messi has more than 310 million. Opinion-leader influence at that scale is a different quantitative beast from the friend who recommended a restaurant, but the underlying mechanism — *I trust this person's taste, so I update my own* — is identical.
 
-The product didn't change. The cars were the same. The pricing was similar. What changed was *positioning* — how the customer was invited to perceive the company. Avis didn't beat Hertz on any objective dimension; Avis simply gave customers a different mental frame for thinking about the choice between #1 and #2.
+**Personal factors** include age and life-cycle stage, occupation, economic situation, lifestyle, and personality. The four generational cohorts currently moving through the US market have meaningfully different buying patterns: Baby Boomers (born 1946–1964, roughly 70 million, $2.6 trillion in buying power, heavy on pharmacy and health care) differ from Millennials (born 1981–1994, roughly 72 million, notably sustainability-driven) and Generation Z (born 1997–2012, still building spending power). Occupation shapes purchasing in obvious ways — nurses buying scrubs, construction workers buying steel-toed boots — and lifestyle (active, urban-creative, suburban-parent) shapes it in subtler ones.
 
-That's the third move of STP. Segment, target, position. Each step harder than the last.
+Generational labels are useful at the population level and dangerous at the individual level. Some 40-year-olds are sending kids to college; some are starting families; some are single. Demographic segmentation is the cheapest and least reliable variable to act on; it works for mass campaigns and fails for precision targeting.
 
-### The mechanism — head-to-head vs. differentiation positioning
+**Psychological factors** are the chapter's third concept section — motivation, perception, learning, beliefs, and attitudes — and deserve their own unpacking. Short version for now: the perceptual system that filters 6,000 to 10,000 daily advertising impressions, the belief structures that make the Coca-Cola label add something to the experience, and the learned associations that make a positive product experience more likely to become a repeat purchase.
 
-**Product positioning** is the process of deciding and communicating how the firm wants the target market to think and feel about its product or service. **Al Ries and Jack Trout**, in *Positioning: The Battle for Your Mind*, frame it precisely: *"The basic approach of positioning is not to create something new and different, but to manipulate what's already up there in the mind."*
+**Situational factors** are the immediate environment of the purchase: lighting, music, smell, crowd density, queue length, time pressure, mood, the social context of shopping. A 21-week study comparing fluorescent versus LED lighting in a grocery store found that consumers bought 25 percent more products on the LED-lit side. Abercrombie & Fitch sprays its "Fierce" cologne throughout its stores and plays loud club music — both choices designed to attract a specific clientele and to repel another. Situational factors are mostly within the firm's control via the *place* P; they are also one of the most underestimated levers in marketing, possibly because they're harder to put in a slide deck than an ad campaign.
 
-Two main approaches:
+These five categories don't operate alone. They run in concert, and the marketer's job is to figure out which combination is doing the most work in their specific category. A luxury watchmaker tracks personal factors (lifestyle, self-concept) and social factors (reference groups) because those two dominate decisions in that category. A grocery chain tracks situational factors (atmospherics, time pressure) and personal factors (life-cycle stage). The framework tells you what to look at; experience with the category tells you what to look at first.
 
-**Head-to-head positioning** — directly compete on similar product attributes in the same market. The Avis vs. Hertz campaign is the canonical case. **Wendy's** has run head-to-head against McDonald's for decades — its 2018 Super Bowl commercial *"Iceberg"* hammered the *"fresh, never frozen"* claim against McDonald's frozen-beef supply chain.
+<!-- → TABLE: Five categories of influence — reference table. Five rows, one per category. Columns: Category, What it includes, Example purchase it dominates, Marketing lever most affected. Helps students see the categories as a lookup tool, not just a list to memorize. -->
 
-Head-to-head wins by direct comparison. It also signals that you accept the competitor as the standard — a small kiosk that defines itself against the leading frozen-pretzel brand has implicitly admitted that frozen pretzels are the reference category.
-
-**Differentiation positioning** — emphasize unique qualities to attract customers who want what makes the firm different, often creating new demand rather than competing for existing demand. **Curves**, the women's fitness franchise, succeeded by making the *Curves experience* fundamentally different from a traditional health club — circular machine arrangement to encourage interaction, no mirrors, no men. Curves didn't compete with mainstream gyms head-to-head; it created a category gym chains couldn't easily replicate.
-
-Differentiation creates new demand but takes longer to establish. Head-to-head can win share fast if the comparison is sharp; it can also reinforce the leader's position if the comparison fails to land.
-
-### The mechanism — positioning statements
-
-A **positioning statement** is one to three sentences that compress the brand's promise into a form the firm can use to align decisions and the customer can repeat. Two standard templates:
-
-**Template 1:** *"[Your brand] provides [your offering / benefit that makes you better than competitors] for [your customers] who [customer needs] because [the reason your customers should believe you are better]."*
-
-**Template 2:** *"For [target audience], [brand name] is the [your market] that delivers [your points of differentiation] so they can [end benefit] because [your evidence]."*
-
-Examples from public positioning statements:
-
-- **Amazon:** *"For consumers who want to purchase a wide range of products online with quick delivery, Amazon provides a one-stop online shopping site. Amazon sets itself apart from other online retailers with its customer obsession, passion for innovation, and commitment to operational excellence."*
-- **Apple:** *"For individuals who want the best personal computer or mobile device, Apple leads the technology with the most innovative products."*
-- **McDonald's:** *"For individuals looking for a quick-service restaurant with an exceptional customer experience, McDonald's is a leader in the fast-food industry, with friendly service and consistency across thousands of convenient locations."*
-- **Coca-Cola:** *"For individuals looking for high quality beverages, Coca-Cola offers a wide range of the most refreshing options — each creates a positive experience for customers when they enjoy a Coca-Cola brand drink."*
-
-Notice the pattern: target audience first, category second, differentiation third, evidence fourth. A positioning statement that skips any of those four elements isn't doing the work — it's a tagline.
-
-### The mechanism — perceptual maps
-
-A **perceptual map** is a 2D visual showing how target customers perceive the firm's product relative to competitors' on two **determinant attributes** — the attributes customers actually use to make purchase decisions.
-
-The mechanism: pick two attributes (price vs. quality, sugar vs. protein, convenience vs. premium, speed vs. comfort). Map the firm's product on the 2D space. Map 5–10 competitors. Read the map for three things:
-
-- **Where you are vs. where you want to be.** If customers perceive your product differently than you intended, the gap signals a marketing problem.
-- **Where competitors cluster.** Dense clusters indicate intense competition; if your product sits in a cluster, you're competing on price unless you can move out.
-- **Where the gaps are.** Empty quadrants signal potential white space — categories or positions no one currently occupies.
-
-<!-- → DIAGRAM: A perceptual map example. Two axes (high/low protein × high/low sugar) with 5–6 plotted brands as circles. Mark one cluster of competitors and one white-space gap. Caption notes that the white space might or might not be a real opportunity — empty quadrants can mean "no demand here" or "no one has tried." -->
-
-The map is a hypothesis. White-space gaps signal *possible* opportunities; the gap may also exist because the position is genuinely undesirable to consumers (too expensive, too cheap, wrong combination of attributes). The map points at the question; market research (Chapter 8) answers it.
-
-### The trade-off — head-to-head visibility vs. differentiation defensibility
-
-The two positioning approaches sit in tension.
-
-**Head-to-head** positions are immediately legible to customers because they reference a known competitor. Avis vs. Hertz is comprehensible without explanation. The cost: customers think about the leader every time they think about the challenger. The challenger never escapes the comparison.
-
-**Differentiation** positions are harder to communicate quickly because they don't anchor to a familiar reference. *"Curves is different from regular gyms"* requires the customer to learn what kind of different. The reward: a successful differentiation position is more defensible because competitors can't simply copy a "we're better than X" message; they would have to reproduce the underlying differentiation.
-
-Most firms use a mix: differentiation as the primary position, head-to-head as a tactical move when a specific competitor is most threatening or most beatable on a specific dimension.
-
-### Common misconceptions
-
-**"Positioning is what marketing says about the product."** Positioning is what the *customer* believes about the product. Marketing influences positioning but doesn't dictate it. A campaign that says *"the most premium SUV in the segment"* doesn't position the vehicle as premium if customers experience it as ordinary; it positions the brand as overreaching.
-
-**"Repositioning is just a new ad campaign."** Real repositioning often requires changes to product, price, place, and promotion together. A premium-priced product on Amazon next to a $9 knockoff is doing two of its Ps in opposite directions; an ad campaign claiming premium positioning won't fix the contradiction.
-
-**"Perceptual maps are decorative."** They're decision tools. A perceptual map that doesn't change a marketing decision is a map that wasn't read carefully enough.
+The worked example that makes this concrete is the hip-hop / sneaker subculture. In 1986, Run-DMC released "My Adidas," and the song produced the first endorsement deal between a fashion brand and a musical act. That deal was small in dollar terms. Its strategic significance was that it made *cultural endorsement of a sneaker brand from inside hip-hop* into a known, replicable asset. What followed: Master P × Converse, Jay-Z × Reebok, 50 Cent × Reebok, Missy Elliott × Adidas, Drake × Nike. Each reflects the same mechanism: a subculture lent its cultural value to specific brands, completely rebuilding the social and psychological layer of the value ratio. A customer buying Drake's signature Nike isn't paying for a better shoe. They're paying for membership in a cultural moment. That's a cultural-factor effect playing out via social-factor dynamics, filtered through personal factors, shaped by psychological factors, triggered by situational ones. All five categories, in one purchase.
 
 ---
 
-## Integration — STP as a Sequence and as Ethics Boundary
+## The Five-Stage Decision Process and the Four Buying-Behavior Types
 
-The three concepts of this chapter form a sequence:
+You bought a phone case last week and a smartphone last year. The phone case took five minutes. The smartphone took several weeks. Same person, similar product categories, different decision processes. Why?
 
-1. **Segment** — divide the market into subgroups using the appropriate variables (geographic / demographic / behavioral / psychographic for consumer; firmographic / technographic / needs / value / behavioral for B2B; geographic / political / economic / cultural for international). Apply ADAMS to test which segments are worth pursuing.
-2. **Target** — choose target markets and target audiences within those segments. Build buyer personas. Pick a target-market strategy (undifferentiated / differentiated / concentrated / micromarketing) appropriate to the firm's resources and the market's heterogeneity.
-3. **Position** — decide how the target customer should perceive the offer. Choose head-to-head or differentiation. Write a positioning statement. Build a perceptual map. Adjust the marketing mix to reinforce the position.
+The answer is a two-axis framework that is worth knowing precisely, because once you have it, you start recognizing it everywhere.
 
-Each step constrains the next. A firm that segments demographically can't suddenly target on values without redoing the segmentation. A firm targeting price-conscious customers can't position as premium without contradicting itself. The three steps make sense only as a sequence; running them out of order produces incoherent marketing.
+The consumer decision process, in full, runs five stages:
 
-### The ethics boundary
+**Stage 1 — Need recognition.** A gap opens between your actual state and your desired state. Internal stimuli (you're hungry, your current phone is broken) or external stimuli (you see an ad, you smell a bakery) make the gap salient.
 
-Targeting becomes exploitation when the firm exploits a target's vulnerability rather than meeting a target's need.
+**Stage 2 — Information search.** You gather data on possible solutions. Heightened attention (passive — you start noticing related ads because your perceptual filter is now set to the category) or active search (deliberate — web research, asking friends, visiting stores).
 
-**Children and teens.** **There are approximately 73 million children in the US between 0 and 17.** That's a lucrative target market and a vulnerable one. Per the **American Psychological Association**, **children under 7 or 8 cannot discern the persuasive intent of advertising** — they take marketing claims at face value. Per the **Campaign for a Commercial-Free Childhood**, gender-stereotyped marketing can interfere with childhood gender development; **approximately 40,000 Disney Princess items** target girls; Transformers target boys. **Childhood obesity has more than tripled since the 1970s** (CDC); **roughly one in five school-aged children is obese**; commercials on children's television are dominated by sugary cereals, snacks, and candy. **Brach's, Lemonhead, Ghirardelli, Jelly Belly, PEEPS, Mike and Ike, and Welch's Fruit Snacks** voluntarily avoid advertising to children under 12. **Juul** built a vaping product with **mint, crème, and mango flavors** and a **USB-flash-drive design** that was easy to conceal. **Approximately four million students admit to vaping**; in **June 2022, the US FDA was poised to issue an order removing Juul Labs vaping products from the market**.
+**Stage 3 — Evaluation of alternatives.** Each option is treated as a bundle of attributes. For a smartphone: battery life, camera quality, storage, price, operating system, brand reputation. For a hotel: location, cleanliness, Wi-Fi, breakfast, pool, price. The consumer builds a rough expected utility for each option and ranks.
 
-**Elderly consumers** often face fixed incomes and health vulnerabilities that make them targets for misleading prescription-drug claims and "cure-all" products — the COVID-19 pandemic produced a wave of these.
+**Stage 4 — Purchase decision.** Commitment. Frequently via heuristics — mental shortcuts that reduce decision cost. *Price = quality* (the more expensive product must be better). *Brand loyalty* (always buy the same brand). *Country of origin* (prefer products made in a specific country). Heuristics aren't irrational; they're efficient. The consumer who uses *price = quality* on a category they don't deeply understand often makes a better choice than the one who tries to evaluate every attribute. They're a different kind of reasoning, not the absence of it.
 
-**Low-income consumers** are vulnerable to high-APR credit cards, multilevel marketing schemes, and "better life" promises that don't deliver.
+**Stage 5 — Post-purchase evaluation.** Did the product meet, exceed, or fall short of expectations? The three outcomes map to: very satisfied (performance exceeded), satisfied (met), dissatisfied (fell short). Dissatisfaction at this stage — or the lingering suspicion that you might have made the wrong choice — produces **cognitive dissonance**, also called buyer's remorse. Post-purchase communication that addresses dissonance early is one of the highest-ROI marketing investments in high-involvement categories, and one of the most neglected.
 
-**Ethnic and racial profiling.** **Facebook was sued by the US Department of Housing and Urban Development** because its advertising algorithms allowed advertisers to exclude users by race, gender, and religion — potentially violating federal laws that prevent discrimination in ads for jobs, housing, and credit. The mechanism — segmenting by affinity groups — is itself legal; the use of the segmentation to *exclude* protected classes from opportunity ads is not.
+<!-- → DIAGRAM: Five-stage consumer decision process as a horizontal flow. Each stage gets one sentence describing the activity and one example (toilet paper vs. car) showing how the same stage looks different across categories. Below the flow: an arrow back to Stage 1 from Stage 5, showing that post-purchase evaluation feeds the next round of need recognition. -->
 
-The ethics boundary is the line between *meeting a real need a target group has* and *exploiting a target group's vulnerability*. Targeting children with educational toys (LEGO) is the first; targeting children with vaping products (Juul) is the second.
+The process is a complete map. But not all purchases use the full map. Toilet paper activates Stage 1 (you're out) and Stage 4 (grab the usual brand). The middle stages collapse to seconds. A new car activates all five stages over months, with Stage 2 and Stage 3 consuming most of the time and Stage 5 extending for years.
 
-### A positive case — Subway × Let's Move!
+The framework that names this variation is a 2×2 on **purchase involvement** (high vs. low) and **perceived brand differentiation** (significant vs. few differences):
 
-**In 2014, Subway aligned with First Lady Michelle Obama's Let's Move! initiative**, committing **$41 million over three years** to a healthy-eating program aimed at children. Slogan: *"Playtime: Powered by Veggies."* Subway also partnered with the **Partnership for a Healthier America (PHA)**, a nonprofit advancing the Let's Move! goals. The case demonstrates that targeting children doesn't have to be exploitative — it can be aligned with the target group's actual interests (here, healthier eating habits).
+<!-- → TABLE: Four types of buying behavior 2×2. Rows: High involvement / Low involvement. Columns: Significant brand differences / Few brand differences. Each quadrant gets the type name, a one-sentence definition, an example, and a marketing implication. The student should see that the marketing mix changes by quadrant. -->
 
-The discipline isn't *don't target vulnerable groups*. It's *target vulnerable groups in ways that serve them, and don't claim to serve them while harming them*.
+**Complex buying behavior** — high involvement, significant brand differences. New car, expensive electronics, college choice. All five stages are active and deliberate. Marketing implication: invest in detailed product information, expert sales support, comparison content, and post-purchase reassurance. The consumer is doing their homework; your job is to be findable and credible when they are.
+
+**Dissonance-reducing buying behavior** — high involvement, few perceived brand differences. Ceramic tile for a kitchen renovation. Expensive enough to care, but the brands feel interchangeable, so the decision often turns on price or availability. Post-purchase dissonance is high — the consumer will notice disadvantages of their chosen brand and hear good things about brands they didn't choose. Marketing implication: post-purchase reassurance is the highest-value investment here. The sale isn't the end of the marketing job.
+
+**Habitual buying behavior** — low involvement, few brand differences. Organic milk, paper towels, batteries. No deliberation; the consumer buys what they bought last time. Brand loyalty is weak — a competing brand on sale, or your brand out of stock, is enough to switch. Marketing implication: shelf-space dominance, consistent packaging, frequent low-cost reminders. Don't make the consumer think; make your brand the path of least resistance.
+
+**Variety-seeking buying behavior** — low involvement, significant brand differences. Tortilla chips, candy bars, craft beer. The consumer isn't deeply engaged but enjoys novelty. Brand-switching is the norm, not because of dissatisfaction but because of curiosity. Marketing implication: new flavors, packaging refreshes, impulse-buy displays. The consumer will try your product if you make it easy; the challenge is to make the experience good enough that they'll seek you out next time rather than just grabbing the next interesting thing.
+
+The reason this 2×2 matters operationally is that every one of the four Ps has a different optimal setting in each quadrant. A firm that uses complex-buying-behavior marketing on a habitual-buying product — detailed feature comparisons, sales support, post-purchase letters — is wasting resources and adding friction where the consumer doesn't want it. A firm that uses habitual-buying marketing on a complex-buying product — shelf presence only, no content, no sales support — loses at the stage where the consumer is doing research.
+
+---
+
+## Maslow, Perception, and Why the Label Changes the Taste
+
+Now we can return to the Pepsi paradox and give it a proper explanation.
+
+In 2003, **Read Montague** at Baylor College of Medicine ran a version of the Pepsi Challenge inside an fMRI scanner. With no brand information, about half the subjects preferred Pepsi — consistent with earlier results. When subjects were told which sample was Coca-Cola, 75 percent said they preferred Coke, and the areas of the brain associated with cultural knowledge and identity (the medial prefrontal cortex) showed significantly elevated activity. The brand wasn't just information about the product. It was activating a different cognitive process entirely.
+
+To understand why, you need two pieces of the psychology.
+
+The first is **Maslow's hierarchy of needs** — the claim that human needs are arranged in five levels, from most basic to most psychologically advanced:
+
+1. **Physiological** — food, water, shelter, sleep
+2. **Safety and security** — physical safety, financial safety, freedom from harm
+3. **Belonging / social** — friendship, love, community membership
+4. **Esteem** — recognition, achievement, respect from others and from yourself
+5. **Self-actualization** — personal growth, fulfillment of potential
+
+<!-- → INFOGRAPHIC: Maslow's hierarchy as a pyramid. Each level labeled with the need category, a one-sentence description, and a marketing campaign that explicitly targets it. The student should see that the same human is being marketed to at all five levels by different brands simultaneously. -->
+
+Lower-level needs generally have to be satisfied before higher-level ones become motivating. This isn't a strict rule — humans are complicated and the levels overlap — but it's a useful directional principle. What it tells marketers is that every product, in addition to its functional value, carries a potential appeal to one of these five levels, and which level you aim for determines who you're competing against, what your margins look like, and how durable your brand equity is.
+
+Snickers: *"You're not you when you're hungry."* Physiological. Allstate: *"You're in good hands."* Safety. Most beer marketing: belonging. Dove's real-beauty campaign: esteem. Nike's *"Find Your Greatness."* Self-actualization.
+
+The hierarchy is also a trade-off map. Lower-level appeals (physiological, safety) are universal — everyone needs food and security. The market is enormous and so is the competition. Higher-level appeals (esteem, self-actualization) are more specialized: fewer consumers are actively in the market at any moment, but the ones who are will pay premium prices to brands that address the need authentically. **Patagonia**'s mission — *"Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis"* — is a self-actualization play. Smaller market than Snickers. Higher margins. Stronger loyalty. The climb up the hierarchy takes decades and isn't reliably reversible; once a brand positions at a higher level, dropping back to functional-only appeals often destroys the equity that made the positioning work.
+
+The second piece of psychology is **perception** — specifically, the three ways the consumer's perceptual system modifies the marketing information it receives:
+
+**Selective attention** is the filter. The estimate for 2021 is that the average person encounters between 6,000 and 10,000 ads per day. No human processes all of them. The mind pays attention only to stimuli that feel relevant to current wants and needs. The car ad you never noticed last year becomes salient the moment you start considering a purchase. Nothing about the ad changed; your filter did.
+
+**Selective distortion** is the reframing. Information that contradicts your existing beliefs gets interpreted in ways that reduce the contradiction. This is what happened with the Coke loyalists in the original Pepsi Challenge — shown results that suggested their preferred brand tasted worse, many reframed ("the test was rigged," "I prefer Coke's consistency," "taste isn't everything") rather than updating. Selective distortion is why showing consumers contradictory evidence often doesn't change minds; the evidence gets absorbed into the existing belief structure, not used to revise it.
+
+**Selective retention** is the memory filter. Information that supports your existing attitudes gets remembered; information that contradicts them gets forgotten, even when both were encountered equally. The consumer who believes Brand X is high quality remembers the positive reviews and forgets the negative ones — not because they're lying, but because that's how memory works.
+
+<!-- → DIAGRAM: The three perceptual filters as a sequential funnel. Top: 6,000–10,000 daily stimuli enter. Filter 1: Selective Attention — only relevant stimuli pass. Filter 2: Selective Distortion — passing stimuli get reinterpreted to fit existing beliefs. Filter 3: Selective Retention — only belief-compatible information gets stored. Output: what the consumer actually "received" from the marketing message. Student should see how much of the original message is lost before it reaches memory. -->
+
+Return to the Coca-Cola question. A consumer who has grown up with Coke — who has a belief that Coke is the superior cola, whose identity is partly bound up in that preference, who has learned the positive associations through decades of advertising, who has a reference group that confirms the preference — is not drinking a liquid when they open a Coke. They are activating a self-concept. The brand passes through selective attention (they notice it because it matters to them), avoids selective distortion (the belief is already compatible with the experience), and gets selectively retained (the positive moments are what they remember). Pepsi wins the biochemical taste test. Coca-Cola wins the consumption experience. Both are real. They're measuring different things.
+
+This is not a minor observation about a cola rivalry. It's the reason marketing is not engineering. Engineering optimizes the product. Marketing optimizes the relationship between the product and the person's perception of it. The same physical product, positioned differently — aimed at a different Maslow level, designed to pass different perceptual filters — is a different product from the consumer's point of view.
+
+The remaining psychological building blocks follow from this. **Beliefs** are what the consumer thinks is true about a product — *this coffee helps me focus*, *this food stains my teeth* — and two contradictory beliefs can coexist and both shape behavior. **Attitudes** integrate beliefs, feelings, and behavioral intentions — the vegetarian's attitude toward hamburgers combines a belief (meat causes harm), a feeling (revulsion), and a behavioral intention (won't eat). Attitudes are stable, learned, and slow to change; you cannot usually talk someone out of an attitude by arguing with the belief, because the belief is only one component of three. **Learning**, in the behaviorist sense: actions followed by pleasant consequences get repeated. A positive first experience with a product raises the probability of a second purchase. A bad one lowers it. The brand either earns the right to be repeated, or it loses the customer who learned otherwise.
+
+---
+
+## The Ethical Consumer
+
+A growing layer runs across all of this that the framework needs to account for: many consumers explicitly factor ethics into their buying, and the share is large enough to be a strategic variable.
+
+A Statista poll found that 90 percent of US survey respondents said they would boycott a brand if they discovered the company engaged in irresponsible business practices. Mintel found that 56 percent of US consumers say they would no longer do business with organizations they believe are unethical. A Statista survey of US cosmetics consumers: 32 percent would "very likely" stop purchasing their favorite brand if the manufacturer tested on animals. A separate survey: 72 percent say they purchase from companies whose beliefs match theirs on environmental preservation and child labor.
+
+Decode this through the chapter's frameworks. The mechanism is not mysterious. Ethics maps onto personal factors (values) and cultural factors (shifting norms) in the influence taxonomy. It activates at the esteem and self-actualization levels of Maslow's hierarchy — *I am the kind of person who refuses to support this*. It triggers post-purchase dissonance when a consumer discovers, after purchase, that the brand they chose does not align with those values. And the discovery mechanism is social: a viral report on a brand's supply chain travels via reference groups at scale.
+
+Patagonia is the canonical case. The ethical claims are specific and documented: fair-trade certified for sewing, publicly disclosed first-tier suppliers, recycled materials, organic cotton, plastic bottles recycled into fleece, a take-back program for worn-out gear. The customer pays a premium for a product whose ethical attributes are part of $B$ in the value ratio. The ethics aren't decoration on top of the product; they are part of the product, in the same way the Coca-Cola brand is part of what the consumer experiences when they drink Coke.
+
+The discipline this requires: doing the underlying work *and* communicating it credibly. Doing the work without communicating it loses the value. Communicating without doing it is exposed by social media and produces the trust failure that the 56 percent boycott statistic describes. The brand cannot borrow ethical positioning without ethical operations. The consumers who care about this — and a majority of them do — have become quite good at telling the difference.
+
+<!-- → TABLE: Ethical consumerism data summary. Rows: each survey statistic from this section. Columns: source, claim, percent. Caption notes the convergence: multiple independent surveys pointing at the same directional finding — ethical concern is a majority consumer behavior in the US across multiple product categories. -->
+
+---
+
+## Where This Chapter Fits
+
+Chapter 2 gave you the value ratio: $V = B/P$, where $B$ is perceived benefits. This chapter is the inside of $B$ — the mechanism by which perceived benefits are constructed. They don't come from the product. They come from what the consumer brings to the product: their cultural context, their social relationships, their personal history, their psychological state, and the immediate situation of the purchase.
+
+Chapter 3's strategic tools are only as good as the consumer model underneath them. A BCG matrix that misidentifies which product has high consumer involvement, or a SWOT that misreads which influence category is dominant in the category, produces strategic recommendations aimed at the wrong consumer.
+
+Chapter 7 — Segmentation, Targeting, Positioning — takes the five influence categories from Concept 1 as the substrate for segmentation. You cannot divide a market into useful groups without first identifying which variables produce meaningfully different buying behaviors. This chapter built those variables.
+
+Chapter 8 — Marketing Research — provides the methods for actually measuring what this chapter describes as inferable but not directly observable. Surveys, focus groups, observation, behavioral analytics: the toolkit that turns the buyer's black box from fully black into partially illuminated.
+
+And every decision about every P in Chapters 12–22 is downstream of an assumption about consumer behavior. A product designed without understanding how consumers perceive it. A price set without understanding which Maslow level the purchase serves. A promotional message aimed at the wrong perceptual filter. Each is a marketing decision made about a consumer who lives only in the marketer's imagination.
+
+The discipline of this chapter — studying the real consumer rather than imagining them — is the corrective. It doesn't give you perfect access to the black box. Nothing does. But it gives you frameworks specific enough to be wrong about, which means they're specific enough to learn from.
 
 ---
 
 ## Exercises
 
-### Warm-up
+### Warm-Up
 
-**1. Segment a familiar market.** Pick a product category you know — coffee, athletic shoes, streaming services, anything. Apply each of the four consumer segmentation methods (geographic / demographic / behavioral / psychographic) and identify two real segments per method. Note any segments that overlap across methods.
+**1. Classify five purchases.** List the last five things you bought, regardless of size or category. For each, name (a) the type of buying behavior — complex, dissonance-reducing, habitual, or variety-seeking — and (b) which of the five influence categories was most dominant. Where you're genuinely unsure, record the uncertainty rather than forcing a clean answer.
 
-*Tests: Objective 2. Difficulty: Low.*
+*(Tests: Objectives 2, 3. Difficulty: Low. Forces application of both frameworks to lived experience before they feel abstract.)*
 
-**2. Run ADAMS on a segment.** Take one of the segments you identified in Exercise 1. Evaluate it against the five ADAMS criteria — Accessible, Differentiable, Actionable, Measurable, Substantial. Mark each as pass or fail with one sentence of justification. If any criterion fails, propose a modification to the segment definition that would let it pass.
+**2. Walk a real decision through the five stages.** Take your decision to attend your current college — or a major purchase you made in the last year that involved real deliberation. Write one to two sentences for each of the five stages, describing what specifically happened. Be honest about which stages you skipped or collapsed into seconds, and name the heuristic, if any, that closed Stage 4 for you.
 
-*Tests: Objective 4. Difficulty: Low.*
+*(Tests: Objective 4. Difficulty: Low.)*
 
-**3. Identify the target-market strategy.** For each of the following firms, identify whether it uses undifferentiated, differentiated, concentrated, or micromarketing strategy:
+**3. Match the campaign to Maslow.** For each of the following campaigns, identify which level of Maslow's hierarchy is being targeted and explain in one sentence why:
 
-- **Coca-Cola** for its flagship cola product.
-- **Marriott International** across its hotel chains.
-- **LUSH** cosmetics.
-- **Stitch Fix** clothing service.
+- **Geico:** *"15 minutes could save you 15 percent or more on car insurance."*
+- **De Beers:** *"A diamond is forever."*
+- **Apple:** *"Think different."*
+- **Lysol:** *"Practice Healthy Habits."*
 
-*Tests: Objective 6. Difficulty: Low.*
+*(Tests: Objective 5. Difficulty: Low.)*
+
+<!-- → TABLE: Student answer scaffold for Exercise 3 — three columns: Campaign / Brand, Maslow Level, One-Sentence Rationale. Four rows. Empty rationale column for student to fill. The table format prevents the student from vague answers like "higher needs" without naming the specific level and why. -->
 
 ### Application
 
-**4. Build a buyer persona.** For a product category you know, create one detailed buyer persona — name, age, occupation, income range, lifestyle, key interests, media usage, brand affinities, top three needs the product would solve. Then write a one-paragraph marketing message specifically tailored to that persona. Test: would the message work as well for a different demographic in the same category? If yes, the persona isn't doing its job.
+**4. Identify the dominant heuristic.** Choose three product categories where you have made a purchase in the last six months. For each, identify which heuristic most consumers in that category likely use at Stage 4 — *price = quality*, *brand loyalty*, *country of origin*, *most reviews*, *highest rating*, or another you observe. Then identify one specific consumer segment for whom a *different* heuristic would dominate, and explain why.
 
-*Tests: Objective 5. Difficulty: Medium.*
+*(Tests: Objective 7. Difficulty: Medium. Forces recognition that heuristic use is segment-specific, not universal.)*
 
-**5. Write a positioning statement.** For a real or imagined product, write a positioning statement using one of the two templates from Concept 3. Then evaluate it: does it specify target audience, category, differentiation, and evidence? Rewrite if any element is missing or vague.
+**5. Diagnose a perceptual failure.** Find a marketing campaign you remember from the last six months but cannot name the brand for. Identify which perceptual process — selective attention, selective distortion, or selective retention — most likely caused the failure. Then propose, in two to three sentences, one specific change to the campaign that would have corrected it.
 
-*Tests: Objective 7. Difficulty: Medium.*
+*(Tests: Objective 6. Difficulty: Medium.)*
 
-**6. Build a perceptual map.** Pick a product category with at least 5–6 visible competitors. Choose two determinant attributes (the attributes you believe customers actually use to decide). Place each competitor on the 2D map. Identify any clusters and any white-space gaps. Then ask: is each white-space gap a real opportunity or an absence-of-demand? Defend your call.
+**6. Map the four quadrants in a category you know.** Pick a product category you understand well — gaming hardware, athletic footwear, restaurant choice, coffee shops, streaming services, anything. For each of the four buying-behavior types, write a one-paragraph profile of what a consumer in that quadrant looks like in your chosen category. Then write one sentence describing how the marketing mix should differ across the four quadrants.
 
-*Tests: Objective 8. Difficulty: Medium.*
+*(Tests: Objective 2. Difficulty: Medium. Forces system-level application of the involvement × differentiation framework, not just label recognition.)*
 
 ### Synthesis
 
-**7. Run STP end-to-end.** For a real firm in a category you know well, walk all three steps:
+**7. Map the hip-hop/sneaker mechanism to a different category.** The chapter tracked how hip-hop subculture reshaped the sneaker category from 1986 onward. Find a different subculture-and-category pairing that has similarly reshaped consumer behavior over a decade or more — yoga and athleisure, indie music and craft beer, gaming and streaming, tech culture and casual workwear are possible starting points. Document at least three specific brand-collaboration or cultural-endorsement moments that show the mechanism in action. For each, name which of the five influence categories was doing the primary work.
 
-- **Segment** using two methods (one consumer-segmentation method + one psychographic). Identify three segments.
-- **Target** by choosing one segment and writing a buyer persona for it.
-- **Position** by writing a positioning statement and sketching a 2-axis perceptual map placing the firm against three competitors.
+*(Tests: Objectives 1, 3. Difficulty: Medium-high. Tests transfer of the cultural/social/psychological framework across categories.)*
 
-Then evaluate the chain for consistency: does the segmentation justify the target choice? Does the positioning statement reflect the target's actual priorities?
+**8. Diagnose the Pepsi paradox.** Pepsi reliably won blind taste tests against Coca-Cola. Coca-Cola did not lose market share in the way those results would have predicted. Write a 250-word explanation of why, using at least one mechanism from each of the chapter's three main sections — the five categories of influence, the five-stage decision process, and the psychological mechanisms (Maslow, perception, beliefs/attitudes). Do not repeat the chapter's own explanation verbatim; apply the frameworks to reconstruct the reasoning yourself.
 
-*Tests: Objectives 1, 2, 5, 6, 7. Difficulty: Medium-high.*
-
-**8. International segmentation case.** Take a US-based brand you know (clothing, food, tech, anything) and design an international expansion using the four international segmentation methods (geographic / political-legal / economic / cultural). Identify two specific countries you would enter first and two you would deliberately avoid for now. Justify each choice using at least one of Hofstede's cultural dimensions and at least one political-legal factor.
-
-*Tests: Objectives 1, 2. Difficulty: Medium-high.*
+*(Tests: Objectives 1, 4, 6. Difficulty: Medium-high. Forces integration across the chapter's three frameworks.)*
 
 ### Challenge
 
-**9. The ethics-of-targeting stress test.** A consumer-finance firm is considering a marketing campaign for high-interest, no-credit-check personal loans, targeting low-income consumers in geographic areas with high unemployment. Their internal modeling shows the campaign would be highly profitable. They ask for your advice.
+**9. The ethics positioning audit.** Find a brand that explicitly competes on ethical consumerism — Patagonia, Allbirds, TOMS, Beyond Meat, Lush, Ben & Jerry's, or anyone with a visible ethics-as-positioning claim. Conduct a structured audit: (a) what specific ethical claims does the brand make publicly, (b) what evidence does it publish to support those claims, (c) what would a hostile critic point to as a credibility gap, (d) how would the brand's positioning need to evolve if that credibility gap became a public story.
 
-Write a 400-word response that: (a) names the specific ethical concerns this campaign raises, (b) explains the difference between *legal targeting* and *ethical targeting* in this case, (c) proposes one alternative campaign design that could meet the firm's revenue goals without crossing ethical lines, (d) identifies one regulatory or reputational risk the firm should weigh.
+Then evaluate: is the brand's ethics positioning *durable* — hard to displace because the operations genuinely back it — or *fragile* — dependent on consumers not looking too closely? What would make the difference?
 
-*Tests: Objective 9. Difficulty: High.*
-
-**10. Reposition a struggling brand.** Pick a real brand you believe is poorly positioned today — could be one losing share, one with a confused identity, one whose differentiation no longer matters. Document the current positioning (statement + perceptual map placement). Propose a repositioning: new positioning statement, what changes to product / price / place / promotion would be required to make it credible, and what specific evidence in 12 months would tell you the repositioning is working or failing.
-
-*Tests: Objective 7. Difficulty: High.*
-
----
-
-## Chapter Summary
-
-**What you can do now that you could not do before this chapter:**
-
-You can take any product category and run STP end-to-end: segment the market using consumer-, B2B-, or international-appropriate methods; evaluate segments using ADAMS; choose a target-market strategy that fits the firm's resources; write a positioning statement using a standard template; build a perceptual map that reveals competitive density and white-space; and recognize when targeting crosses into exploitation.
-
-**The one idea that matters most from this chapter:**
-
-You cannot sell to everyone. The firm with limited resources that targets a specific subset wins more than the firm that targets the whole market. STP is the discipline of giving up the segments you can't serve well in order to win the segments you can.
-
-**The common mistake to watch for:**
-
-Confusing *segmentation* with *targeting*. Segmentation describes how the market divides; targeting decides which divisions to pursue. A firm with sophisticated segmentation analysis and no targeting decision is doing analysis, not strategy.
-
-**The Feynman test:**
-
-Close the book. Pick a brand you know. In two minutes, can you describe (a) which segments it has chosen to target, (b) which target-market strategy it appears to use, (c) what its positioning statement would look like in standard template form, and (d) where it would sit on a perceptual map of two attributes you choose? If yes, you have internalized the chapter. If not, the gap tells you which concept section to reread.
+*(Tests: Objective 8. Difficulty: High. Tests evaluative judgment about the relationship between ethics, evidence, and brand-positioning durability.)*
 
 ---
 
 ## Connections Forward
 
-**Chapter 8 — Marketing Research and Market Intelligence** provides the methods for actually validating segments and personas with empirical evidence. STP without research is hypothesis; STP with research is strategy.
+**Chapter 6 — Business Markets and Purchasing Behavior** runs a parallel investigation for organizational buyers. Most of this chapter's frameworks need adjustment: business buying involves multiple decision-makers, longer time scales, formalized processes, and derived demand — demand that exists only because another firm has a consumer-facing demand upstream. Both kinds of buyers exist in the marketplace; both need their own treatment.
 
-**Chapter 10 — Marketing in a Diverse Marketplace** extends segmentation specifically to the cultural, demographic, and generational diversity of modern domestic markets. Many ethical-targeting issues raised in this chapter are unpacked further in Chapter 10.
+**Chapter 7 — Market Segmentation, Targeting, and Positioning** uses the influence categories from this chapter as the substrate for segmentation. The five categories are what produce meaningfully different consumer groups; you cannot segment without them.
 
-**Chapter 12 — Products: Consumer Offerings** through **Chapter 22 — Sustainable Marketing** are all downstream of STP. Every product decision, pricing decision, channel decision, and promotion decision is being made *for the targeted segment* and *to support the chosen positioning*. STP is the upstream constraint that determines whether the rest of the marketing mix can possibly cohere.
+**Chapter 8 — Marketing Research** provides the measurement methods. Surveys, focus groups, observation, behavioral analytics — the toolkit that makes the buyer's black box partially illuminated.
+
+**Chapter 10 — Marketing in a Diverse Marketplace** extends the cultural-factors lens to the diversity of the modern domestic marketplace. The cognitive and social mechanisms operate across cultures; the specific content varies dramatically by group, and Chapter 10 is where that variation gets the treatment it deserves.
+
+**Chapters 12–22** deploy all of this into the four Ps. Every product, price, promotion, and place decision is an implicit hypothesis about consumer behavior. This chapter taught you what those hypotheses are made of.
 
 ---
 
-*Voice anchor: Feynman × MKBHD hybrid. See `style/VOICE.md`.*
-*Source: OpenStax modules m00026–m00032 + m00137. All statistics, brand examples, and historical claims drawn from source. Hofstede's cultural dimensions framework named but only partially unpacked (Power Distance Index used as the example); other dimensions referenced for forward use in Ch 9 (Global Marketing). The Wired Coffee Bar case (deferred from Ch 5) and Corporate Medical Services case (deferred from Ch 6) are eligible for use in Concept 3's positioning examples in a future revision pass.*
----
-
-## LLM Exercise — Chapter 7: Market Segmentation, Targeting, and Positioning (STP)
+## LLM Exercise — Chapter 5: Consumer Markets and Purchasing Behavior
 
 **Project:** AI Marketing Assistant.
-**What you're building this chapter:** the STP capability — segmentation with the five-criteria filter, targeting strategy selection, and positioning-statement drafting. This is the heaviest single capability in the assistant.
-**Tool:** **Claude Project** "Marketing Assistant" — adds full STP capability + runs an STP analysis on your brand.
+**What you're building this chapter:** the consumer-decision capability — five-stage decision-process mapping, five-influence-category diagnostic, and the four buying-behavior types.
+**Tool:** **Claude Project** "Marketing Assistant" — adds capability + runs a customer-journey probe.
 
 ---
 
 **The Prompt:**
 
 ```
-I'm in Chapter 7 of building my AI Marketing Assistant. This
-chapter taught: segmentation by four base types (geographic,
-demographic, psychographic, behavioral) with the five criteria
-that separate a real segment from a wishful one (Measurable,
-Accessible, Substantial, Differentiable, Actionable — MASDA);
-targeting strategies (undifferentiated, differentiated,
-concentrated/niche, micromarketing) and the resource implications
-of each; positioning as how the customer perceives the offer
-(NOT how the firm describes it), with the positioning-statement
-template ("For [target] who [need], [brand] is the [category] that
-[differentiator]. Unlike [alternative], we [reason to believe].").
+I'm in Chapter 5 of building my AI Marketing Assistant. The
+assistant has firm-side capabilities (Value, Mix, SWOT/Portfolio,
+SMART, Measurement) and Discovery Mode (Ch 4). This chapter taught:
+the consumer "black box" model with five influence categories
+(cultural, social, personal, psychological, situational); the
+five-stage decision process (problem recognition → information
+search → evaluation of alternatives → purchase decision →
+post-purchase evaluation); the four buying-behavior types (complex,
+dissonance-reducing, habitual, variety-seeking); Maslow's hierarchy
++ selective perception + the gap between need and want.
 
-The chapter's anchor claim: most "segments" in real marketing
-plans are wishful. They name a group of people the brand wishes
-existed, not a group whose behavior the brand can actually
-measure, reach, and serve differently.
+The chapter's anchor claim: customers don't always buy what they
+"need"; they buy at the intersection of recognized problem,
+narrowed evoked set, and salient psychological influence. Which
+stage they're stuck at matters more than which product they buy.
 
-Add the **STP Capability** — three sections, then a full STP run.
+Add the **Consumer Decision Capability** to my assistant. Produce
+three things.
 
-1. **System-prompt insert: Segmentation with MASDA Filter.** A
-   markdown section specifying how the assistant proposes
-   segments, then runs each segment through the MASDA filter, and
-   refuses to recommend a segment that fails on more than one
-   criterion. Include the rule: never propose a segment that
-   doesn't have a measurable size estimate.
+1. **System-prompt insert: Five-Stage Journey Mapping.** A markdown
+   section specifying how the assistant takes any consumer
+   purchase situation and maps it across the five stages, naming:
+   what triggers problem recognition; where the consumer searches
+   (brand-controlled vs. uncontrolled sources); what evaluation
+   criteria are likely active; what closes or blocks the purchase
+   decision; what post-purchase risks exist (cognitive dissonance,
+   review behavior, churn). Include the rule: do not invent
+   stages the data doesn't support.
 
-2. **System-prompt insert: Targeting Strategy Selection.** A
-   markdown section specifying how the assistant chooses among
-   undifferentiated, differentiated, concentrated, and
-   micromarketing — with the resource-and-fit reasoning for each.
+2. **System-prompt insert: Influence Category Diagnostic.** A
+   markdown section specifying how the assistant identifies which
+   of the five influence categories is most operative on a given
+   purchase, and what the marketing implication is (cultural →
+   reach + symbol; social → identity + reference group; personal →
+   demographic + lifestyle; psychological → motivation + perception
+   + learning + attitudes; situational → context-of-purchase
+   design). Note the four buying-behavior types and when each
+   applies.
 
-3. **System-prompt insert: Positioning-Statement Drafting.** A
-   markdown section specifying the template and the three failure
-   modes the assistant catches: meaningless differentiator
-   ("better experience"); incoherent target ("for everyone who
-   values quality"); reason-to-believe that's actually a wish
-   ("because we care").
+3. **A live customer-journey probe on YOUR brand.** Pick the
+   single most important customer purchase moment for your brand
+   and run the assistant through:
+   - The five-stage journey for that purchase.
+   - The dominant influence categories at each stage.
+   - The buying-behavior type the purchase most resembles.
+   - The two most consequential things the brand could change
+     about the journey to convert more buyers — with the stage and
+     mechanism named.
 
-4. **A full STP run on YOUR brand.** Have the assistant:
-   - Propose 3–5 candidate segments using mixed bases.
-   - Run MASDA filter on each.
-   - Recommend ONE segment as the target with the targeting
-     strategy.
-   - Draft a positioning statement against that target.
-   - Then provide a perceptual-map sketch (with two axes named)
-     showing where the brand sits relative to 2–3 competitors.
-
-Document the full STP run. The positioning statement should
-survive a hostile reader; if it doesn't, refine it.
+Document the probe. The probe's most useful output is often the
+"two consequential changes" — they should NOT be tactical (don't
+say "add more product photos"). They should name a stage where
+something is breaking and the mechanism that would unstick it.
 ```
 
 ---
 
-**What this produces:** Three system-prompt sections + a complete STP analysis with a defensible positioning statement and a perceptual map. The STP run is one of the project's centerpiece artifacts.
+**What this produces:** Two system-prompt sections + a populated five-stage customer-journey analysis for your brand's most important purchase moment.
 
 **How to adapt this prompt:**
 
-- *For your own project:* The MASDA filter is the most useful single move. Most students propose wishful segments on the first try; the filter forces honest scope.
+- *For your own project:* The "two consequential changes" output is the most testable. If the assistant produces tactical recommendations instead of stage-mechanism ones, refine the system prompt to ban tactical recs without a stage-mechanism diagnosis.
 - *For ChatGPT / Gemini:* Works as written.
-- *For Claude Code:* If you want a perceptual map as a real chart (input competitors + axis scores, output a 2D scatter), Claude Code can build it. Useful sidecar for visual storytelling.
-- *For a Claude Project:* Three substantial new sections in the project instructions. Your assistant has 12 capabilities total now; consider whether the system prompt is getting unwieldy and whether you need to refactor sections.
+- *For Claude Code:* If you want a journey-mapping diagram as a Mermaid flowchart for each stage, Claude Code can produce it.
+- *For a Claude Project:* The two new sections go in the project instructions. Your assistant has 8 capabilities total now.
 
-**Connection to previous chapters:** Chapter 4's Discovery Mode + Chapter 5's consumer-decision capability + Chapter 6's B2B capability all feed STP. The segments STP names should be discoverable and decision-mappable; segments that aren't are wishful.
+**Connection to previous chapters:** Chapter 4's Discovery Mode and Chapter 5's journey mapping work together — discovery mode names what's unknown about the customer; journey mapping operationalizes the customer's actual path.
 
-**Preview of next chapter:** Chapter 8 adds research-design capability. The assistant will be able to design a 7-step marketing research plan, choose between primary and secondary methods, and spot survey-design errors. The bridge from "we believe X about the customer" to "what would settle X."
-
+**Preview of next chapter:** Chapter 6 adds B2B capability. The assistant will be able to map a buying center, identify a buy class (new task / modified rebuy / straight rebuy / blanket), and run the 8-stage business-buying process. Crucial for any brand that sells to businesses, not just consumers.
 
 ---
 
 ## AI Wayback Machine
 
-**Wendell Smith** was introduced market segmentation as a strategy in his 1956 Journal of Marketing article.
+**Ernest Dichter** pioneered "motivation research" in the 1940s — using psychoanalysis to understand consumer behavior.
 
 **Run this:**
 
 ```
-Who is Wendell Smith, and how does their work connect to segmentation and positioning we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who is Ernest Dichter, and how does their work connect to consumer
+purchasing behavior we covered in this chapter? Keep it to three
+paragraphs. End with the single most surprising thing about their
+career or ideas.
 ```
 
-→ Search **"Wendell Smith"** on Wikipedia.
+→ Search **"Ernest Dichter"** on Wikipedia.
 
 **Now make the prompt better.** Try one of these:
 
-- Ask it to apply Wendell Smith's framework to a current marketing question.
-- Add a constraint: "Answer including criticisms or limits of Wendell Smith's framework."
+- Ask it to apply Ernest Dichter's framework to a current marketing question.
+- Add a constraint: "Answer including criticisms or limits of Ernest Dichter's framework."
 
 What changes? What gets better? What gets worse?
