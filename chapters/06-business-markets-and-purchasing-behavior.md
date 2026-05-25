@@ -2,318 +2,178 @@
 
 *Selling to a business is not just selling to a bigger consumer. The decision logic is different, the people are different, the time scale is different, and the trade-offs are different.*
 
-## Learning Objectives
+Here is a comparison that sounds obvious until you actually think about it.
 
-By the end of this chapter, you will be able to:
+You and your housemate need a new vacuum cleaner. The two of you discuss it for ten minutes, agree on a budget, pick a brand, place the order. One afternoon. Done.
 
-1. Distinguish business-to-business (B2B) markets from business-to-consumer (B2C) markets across the six structural differences (decision nature, buyer count, demand type, cycle length, marketing reliance, geographic concentration).
-2. Identify the four types of B2B buyers — producers, resellers, governments, institutions — and explain what each one needs from the firms that sell to them.
-3. Compare the four B2B buy classes (straight rebuy, modified rebuy, new-task buy, systems selling) and recognize which marketing approach each requires.
-4. Map the six roles in a B2B buying center (initiator, influencer, gatekeeper, buyer, decider, user) onto a real purchase decision and identify which role dominates the outcome.
-5. Walk the eight-stage B2B buying process and explain which stages get compressed for routine purchases and which expand for new-task purchases.
-6. Apply the five categories of B2B buyer influence (external, internal, individual, interpersonal, conditional) to predict how a specific B2B sale will be made.
-7. Define **derived demand** and explain how a B2B firm's demand is downstream of consumer-market demand.
-8. Evaluate a B2B ethics dilemma using the Foreign Corrupt Practices Act (FCPA) framework and identify when a "facilitation fee" is a bribe.
+A medium-sized law firm needs a new commercial-grade copier. The administrative assistant — who uses the existing copier daily — complains it is slow. The managing partner agrees. The office manager researches options and gets quotes. A senior partner reviews the budget. The IT consultant validates network compatibility. The procurement officer negotiates terms. After weeks, an order is placed.
 
-## Prerequisites
+Same kind of decision: replace a piece of equipment. But one involved two people and took an afternoon, and the other involved six people and took weeks. Why?
 
-You should be familiar with the consumer-behavior frameworks from **Chapter 5** — particularly the five-stage decision process, the four types of buying behavior, and the five categories of consumer influence. This chapter parallels that one for business buyers; the parallels are useful, and so are the differences.
+The answer is not that businesses are inefficient. The answer is that the two decisions are structurally different in ways that go all the way down — to who has a stake, who bears the risk, what the purchase has to prove to get approved, and what happens to the person who made the call if it turns out to be wrong.
 
-You should also be familiar with the value ratio from **Chapter 2** — V = B/P — because B2B purchasers compute the ratio differently than consumers do, and understanding the difference is one of the central insights of this chapter.
-
-## Why This Chapter Matters
-
-If you go on to work in marketing, there is roughly a 50/50 chance your job will be in B2B rather than B2C. By dollar volume, B2B markets dwarf B2C markets — every consumer good has a long upstream chain of B2B transactions (raw materials, components, manufacturing equipment, software, professional services) that must complete before the final B2C sale happens. Yet B2B receives less attention in introductory marketing courses than its size warrants, because most of the visible marketing students experience as consumers is B2C.
-
-This chapter teaches you to read a business buyer the way Chapter 5 taught you to read a consumer. The mechanisms are different. Business buyers operate inside organizations with formal procedures, multiple decision-makers, longer time horizons, derived (rather than direct) demand, and ethical-legal frameworks (the FCPA, antitrust law) that don't exist for consumer purchases. A marketing approach designed for consumers will fail in B2B in specific, predictable ways: it will target the wrong person, miss the buying cycle, and compete on the wrong dimensions.
-
-By the end of the chapter, you will be able to take any B2B sales situation and identify the buyer type, the buying class, the decision-making roles, the influence categories doing the work, and the buying-process stage the deal is in. You will also know where the ethics traps are and how to avoid them.
+That structural difference is what this chapter is about.
 
 ---
 
-## Concept 1 — B2B Markets Are Structurally Different from B2C Markets
+## The Six Ways B2B Is Different from B2C
 
-### The motivating puzzle
-
-**RingCentral** sells cloud-based business communications software — messaging, video meetings, phone, omnichannel contact center. Its customers are other businesses. RingCentral itself is also a business buyer — among other things, it bought a customer-feedback management platform from **Medallia** and used it to wire customer signals directly into product development and customer support training.
-
-The result, after rolling out the dashboards: RingCentral's support team **reached an average customer satisfaction (CSAT) score of 9 out of 10 in two key market segments**. The customer-support director attributed the score directly to having real-time customer feedback and the ability to close the loop while the feedback was still fresh.
-
-The puzzle: this entire story is invisible to consumers. RingCentral is selling to businesses; Medallia is selling to RingCentral; both are operating at scale; neither runs Super Bowl commercials. And yet the dollars involved make consumer-facing marketing look small. The B2B world has its own vocabulary, its own cycles, and its own dynamics, and most consumers — including most marketing students starting Chapter 6 — have never seen them up close.
-
-### The mechanism — six structural differences between B2B and B2C markets
-
-A business-to-business (B2B) transaction is one between two businesses. A business-to-consumer (B2C) transaction is one between a business and an end consumer. Many companies do both — **Office Depot** sells pens and paper to a college student (B2C) and ships hundreds of reams of paper plus printer cartridges to a law firm (B2B). The same firm runs different operations to serve the two markets because the markets are different in six structural ways:
-
-| Dimension | B2C | B2B |
-|---|---|---|
-| **Nature of decision** | Buying for self / household | Buying for an organization that serves others |
-| **Buyer count, purchase size** | Many small buyers | Fewer larger buyers |
-| **Demand type** | Direct | Derived |
-| **Buying cycle** | Short | Long, complex |
-| **Marketing reliance** | Mass marketing | Personal selling |
-| **Geography** | Dispersed worldwide | Often concentrated by industry / resources |
+A business-to-business (B2B) transaction is one between two businesses. A business-to-consumer (B2C) transaction is one between a business and an end consumer. Many firms do both — Office Depot sells pens to a college student (B2C) and ships hundreds of reams of paper to a law firm (B2B). The same firm runs different operations to serve the two sides, and the reason is that the markets differ along six structural dimensions.
 
 <!-- → TABLE: B2B vs. B2C structural comparison. Six rows, two columns. Each cell concise. The student should see the comparison at a glance before reading the explanation. -->
 
-**Decision nature.** A consumer decides what a household needs and buys it. A B2B buyer decides what an organization needs — sometimes serving consumers downstream, sometimes serving other businesses — and buys it on behalf of that organization. The personal stake is different. A consumer regrets a bad personal purchase. A B2B buyer who makes a bad organizational purchase faces career consequences.
+**Decision nature.** A consumer decides what a household needs and buys it for themselves. A B2B buyer decides what an organization needs and buys it on behalf of that organization. The personal stake is different. A consumer who makes a bad purchase is inconvenienced. A B2B buyer who makes a bad organizational purchase faces career consequences — budgets scrutinized, reputations staked. This is not a small difference. It changes how carefully people specify what they need, how many people they consult, and how strongly they favor suppliers they already know and trust.
 
-**Buyer count and purchase size.** B2C: thousands or millions of buyers, each buying small quantities. B2B: many fewer buyers, each buying much larger quantities. **Barnes & Noble** is a single B2B buyer; the books it stocks serve hundreds of thousands of student-customers. A textbook publisher selling to Barnes & Noble is selling to one buyer that can move a million units; the same publisher selling directly to students would need a million transactions. The math is profoundly different.
+**Buyer count and purchase size.** B2C is many small transactions. B2B is few large ones. Barnes & Noble is a single B2B buyer; the books it stocks serve hundreds of thousands of student customers downstream. A publisher selling to Barnes & Noble is placing one sale that can move a million units. The math is different in ways that ripple through every pricing, sales, and relationship decision.
 
-**Direct vs. derived demand.** This distinction is one of the central insights of B2B marketing. **Direct demand** is demand for goods and services the consumer wants to consume directly. **Derived demand** is demand for goods and services that exists *because* of demand for something else downstream. When more workers shifted to working from home in 2020–2022, **direct demand** for home offices and laptops rose. **Derived demand** rose downstream — for the components inside those laptops (chips, displays, batteries), the peripherals (mice, monitors, printers, webcams), the cables, the cardboard boxes that ship them, the trucks that deliver them, the warehouse software that tracks them. A B2B firm selling any of those derived-demand goods has its sales tied to consumer demand it doesn't directly market to. A B2B marketer who doesn't understand the consumer-side demand driving their derived demand is operating in the dark.
+**Direct demand versus derived demand.** This is the concept that most clearly separates B2B from B2C, and it is worth slowing down for.
 
-**Buying cycle length.** A consumer can buy a desktop computer in an hour. A hospital can take **months or years** to buy an MRI machine — millions of dollars at stake, multiple departments involved, regulatory and safety considerations, post-purchase service contracts. **The Indian government took nearly four years to negotiate the purchase of 56 Airbus C295MW tactical transport aircraft.** The same product class (an aircraft) can take that long because the deal involves more decision-makers, more risk factors, and more contractual complexity than any consumer transaction.
+**Direct demand** is demand for something people consume themselves. You want a laptop because you want a laptop. **Derived demand** is demand that exists *because* of something else downstream. When the laptop market grows, demand rises for the chips inside laptops, the screens, the batteries, the cardboard boxes that ship them, the warehouse software that tracks inventory, the trucks that make deliveries. None of those B2B firms sold to the person who bought the laptop. They sold to someone who sold to someone who sold to the person who bought the laptop. Their sales are derived from a consumer market they don't touch directly.
 
-**Marketing reliance.** B2C marketing leans on mass marketing — TV ads, social media campaigns, search engine marketing, digital display. B2B leans on **personal selling** — sales reps, account executives, technical specialists, customer success managers. Each B2B sale is high-stakes enough that the cost of a personal relationship with the buyer pays back. Each B2C sale is low-stakes enough that mass-marketing economics dominate. Both approaches scale — just by different mechanisms.
+This has a consequence that is not obvious at first. A B2B firm selling derived-demand products has its revenue tied to a consumer-side wave it is not generating and cannot fully control. When home-office equipment demand surged in 2020, derived demand for peripherals, cables, component parts, and packaging all surged downstream. When consumer spending on electronics contracted, those B2B contracts contracted too. A B2B marketer who doesn't watch the consumer-market signals driving their derived demand is navigating in the dark.
 
-**Geographic concentration.** B2C customers live everywhere. B2B customers cluster — Detroit (automotive), Silicon Valley (technology), Houston (energy), Pharma Valley in New Jersey, fashion in New York and Milan. Industries have agglomeration economics — suppliers locate near customers, talent locates near firms, knowledge spillovers compound. A B2B marketer can sometimes cover most of an industry's buyers by attending three trade shows in three cities; a B2C marketer can never do that.
+**Buying cycle length.** A consumer buys a desktop computer in an afternoon. A hospital can take months — sometimes years — to buy an MRI machine. Millions of dollars at stake, multiple departments involved, regulatory and safety considerations, post-purchase service contracts stretching across the equipment's lifetime. The Indian government took nearly four years to negotiate the purchase of 56 Airbus C295MW tactical transport aircraft. The product class is narrow; the deal is enormous. The cycle length is not bureaucratic inefficiency — it is proportional to what is at stake.
 
-### The trade-off — relationship economics vs. mass-marketing economics
+**Marketing reliance.** B2C leans on mass marketing: TV, social media, search, display. B2B leans on personal selling: account executives, technical specialists, customer success managers. Each B2B sale is large enough that the cost of a dedicated sales relationship pays back. Each B2C sale is small enough that building personal relationships at consumer scale would cost more than the revenue justifies. Both approaches scale — just by entirely different mechanisms. A B2B firm that runs Super Bowl ads is almost certainly wasting money. A B2C firm that deploys account executives to individual customers is burning margin.
 
-The single most consequential difference between B2C and B2B is the relationship/mass trade-off.
-
-**Mass marketing economics:** the marginal cost of adding one more customer is near zero. A Super Bowl commercial reaches 100 million viewers; the cost of reaching 100 million and one is identical. The economics favor *brand-building investments that scale across millions* — TV, social media, search.
-
-**Relationship economics:** every customer is a hand-built relationship. The marginal cost of adding one more enterprise customer is the cost of one more sales rep's time. The economics favor *deep account investments that produce large per-customer revenue and long lifetime value* — sales teams, customer success, account-based marketing.
-
-Most B2B firms get this wrong by trying mass-marketing tactics on enterprise prospects. A bank that buys cloud software is not influenced by display ads. A hospital procurement department is not browsing TikTok. The efficient channels for these buyers are sales reps with industry expertise, white papers and case studies that match their specific situation, and warm introductions through industry networks.
-
-Most B2C firms get the inverse wrong by trying relationship tactics on consumers. A consumer-goods firm that hires inside sales reps to call individual shoppers is burning money. The efficient channels are mass — and the firms that win on mass marketing scale.
-
-The trade-off forces the marketer to know which game they're in.
-
-### Worked example — the four types of B2B buyers
-
-The B2B world contains four distinct buyer categories. Each requires a different marketing approach.
-
-**Producers.** Companies that buy goods to transform into other goods. **Emerson Electric** buys capacitors, printed circuit boards, resistors, diodes, and dozens of other components to manufacture HVAC controls. **Burger King** buys beef patties, buns, lettuce, pickles to make sandwiches. **OSI supplies 45 million pounds of steak, salsa, beans, and other food products to Chipotle, and has been supplying meat to McDonald's for over 50 years.** The producer-buyer relationship is among the longest in B2B; switching suppliers is expensive because of dependencies on quality consistency, delivery reliability, and contractual terms. *Marketing implications:* invest in long-term account relationships, demonstrate quality consistency through audits and certifications, anticipate the buyer's downstream production needs.
-
-**Resellers.** Retailers, wholesalers, and brokers. They buy unchanged goods to resell. **Walmart and Target** are retailers; the convenience store across from your campus that stocks chips and soft drinks from a wholesaler is also a retailer. **Wholesalers** buy in larger volumes from producers and resell to retailers. **Brokers** match buyers with sellers for commissions and may represent multiple non-competing producers. *Marketing implications:* shelf-space competition, trade promotions, in-store merchandising support, channel-partner programs.
-
-**Government.** **The US government is the largest single purchaser of goods and services in the world** — paper clips and staples to tanks and jets, plus contracted services from transportation to garbage collection. Selling to the federal government requires registration with the **System for Award Management** and engagement with the **General Services Administration (GSA)** for procurement of routine goods (office supplies, vehicles, IT services). Important nuance: agencies don't buy products; *people* in agencies do. A marketer who optimizes only for the GSA processes misses the agency-level relationships that determine which products win contracts. *Marketing implications:* compliance and certification capabilities, dedicated government-affairs sales teams, long sales cycles, formal RFP responses.
-
-**Institutions.** Nonprofits, charities, churches, educational institutions, hospitals, museums, nursing homes, civic clubs. The **Wounded Warrior Project**, **Ronald McDonald House Charities**, churches, schools, and hospitals all buy in volume. A large nursing home buys food, beverages, linens, janitorial supplies, medications. *Marketing implications:* mission-aligned positioning often matters more than price; budget-cycle awareness (annual vs. capital); demonstrating ROI in non-profit accounting frameworks.
-
-**Alibaba** illustrates how the structure scales: Alibaba.com is an online B2B marketplace founded by Jack Ma in 1999, now hosting millions of sellers across **40+ product categories**. Many sellers are producers of raw materials and manufactured goods; B2B buyers are typically retailers, wholesalers, sourcing agents, or manufacturers sourcing for resale. Alibaba even offers "Pay Later" through Kabbage Funding so buyers can purchase inventory without immediate funds. The platform is B2B reseller infrastructure at internet scale.
-
-### Common misconceptions
-
-**"B2B is just B2C with bigger orders."** No. Bigger orders are the surface; the underlying decision logic is different. B2B buyers are agents acting on behalf of an organization, not principals deciding for themselves. Their incentives, time horizons, and risk profiles differ accordingly.
-
-**"Government and institutional markets are too bureaucratic to be worth pursuing."** A common dismissal that costs firms a lot of money. The US government's procurement budget is larger than most countries' GDPs. The marketing approach is different (certifications, RFPs, long cycles), not absent.
-
-**"Derived demand means I can ignore consumer marketing."** A B2B firm whose product has derived demand has its sales tied to a consumer market they don't sell to. Ignoring that consumer market means missing the early signals that demand is rising or falling.
+**Geographic concentration.** B2C customers live everywhere. B2B customers cluster. Detroit is automotive. Houston is energy. New Jersey's Pharma Valley is pharmaceuticals. Manhattan is finance. Industries have agglomeration economics — suppliers locate near customers, talent locates near firms. A B2B marketer can sometimes cover most of an industry's buyers by attending three trade shows in three cities. A B2C marketer covering the same number of potential customers would need to be everywhere at once.
 
 ---
 
-## Concept 2 — The Buying Center and the Four Buy Classes
+## Four Types of B2B Buyers
 
-### The motivating puzzle
+The B2B world contains four distinct buyer categories. Each one needs different things from the firms that sell to it.
 
-You and your housemate need a new vacuum cleaner. The two of you discuss it for ten minutes, agree on a budget, pick a brand, place the order. The whole thing takes one afternoon.
+**Producers** buy goods to transform into other goods. Emerson Electric buys capacitors, circuit boards, resistors, and dozens of other components to manufacture HVAC controls. Burger King buys beef patties, buns, and condiments to make sandwiches. OSI Group supplies 45 million pounds of steak, salsa, beans, and other ingredients to Chipotle, and has been supplying meat to McDonald's for over fifty years. The producer-buyer relationship tends to be among the longest-lived in B2B — switching suppliers is expensive because of dependencies on quality consistency, delivery reliability, and deep integration with production processes. Marketing to producers means demonstrating consistency, passing quality audits, and anticipating the buyer's downstream production needs before they do.
 
-Now imagine a medium-sized law firm needs a new commercial-grade copier. The administrative assistant — who uses the existing copier daily — complains it's slow. The managing partner agrees. The firm's office manager researches options and gets quotes. A senior partner reviews the budget. The IT consultant validates network compatibility. The procurement person negotiates. Finally, after weeks, an order is placed.
+**Resellers** — retailers, wholesalers, brokers — buy unchanged goods to resell. Walmart and Target are retailers. The convenience store near campus that stocks chips and soft drinks from a wholesaler is also a retailer. Wholesalers buy in volume from producers and resell to retailers. Brokers match buyers with sellers for commissions. The marketing dynamic here centers on shelf space, trade promotions, and channel relationships: the question is not "does the reseller want this product" but "where will it land in the store, and what support do we provide to move it off the shelf."
 
-Same kind of decision (replace existing equipment), wildly different process. The vacuum decision involved two people. The copier decision involved at least six. **A study in Germany found 86 percent of procurement decisions at large- and medium-sized companies are made by groups of 2–20 people. In companies of fewer than 100 employees, typically 3 people are involved. In companies of 1,000+ employees, as many as 34 people are involved.**
+**Government.** The US government is the largest single purchaser of goods and services in the world — from paper clips to aircraft carriers, plus contracted services from transportation to waste management. Selling to the federal government requires registration with the System for Award Management and engagement with the General Services Administration. The important nuance: agencies don't buy products — people inside agencies do. A marketer who optimizes only for the procurement process misses the agency-level relationships that determine which products win contracts. The cycle is long, the compliance requirements are real, and the upside — once in — can be enormous.
 
-The mechanism that explains this is the **buying center**.
+**Institutions** — nonprofits, hospitals, universities, museums, nursing homes, civic organizations — buy in volume under budget constraints that differ from corporate P&L logic. A large nursing home buys food, linens, janitorial supplies, medications. Mission alignment often matters more than price; the institutional buyer is accountable to a board, a donor base, or a regulatory body rather than shareholders. Marketing to institutions means understanding their budget cycles, their mission, and their accountability structure — not just their needs.
 
-### The mechanism — the buying center and its six roles
+---
 
-The **buying center** (sometimes called the **decision-making unit** or **DMU**) is the group of people inside an organization who participate in a B2B purchase decision. The buying center is rarely a formal committee; it's an informal network of people whose roles cluster into six categories:
+## The Buying Center: Six Roles, One Decision
 
-**Initiator** — the person who first identifies the need. Could be a machine operator who needs a new tool, a manager who realizes a software contract is expiring, a department head who notices a process gap.
+Here is the concept that most directly explains the copier puzzle from the opening.
 
-**Influencer** — the person who shapes specifications and provides information for evaluation. **Business influencers** focus on revenue impact (will this purchase make us money or save us money). **Technical influencers** focus on operational impact (will this work with our existing systems, our workforce skills, our processes). Influencers don't always have formal decision authority, but their input shapes what gets bought.
+The person who places the order is not necessarily the person who decided what to buy. The person who decided is not necessarily the person who set the specifications. The person who set the specifications is not necessarily the person who will live with the outcome. In B2B, a single purchase can involve six distinct roles — and all of them can affect the outcome.
 
-**Gatekeeper** — controls information flow to and from decision-makers. The executive assistant who manages the calendar. The procurement officer who routes vendor inquiries. Gatekeepers can effectively block a vendor by simply not connecting them to decision-makers. *"There are no openings on the calendar at this time"* is the gatekeeper's most common phrase, and it can kill a sale.
+A study in Germany found 86 percent of procurement decisions at large- and medium-sized companies are made by groups of two to twenty people. In companies of fewer than 100 employees, typically three people are involved. In companies of 1,000 or more employees, as many as 34 people may be involved.
 
-**Buyer** — the person with formal authority to select suppliers, negotiate terms, and execute purchases. In the law-firm copier example, this might be the office manager. In a large corporation, it's a procurement officer with a defined approval limit.
+The group doing the deciding is called the **buying center** — sometimes the **decision-making unit** (DMU). It is rarely a formal committee. It is an informal network of people whose influence over the purchase clusters into six roles:
 
-**Decider** — the person whose authority ultimately determines whether the purchase happens. For routine purchases (straight rebuys), the decider is often the buyer. For major purchases, the decider sits higher in the organization — a CFO, CEO, or board.
+**Initiator** — identifies the need. Could be a machine operator who needs a new tool, an IT manager who notices a software contract expiring, an administrative assistant who has complained about the copier for six months.
 
-**User** — the person who actually uses the product or service. Users may also be initiators (the machine operator who first asks for the new tool), but they're listed separately because the user role is about post-purchase satisfaction, which feeds back into future buying decisions.
+**Influencer** — shapes specifications and provides evaluation criteria. Business influencers ask whether the purchase will make or save money. Technical influencers ask whether it will work with existing systems, processes, and workforce skills. Influencers often have no formal decision authority; their input shapes what the decider even gets to see.
+
+**Gatekeeper** — controls information flow to and from decision-makers. The executive assistant who manages the calendar. The procurement officer who routes vendor inquiries. "There are no openings on the calendar at this time" is the gatekeeper's most useful sentence, and it can end a sale before it starts.
+
+**Buyer** — holds formal authority to select suppliers and execute purchases. In the law-firm example, the office manager. In a large corporation, a procurement officer with a defined approval limit.
+
+**Decider** — the person whose authority ultimately determines whether the purchase happens. For routine purchases, the decider and the buyer are often the same person. For major purchases, the decider sits higher: a CFO, a CEO, a board.
+
+**User** — the person who actually operates the product. Users may also be initiators — the machine operator who first asks for the new tool is both. The distinction matters because user satisfaction, post-purchase, determines whether the next purchase is a renewal or a replacement.
 
 <!-- → DIAGRAM: Buying center as a six-node network. Each role labeled with its function and a one-line example from the law-firm copier case (admin assistant = initiator + user + technical influencer; managing partner = decider; office manager = buyer; etc.). The student should see that one person can occupy multiple roles, and not every role appears in every decision. -->
 
-The same person can occupy multiple roles. The administrative assistant in the copier example is initiator (raised the issue), user (operates the copier daily), and technical influencer (knows what features matter operationally). The managing partner is the decider. The office manager is the buyer.
+One person can occupy multiple roles. The administrative assistant in the copier example is initiator (raised the issue), user (operates it daily), and technical influencer (knows which features matter). The managing partner is the decider. The office manager is the buyer. The IT consultant is the technical influencer.
 
-### The trade-off — selling to one role vs. selling to all roles
+The practical implication: a vendor who only talks to "the buyer" is reaching one role in a six-role network. The buyer can place the order; the buyer cannot override the gatekeeper who never schedules the demo, or the technical influencer who writes specifications the vendor's product can't meet.
 
-A vendor who only talks to "the buyer" misses the five other roles. A vendor who tries to engage all six roles for every prospect spreads sales effort too thin to win.
+The discipline is to map the buying center for each prospect — identify who occupies which role, and concentrate resources on the one or two roles that dominate for the specific deal type. For technical sales, focus on technical influencers and users. For high-budget capital purchases, focus on the decider and business influencers. For displacing an incumbent vendor, focus on the gatekeeper first — they are often the reason the incumbent has held the account.
 
-The trade-off forces a discipline: **map the buying center for each prospect, identify which 1–2 roles dominate the outcome, and concentrate resources there**. Different deal types require different role focus:
+---
 
-- **For technical sales** (software, manufacturing equipment): focus on technical influencers and users.
-- **For high-budget sales** (capital equipment, multi-year contracts): focus on the decider and business influencers.
-- **For routine sales** (consumables, supplies): focus on the buyer; the others rarely interfere.
-- **For status-quo displacement** (replacing an incumbent vendor): focus on the gatekeeper first — they're often the reason the incumbent has held the account.
+## Four Buy Classes: Not All Purchases Are Created Equal
 
-A vendor who maps the buying center wrong gets the response that haunts B2B sales reps: *"this looks great, but we need to involve [name of person you didn't talk to]."*
+Cut the B2B world differently — by the nature of the purchase rather than the type of buyer — and you get four buying situations that require completely different marketing approaches.
 
-### Worked example — the four buy classes
+**Straight rebuy.** Routine purchase of a standard product from a familiar supplier. Office paper. Printer toner. Replacement parts with a known spec. The buying center is essentially dormant — the buyer confirms the order and it ships. Marketing implication: protect the account. Make reordering frictionless. Never disappoint on delivery, because the one thing that will wake up a dormant buying center is a supplier failure.
 
-A second framework cuts the B2B world by purchase type rather than by participant. **Buy classes** distinguish four buying situations on four characteristics: **newness** (how unfamiliar is the product), **alternatives** (how many to evaluate), **uncertainty** (how much risk), **information needs** (how much research).
+**Modified rebuy.** Similar to a previous purchase, but something significant has changed — new specifications, a price increase from the incumbent, a contract renewal moment. The restaurateur who updated their logo now needs new menus, cups, and napkins: same products, different specs, natural moment to evaluate new vendors. Modified rebuys are where incumbents lose accounts and new entrants win them. Timing is the variable: the vendor who reaches the buyer at the spec-change moment wins; the vendor who arrives six months later gets "we just re-signed."
+
+**New-task buy.** First-time purchase of a product or service. The most complex case: no previous experience, no pre-qualified vendors, no established specifications. Whirlpool designing a new microwave oven would need new-task buying for the electronic control panel — sourcing new vendors, evaluating product specifications, comparing quality and pricing from scratch. Marketing implication: the firm that wins a new-task buy often holds the account for years afterward, as subsequent purchases become straight rebuys. High effort, high reward. The investment in helping the buyer write good specifications often determines whether the vendor wins before the formal process even starts.
+
+**Systems selling.** Buying a complete solution rather than separate components — one vendor for the integrated human-resources platform rather than assembling payroll, benefits, and applicant-tracking tools from three vendors. Systems selling reduces buyer effort and integration risk and concentrates supplier power. Marketing implication: systems sellers can price above component sellers if — and only if — they can demonstrate that the integration value justifies the premium. The integration claim has to be provable.
 
 <!-- → TABLE: Four buy classes with their characteristics. Rows: Straight rebuy / Modified rebuy / New-task buy / Systems selling. Columns: Newness / Alternatives / Uncertainty / Information needs / Marketing implication. The student should see how each class's quadrant of characteristics determines the marketing approach. -->
 
-**Straight rebuy.** Routine purchase of a standard product from a familiar supplier. Office paper, printer toner, replacement parts. Minimal effort beyond confirming the order. Marketing implication: protect the account; never disappoint on delivery; make reordering frictionless.
-
-**Modified rebuy.** Similar to a previous purchase, but with at least one significant change — new specifications, new supplier consideration, changed terms. The restaurateur who changed the restaurant's logo and now needs new menus, coffee cups, and napkins is in modified-rebuy mode: same products, but specifications have changed and it's a natural moment to evaluate vendors. Marketing implication: timing matters — modified rebuys are when incumbents lose accounts and new vendors win them.
-
-**New-task buy.** First-time purchase of a product or service. The most complex case. The buyer has no previous experience with the product, the service, or the vendors. **Whirlpool designing a new microwave oven** would need new-task buying for the electronic control panel — sourcing new vendors, evaluating product specifications, comparing quality and pricing. Marketing implication: the firm that wins a new-task buy often holds the account for years afterward (the next purchase becomes a straight rebuy). High-effort, high-reward.
-
-**Systems selling.** Buying a complete solution rather than separate components. A company purchasing a complete human-resources management system from one vendor rather than assembling applicant tracking + payroll + benefits + compensation tools from four vendors. Systems selling reduces buyer effort and integration risk; it also concentrates supplier power. Marketing implication: systems sellers can charge more than component sellers if they can demonstrate the integration value.
-
-### Worked example — running the buying center on a law firm copier
-
-The law firm needs a new commercial copier. Walk the roles:
-
-- **Initiator and user and technical influencer:** the **administrative assistant** who uses the existing copier daily, complains about its slowness and lack of features (auto-duplexing, document size adjustment).
-- **Decider:** the **managing partner**, who oversees day-to-day operations and has authority to direct the purchase.
-- **Buyer:** the **office manager** (or the assistant herself, depending on firm size) — researches options, gets quotes, presents an analysis.
-- **Business influencer:** the **CFO or senior partner** who needs to confirm the purchase fits the budget.
-- **Gatekeeper:** the **executive assistant** for the managing partner, who decides which vendor demos get scheduled.
-
-A copier vendor approaching this firm needs to (1) get past the gatekeeper, (2) demonstrate the auto-duplexing and size-adjustment features the technical influencer cares about, (3) provide pricing and ROI analysis the business influencer can defend to the CFO, (4) align with the managing partner's broader operational priorities.
-
-A vendor who arrives with a one-size-fits-all sales pitch gets one of two outcomes: a polite no, or a deal that depends on price alone (which is the worst kind of deal because it can be undercut tomorrow).
-
-### Common misconceptions
-
-**"The decider is the only role that matters."** No. The decider can veto, but the influencers and gatekeepers shape what reaches the decider in the first place. A vendor who wins the influencers and gatekeepers often wins the decider by default.
-
-**"All B2B purchases are new-task buys with full evaluation."** Most are straight rebuys. The marketing literature focuses on new-task buys because they're more interesting and where the most strategic learning happens, but the dollar volume of B2B is dominated by straight rebuys.
-
 ---
 
-## Concept 3 — The 8-Stage Buying Process and the Five Influence Categories
+## The Eight-Stage Buying Process
 
-### The motivating puzzle
+A consumer goes through five stages to buy a phone. A business goes through eight stages to buy something equivalent. Why three more?
 
-A consumer goes through five stages to buy a phone (Chapter 5). A business goes through eight stages to buy something equivalent. Why three more?
+Because organizations have to coordinate decisions across multiple people and produce records that can be audited, justified, and reviewed. The stages are not bureaucratic overhead; they are the formalized version of what consumers do informally and what organizations need to do explicitly.
 
-The answer is that businesses formalize what consumers do informally. A consumer who notices their phone is broken (need recognition) intuitively proceeds to research, evaluation, purchase, and post-purchase reflection. A business needs explicit need descriptions, written product specifications, formal supplier searches, proposal solicitations, and documented performance reviews — because organizations have to coordinate decisions across multiple people and produce auditable records. The eight stages aren't excessive; they're what's required when a decision is made by a group rather than an individual.
+The eight stages:
 
-### The mechanism — the eight stages of the B2B buying process
-
-The B2B buying process moves through eight stages:
-
-1. **Problem recognition** — someone in the organization identifies a need. For a straight rebuy this stage may be triggered automatically (inventory falls below threshold). For new-task buys, problem recognition often requires interpretation (we're growing, we need a new ERP system).
-2. **Need description** — the buying center collaborates to specify what's needed. For complex purchases, this often produces a **bill of materials** — a comprehensive list of parts, items, assemblies, subassemblies, documents, drawings required for the deliverable. The bill of materials is the "recipe" for the finished product.
-3. **Product specification** — a more detailed blueprint of the product to be sourced. Concise enough to be readable across the buying center; detailed enough to give the eventual supplier enough technical information to deliver correctly.
-4. **Supplier search** — identifying potential suppliers. Sources include online directories, trade magazines, industry blogs, supplier webinars, referrals, RFI processes.
-5. **Proposal solicitation** — qualified vendors submit detailed proposals (or, for routine purchases, simply send a catalog). Complex proposals contain product specifications, timing, pricing, contract terms.
-6. **Supplier selection** — the buying center evaluates proposals on criteria like supplier capabilities, reputation, warranties, price. For high-stakes purchases, the buying center may invite finalists to present.
-7. **Order-routine specification** — negotiating delivery terms, payment terms, return policies, warranties, and other details once a supplier is selected.
-8. **Performance review** — periodic evaluation of supplier performance after the purchase. Determines whether the relationship continues, gets modified, or ends.
+1. **Problem recognition.** Someone identifies a need. For straight rebuys, this may be automatic — inventory falls below a threshold and a reorder fires. For new-task buys, the recognition often requires interpretation: we are growing, and our current ERP system cannot scale with us.
+2. **Need description.** The buying center collaborates to specify what is needed. For complex purchases, this produces a **bill of materials** — a comprehensive list of all parts, assemblies, documents, and specifications required for the deliverable. The bill of materials is the recipe. Getting it right here saves enormous expense downstream.
+3. **Product specification.** A detailed blueprint, concise enough to be readable across the buying center and specific enough to give a supplier sufficient technical information to deliver correctly.
+4. **Supplier search.** Identifying potential vendors through directories, trade publications, industry networks, referrals, RFI processes. The vendors who show up in this stage are the only ones who have a chance.
+5. **Proposal solicitation.** Qualified vendors submit proposals. For routine purchases, this may be a catalog price. For complex purchases, detailed proposals with specifications, timing, pricing, contract terms.
+6. **Supplier selection.** The buying center evaluates proposals on capabilities, reputation, warranties, price. Finalists for high-stakes purchases may be invited to present.
+7. **Order-routine specification.** Delivery terms, payment terms, return policies, and warranties are negotiated once a supplier is selected. The deal is not done until this stage is complete.
+8. **Performance review.** Periodic evaluation of supplier performance after the purchase. This stage determines whether the next purchase is a straight rebuy (performance was good), a modified rebuy with new vendor consideration (performance was mixed), or a new-task buy with the incumbent effectively disqualified (performance was poor).
 
 <!-- → DIAGRAM: Eight-stage B2B buying process as a horizontal flow. Each stage labeled with the activity and a one-line example. Arrow from Stage 8 back to Stage 1, indicating that performance review feeds future buying decisions. The student should see the process as a managed cycle, not a linear sale. -->
 
-The buy class (Concept 2) determines how many of these stages activate. **Straight rebuys** typically collapse Stages 2–7 into a single reorder transaction. **Modified rebuys** activate Stages 4–7 (vendor consideration). **New-task buys** activate all eight stages, often with significant time on Stages 2–3 (specifying what the organization actually needs). **Systems selling** typically requires extensive Stages 4–6 (evaluating which vendor can deliver the integrated solution).
-
-### The trade-off — process completeness vs. timing reality
-
-A buying process designed to use all eight stages produces the best decisions but takes the longest time. A buying process that compresses stages produces faster decisions that sometimes catastrophically miss requirements.
-
-The trade-off lives in every B2B sale. A vendor who tries to slow down a buyer's compressed process (insisting on rigorous specifications when the buyer has a deadline) loses the deal. A vendor who lets a buyer skip stages (closing on a new-task buy without the specification work) wins the deal and then loses it on the post-purchase performance review.
-
-The discipline: **adapt to the buyer's process, but flag the stages they're skipping in writing**. The flag protects the vendor from being blamed when the rushed decision produces the wrong outcome.
-
-### The five categories of B2B buyer influence
-
-Just as consumer behavior is shaped by five categories of influence (Chapter 5), B2B buying is shaped by five different but parallel categories:
-
-**External factors.**
-
-- *Economic conditions* — interest rates, primary demand levels, economic outlook. When B2C demand rises, derived B2B demand rises with it; when consumers pull back, B2B contracts cut.
-- *Political and legal factors* — government policies, trade restrictions, tariffs, exchange rates. **In 2018, the Indian government banned approximately 6,000 brands of medicine** after an expert panel found possible health risks; the policy hit both domestic and foreign pharmaceutical firms.
-- *Competition* — when a competitor changes their product offering, your B2B customers may need to follow. **Wendy's was the first national fast-food chain to introduce salads; Arby's, McDonald's, Chick-fil-A, and Burger King followed.** Each follow-on triggered B2B sourcing decisions for greens, dressings, packaging.
-- *Social environment* — different members of the buying center bring different perspectives. The marketing VP wanting CRM software and the finance VP preferring to conserve capital both reflect their organizational role's natural orientation.
-
-**Internal factors.**
-
-- *Organizational objectives* — purchases align (or don't) with strategic goals. A struggling firm slows major purchases; a growing firm accelerates them.
-- *Technology compatibility* — new purchases must work with the existing technology stack. Decision-makers are often reluctant to introduce incompatible elements.
-- *Workforce skills* — the people who will use the new equipment must be able to operate it. New purchases may require training investments to be viable.
-
-**Individual factors** — characteristics of the people in the buying center.
-
-- *Age* — **FINN Partners' B2B Buyer's Influence Report** found Millennials (1981–1995) are the most optimistic about B2B purchase decisions: **83 percent confident they're paying a reasonable price; 97 percent believing the vendor will deliver as promised**. Boomers (1946–1964) had single-digit confidence on the same questions.
-- *Education* — more-educated buyers tend toward systematic evaluation; less-educated buyers more often go on intuition.
-- *Job position and authority* — higher in the hierarchy generally means more decision weight.
-- *Personality* — risk-averse buyers prefer known suppliers; aggressive buyers may push for new entrants.
-
-**Interpersonal factors.** B2B decisions are typically collective. Decision dynamics inside the buying center — relative expertise, relative status, organizational politics, organizational culture — shape who has influence and how decisions land.
-
-**Conditional factors.**
-
-- *Financial condition* — a cash-strapped firm prioritizes suppliers offering credit terms or lower price points.
-- *Availability* — a firm with a deadline may pay a premium for a supplier who can deliver on time.
-
-### Worked example — sourcing for a new microwave control panel
-
-**Whirlpool** designs a new microwave oven and needs a new electronic control panel. Walk the eight stages with the five influence categories overlaid:
-
-- **Stage 1 — Problem recognition.** Internal factors dominate (organizational objective: launch new product). External factor (competition: another microwave brand released a feature that's now table stakes).
-- **Stages 2–3 — Need description and product specification.** Technical influencers in engineering write the bill of materials and specifications. Internal factor (technology compatibility) constrains the choices to controls that work with Whirlpool's existing manufacturing equipment.
-- **Stage 4 — Supplier search.** Procurement reviews approved vendor lists, attends trade shows, considers Alibaba listings. Individual factor (procurement officer's experience and network) shapes which vendors get serious consideration.
-- **Stage 5 — Proposal solicitation.** Detailed RFP goes to 3–5 finalists. Conditional factor (Whirlpool's financial position and product launch deadline) determines how aggressive the timeline pressure is.
-- **Stage 6 — Supplier selection.** Buying center reviews proposals — engineers (technical influence), procurement (cost/contract), finance (capital allocation), product management (decider). Interpersonal factors (which person has the strongest opinion on which vendor) shape the outcome.
-- **Stage 7 — Order-routine specification.** Contract terms negotiated. External factor (currency fluctuations if the supplier is overseas) affects pricing.
-- **Stage 8 — Performance review.** Once production begins, supplier performance is tracked on quality, delivery, defect rates. Performance feeds the next buying decision (likely a straight rebuy if performance is good; a modified rebuy with new vendor consideration if performance is poor).
-
-The eight stages and the five influence categories work together. The stages tell you *when* something happens. The categories tell you *what shapes* what happens. A complete reading of a B2B sale uses both.
-
-### Common misconceptions
-
-**"B2B buyers are rational; consumer buyers are emotional."** Half-true at most. B2B buyers operate within procedural constraints that consumers don't, but the people in the buying center are humans subject to the same psychological factors covered in Chapter 5 (perception, beliefs, attitudes). The procedural overlay reduces but does not eliminate the irrationality.
-
-**"The eight-stage process is followed strictly in every B2B sale."** Often it isn't. Buyers compress stages under deadline pressure, skip Stage 2 when they assume they know what they need, neglect Stage 8 when post-purchase review is no one's job. Knowing the process is partly knowing where it gets shortcut.
+The buy class determines how many stages actually activate. Straight rebuys compress Stages 2–7 into a single reorder. Modified rebuys activate Stages 4–7. New-task buys activate all eight, with significant time on Stages 2–3. Systems selling requires extensive Stages 4–6 because the evaluation of integrated solutions is genuinely complex.
 
 ---
 
-## Integration — Ethics, Legality, and the FCPA Boundary
+## Five Categories of B2B Buyer Influence
 
-B2B marketing operates inside a legal and ethical framework that has no direct B2C parallel. Two areas are particularly consequential: international bribery and price fixing.
+Chapter 5 mapped five categories of influence on consumer decisions. B2B has its own five:
 
-### The Foreign Corrupt Practices Act (FCPA)
+**External factors** — economic conditions (interest rates, primary demand levels), political and legal factors (tariffs, trade restrictions, regulatory shifts), competitive dynamics (when a competitor changes their offering, downstream buyers may need to follow), and the social environment of the buying center itself (the marketing VP who wants new CRM software and the CFO who wants to conserve capital are both expressing external-to-the-purchase dynamics as much as internal ones).
 
-The **Foreign Corrupt Practices Act**, enacted in 1977, prohibits US firms and individuals from paying bribes to foreign officials to obtain or retain business. The Act applies to **prohibited conduct anywhere in the world** and extends to publicly traded companies and their officers, directors, employees, stockholders, and agents. Enforcement is shared between the **Securities and Exchange Commission (SEC)** and the **Department of Justice**. Penalties can be substantial — both civil (return of "ill-gotten gains" plus prejudgment interest plus civil penalties) and criminal.
+**Internal factors** — organizational objectives (a struggling firm slows major purchases; a growing firm accelerates them), technology compatibility (new purchases must work with existing systems), and workforce skills (equipment that requires training the current workforce cannot absorb is effectively unavailable, regardless of specs or price).
 
-Recent FCPA case: **KT Corporation**, a South Korean telecommunications company, faced SEC allegations of FCPA violations through improper payments to government officials in Korea and Vietnam, including failures in books-and-records and internal accounting controls.
+**Individual factors** — characteristics of the people in the buying center. FINN Partners' B2B Buyer's Influence Report found that Millennials are the most optimistic about B2B purchases: 83 percent confident they're paying a reasonable price, 97 percent believing the vendor will deliver as promised. Boomers had single-digit confidence on the same questions. The generational difference is real and it shapes how hard negotiations are, how much documentation buyers demand, and how quickly deals close.
 
-The hardest FCPA scenarios are the ones where local norms differ from US law. Two examples from the source material:
+**Interpersonal factors** — the dynamics inside the buying center. Relative expertise, relative status, organizational politics, and culture all shape who has influence and how the decision actually lands. A technically superior proposal can lose to a less-capable incumbent if the person championing the new vendor lacks standing in the organization.
 
-**Scenario 1.** You're the plant manager in Taiwan for a US electronics firm. A critical shipment of diodes is held by Taiwanese customs for inspection — release in days or weeks. A customs agent suggests a "facilitation fee" of several hundred dollars to expedite. Pay it and meet your customer deadline; refuse and miss the deadline, potentially losing the customer relationship.
+**Conditional factors** — financial condition (a cash-strapped firm prioritizes suppliers offering credit terms), availability (a firm with a hard deadline pays premium for reliable delivery), and situational factors specific to the moment the purchase is being made.
 
-**Scenario 2.** You're a regional distribution manager for a US firm setting up a new facility in a South American country. Two foreign competitors are also entering the market. Building permits normally take 10 months; an "expediting fee" can shorten that. Foreign competitors face no equivalent legal restriction. Pay and gain time-to-market advantage; refuse and lose first-mover positioning.
+---
 
-Both fees, under the FCPA, are bribes. Both are illegal. The honest framework: the FCPA exists *because* these tradeoffs are tempting, not despite that. A firm that wants to compete internationally without breaking US law has to accept that some deals will be lost on principle.
+## Where the Ethics Line Is
 
-### Transparency International's Corruption Perceptions Index
+B2B marketing operates inside a legal framework that has no direct B2C equivalent. Two areas demand attention.
 
-**Transparency International** publishes an annual **Corruption Perceptions Index** ranking 180 countries on perceived public-sector corruption (scale of 0–100; 100 = very clean). The 2021 rankings:
+**The Foreign Corrupt Practices Act (FCPA)**, enacted in 1977, prohibits US firms and individuals from paying bribes to foreign officials to obtain or retain business. The Act applies to prohibited conduct anywhere in the world and extends to companies, their officers, directors, employees, and agents. Penalties include both civil and criminal exposure.
 
-- **Top three (tied at #1):** Denmark, Finland, New Zealand.
-- **Bottom five:** South Sudan, Syria, Somalia, Venezuela, Yemen.
-- **United States:** ranked 25th.
+The hard cases are not the obvious ones. Here are two that are genuinely difficult:
 
-The Index is useful for B2B firms entering new markets — it provides directional guidance on where the FCPA boundary will be most tested.
+You are plant manager in Taiwan for a US electronics firm. A critical shipment of components is held by customs. A customs agent suggests a fee of several hundred dollars to expedite release. Pay it and meet your customer deadline; refuse and risk losing the customer relationship. Under the FCPA, the fee is a bribe. Both paths are clear. The decision is not.
 
-### Price fixing
+You are regional distribution manager setting up a new facility in a country where building permits normally take ten months. A fee can shorten that. Your two foreign competitors face no equivalent legal restriction. Pay and enter the market first; refuse and lose first-mover positioning to competitors who operate under a different standard. Under the FCPA, the fee is still a bribe.
 
-**Price fixing** — agreements among competitors that affect prices or competitive terms — is prohibited by the **Federal Trade Commission (FTC)**. The prohibition is broader than literally agreeing on the same price; it covers agreements on discounts, shipping terms, production quotas, and similar competitive variables.
+The FCPA exists *because* these trade-offs are genuinely tempting, not despite that. A firm that wants to compete internationally without breaking US law has to accept that some deals will be lost on principle. That is not a loophole or a workaround. It is the constraint.
 
-**StarKist** — a canned-tuna brand — was ordered to pay **$100 million in fines** in 2019 by a San Francisco federal judge. The case alleged StarKist, **Bumble Bee Foods**, and **Chicken of the Sea** regularly exchanged information about sales and pricing plans. The result: consumers paid more for canned tuna than they would have in a properly competitive market.
+**Transparency International** publishes an annual Corruption Perceptions Index ranking 180 countries on perceived public-sector corruption (0–100; 100 = very clean). Denmark, Finland, and New Zealand consistently rank at the top. South Sudan, Syria, Somalia, Venezuela, and Yemen anchor the bottom. The United States ranks 25th. The Index is useful directional guidance for where the FCPA boundary will be most tested in a given market.
 
-For B2B marketers specifically, price fixing temptations arise when competitors meet at trade shows, industry associations, or shared client engagements. A casual conversation about pricing strategy can constitute the "agreement" element of a price-fixing case. The discipline: never discuss pricing, capacity, or competitive strategy with a competitor; if a competitor raises any of those topics, end the conversation and document that you ended it.
+**Price fixing** — agreements among competitors that affect prices or competitive terms — is prohibited by the Federal Trade Commission. The prohibition is broader than literally agreeing on the same price; it covers discounts, shipping terms, production quotas, and similar variables. StarKist was ordered to pay $100 million in fines in 2019 after allegations that it, Bumble Bee Foods, and Chicken of the Sea had regularly exchanged information about pricing plans. The result was that consumers paid more for canned tuna than a properly competitive market would have produced.
 
-### Ethical positioning in B2B — the Kforce example
+For B2B marketers specifically, price-fixing risks arise when competitors meet at trade shows, industry associations, or shared client engagements. A casual conversation about pricing strategy — *we're thinking of raising prices in Q3, how about you* — can constitute the agreement element of a price-fixing case. The discipline: never discuss pricing, capacity, or competitive strategy with a competitor; if a competitor raises any of those topics, end the conversation and document that you ended it.
 
-B2B firms can also use ethics as a positioning lever. **Kforce** is a B2B professional staffing firm headquartered in Tampa, Florida, with 50+ offices nationwide. When **Hurricane Irma** hit South Florida and the Bahamas in 2017 as a Category 4 storm — knocking out power for **6.8 million people** — Kforce raised **$1 million for the American Red Cross**, sponsored private jet missions delivering essential supplies to the Bahamas, and encouraged customer donations. In 2021, the company expanded a one-time "Day of Giving" program into a "Season of Impact" running broader CSR activities through the year.
+<!-- → TABLE: FCPA scenarios — three rows. Columns: Scenario | What was asked | Why it's a violation | Alternative course of action. Keeps the ethics framework concrete and applicable. -->
 
-The Kforce case illustrates that B2B ethics positioning isn't reserved for consumer brands. A staffing firm whose customers are corporate procurement departments can still differentiate on the visible ethical practice of its leadership. The mechanism is the same as Patagonia's in Chapter 5 — the customer's value ratio includes a layer for *the kind of company we want as a partner*, and that layer responds to demonstrated, not just declared, ethical practice.
+---
+
+## The Full Picture
+
+The law-firm copier and the household vacuum cleaner look like the same kind of decision. They are not.
+
+The vacuum decision runs a two-person buying center, a B2C marketing channel, direct demand, a one-stage purchase cycle, and no formal specification process. The copier decision runs a six-role buying center, a personal-selling channel, a six-step evaluation process, a formal specification, and a performance-review stage that feeds back into the next buying decision.
+
+Understanding the difference is what separates a marketing strategy that works in B2B from one that fails in specific, predictable ways: it targets the wrong person (the buyer, not the decider or the gatekeeper), misses the buying cycle timing (arriving during a straight-rebuy phase when the only way to win is to not-lose), and competes on the wrong dimension (price, when the technical influencer is the one writing specs).
+
+The structural differences are not complexity for its own sake. They are the result of what is genuinely at stake when an organization makes a purchase: budget accountability, career risk, downstream production dependencies, and long-term supplier relationships that are expensive to build and expensive to exit. That is a different set of stakes from a consumer buying a vacuum. Different stakes require different machinery. This chapter is the machinery.
 
 ---
 
@@ -321,101 +181,74 @@ The Kforce case illustrates that B2B ethics positioning isn't reserved for consu
 
 ### Warm-up
 
-**1. Classify the buyer.** For each of the following, identify whether the transaction is B2C or B2B, and if B2B, which type of buyer (producer / reseller / government / institution):
+**1. Classify the transaction.** For each of the following, identify whether the transaction is B2C or B2B. If B2B, name the buyer type (producer, reseller, government, institution) and identify whether the demand is direct or derived.
 
-- A college student buys a textbook from the campus bookstore.
-- The campus bookstore buys textbooks from a publisher.
-- A US Army base buys uniforms from a textile manufacturer.
-- A regional hospital buys imaging equipment from Siemens.
-- A craft brewery buys hops from a hop wholesaler.
+- A dental school buys disposable gloves by the case from a medical supply distributor.
+- A consumer buys running shoes from Nike's website.
+- A sneaker retailer buys 500 pairs of running shoes from Nike's wholesale division.
+- A chip manufacturer buys silicon wafers to produce processors that go into laptops.
+- A city government contracts a firm to resurface 40 miles of road.
 
-*Tests: Objectives 1, 2. Difficulty: Low.*
+*Tests: Objectives 1, 2, 7. Difficulty: Low.*
 
-**2. Identify the buy class.** For each of the following, identify the buy class (straight rebuy / modified rebuy / new-task buy / systems selling):
+**2. Name the buying-center role.** The following people are involved in a hospital's purchase of a new patient-scheduling software system. For each, identify their most likely buying-center role — and note any cases where one person likely holds more than one role.
 
-- A restaurant chain reorders the same paper napkins it has used for three years.
-- A company is replacing its CRM software for the first time after using a homegrown system.
-- A logistics firm is buying its first integrated warehouse management + inventory + shipping platform.
-- A car dealership is changing its preferred motor oil supplier after a price increase from the incumbent.
-
-*Tests: Objective 3. Difficulty: Low.*
-
-**3. Map the buying center.** Imagine your university is purchasing a new Learning Management System (LMS). Identify, by job title, who would likely play each of the six roles in the buying center: initiator, influencer (technical), influencer (business), gatekeeper, buyer, decider, user. Some titles may play multiple roles.
+- The head nurse who filed a formal complaint about the current system's inability to handle shift changes.
+- The CFO who must approve any technology spend over $100,000.
+- The IT director who will certify whether the new system integrates with existing EHR infrastructure.
+- The procurement manager who solicits bids and manages the vendor selection process.
+- The department managers and nurses who will use the software every day.
+- The CEO's executive assistant who decides which vendor presentations get scheduled.
 
 *Tests: Objective 4. Difficulty: Low.*
 
+**3. Identify the buy class.** For each of the following, identify the buy class (straight rebuy / modified rebuy / new-task buy / systems selling) and name the one marketing implication that matters most given that class.
+
+- A regional restaurant chain that has purchased napkins from the same supplier for six years places its quarterly order.
+- A manufacturing company buying industrial robotics equipment for the first time to automate a packaging line.
+- A software company purchasing a combined CRM, billing, and project-management platform from a single vendor rather than three separate tools.
+- A law firm that has decided to switch copier vendors after the incumbent raised prices by 22 percent at renewal.
+
+*Tests: Objective 3. Difficulty: Low-medium.*
+
 ### Application
 
-**4. Run the eight stages on a real purchase.** Pick a B2B purchase your school, employer, or a company you know recently made (or is making). Walk all eight stages of the buying process. For each stage, identify what specifically happened, who was involved, and how long it took. Stages that were compressed or skipped — name them and explain why.
-
-*Tests: Objective 5. Difficulty: Medium.*
-
-**5. Trace the derived demand.** Pick a B2C product category — coffee shops, electric scooters, fast fashion, anything. Identify three layers of B2B derived demand upstream of the consumer purchase. For each layer, name a specific firm that operates in that derived-demand market, and describe how a downturn in the consumer category would propagate through the three layers.
+**4. Trace the derived demand chain.** Pick a consumer product category currently experiencing either strong growth or a notable decline — electric vehicles, streaming video, plant-based food, anything with a visible market trend. Identify three layers of B2B derived demand upstream of the consumer purchase. For each layer, name a plausible firm operating in that derived-demand position and describe the specific mechanism by which the consumer-side trend changes their B2B revenue. What should each of those B2B firms be watching in the consumer market that they don't sell to directly?
 
 *Tests: Objective 7. Difficulty: Medium.*
 
-**6. Audit the influence categories.** For a B2B purchase you can research (your school's, your employer's, a publicly documented enterprise software deal), identify which one of the five influence categories (external / internal / individual / interpersonal / conditional) was most decisive in the outcome. Justify the call with at least three pieces of evidence from publicly available sources.
+**5. Map the buying center for a real purchase.** Think of a significant B2B purchase your school, employer, or a company you know has made or is making — a software platform, a facilities contract, a major equipment purchase. Identify who holds each of the six buying-center roles (initiator, influencer, gatekeeper, buyer, decider, user) by job title or description. Where a role is held by multiple people, list them. Where a role is unclear or unknown, say so explicitly rather than guessing.
 
-*Tests: Objective 6. Difficulty: Medium.*
+Then identify which one or two roles you believe most determined the outcome, and explain why.
+
+*Tests: Objectives 4, 5. Difficulty: Medium.*
+
+**6. Match the buying process to the buy class.** For a new-task buy, all eight stages are active. For a straight rebuy, most collapse. For each of the following, identify which of the eight stages were likely compressed or skipped entirely, and explain what organizational logic — not laziness — justifies that compression.
+
+- A hospital reorders the same brand of surgical gloves it has purchased monthly for three years.
+- A mid-sized accounting firm purchases its first cloud-based document-management system after outgrowing its shared-drive setup.
+- A construction firm re-engages its incumbent concrete supplier for a new project, but negotiates modified delivery terms due to a tighter timeline.
+
+*Tests: Objectives 3, 5. Difficulty: Medium.*
 
 ### Synthesis
 
-**7. Map B2B vs. B2C side by side for the same product.** Pick a product that exists in both forms — a software platform sold to consumers and to enterprises, a coffee brand sold at retail and to office buildings, an insurance product sold to individuals and to corporations. For each of the six structural differences (decision nature, buyer count, demand type, cycle length, marketing reliance, geography), describe how the marketing approach differs between the consumer version and the business version of the same product.
+**7. Reconstruct a failed B2B sale.** Think of a B2B sales situation — one you have been part of, read about, or can reasonably reconstruct from public information — where the vendor lost despite having a competitive product. Apply the buying-center framework: which roles did the vendor reach, and which did it miss? Apply the buy-class framework: which class was the purchase, and did the vendor's approach match? Apply the influence-category framework: which one or two influence categories were most active, and did the vendor's approach address them?
 
-*Tests: Objectives 1, 7. Difficulty: Medium-high.*
+Your answer should not be "the product wasn't good enough." It should identify the specific structural failure — the gatekeeper who was never engaged, the technical influencer who wrote specs the vendor's product couldn't meet, the timing mismatch that put the vendor in a modified-rebuy window when they were selling like it was a new-task.
 
-**8. Connect the buying center to the buy class.** For each of the four buy classes (straight rebuy, modified rebuy, new-task buy, systems selling), describe which roles in the buying center are most active and which are most passive. Then explain how a vendor's marketing should change across the four classes — which roles get attention, what kinds of content matter, what cycle length to expect.
-
-*Tests: Objectives 3, 4. Difficulty: Medium-high.*
+*Tests: Objectives 4, 5, 6. Difficulty: Medium-high.*
 
 ### Challenge
 
-**9. The FCPA stress test.** You are the Latin America regional manager for a US-based industrial equipment firm. A government procurement officer in a Transparency International bottom-30 country signals that your bid for a $40 million infrastructure contract will be successful if your firm sponsors a "training program" for the procurement office at a luxury resort. Your two largest competitors are non-US firms not subject to the FCPA. Walk through, in 400 words, the analysis you would conduct: (a) how do you determine whether this is an FCPA violation, (b) what are the consequences for your firm if it is and you proceed, (c) what are the consequences for your firm if you decline and lose the deal, (d) what are the long-term competitive implications of the decision either way, (e) what is your recommendation, and what evidence would change it?
+**8. The FCPA scenario.** You are the Southeast Asia regional sales director for a US-based industrial safety equipment manufacturer. A government procurement officer in a country ranked in the bottom quartile of Transparency International's Corruption Perceptions Index signals that your bid for a $12 million contract will succeed if your firm sponsors a "product training seminar" for the procurement office at a beach resort — a $60,000 event with no clear training agenda.
+
+Your two largest competitors are non-US firms operating under no equivalent legal restriction. Losing this contract means missing your annual target by 30 percent.
+
+Write a 350–400 word analysis covering: (a) whether this constitutes an FCPA violation and what the legal test is, (b) the civil and criminal exposure if you proceed, (c) what specifically you would lose by declining and what you would preserve, (d) whether the competitive disadvantage argument has any legal weight under FCPA, and (e) your recommendation — and what evidence or changed circumstance would change it. No invented facts. If you are uncertain about a specific legal provision, say so and state what you would verify before deciding.
 
 *Tests: Objective 8. Difficulty: High.*
 
-**10. Design a B2B value proposition.** You are launching a new B2B product — pick something concrete (project management software, industrial sensors, freelance marketplace, anything specific). Write the marketing approach: (a) which type of B2B buyer is your primary target, (b) which buy class describes most early purchases, (c) which roles in the buying center will you focus on first, (d) which influence categories matter most for your category, (e) which two of the eight stages will you invest most heavily in supporting, (f) one specific ethical risk your category exposes the firm to and how you'll mitigate it.
-
-The win condition: your six answers should be internally consistent. A premium-positioned product targeting institutional buyers can't simultaneously claim to focus on quick straight-rebuys; either the positioning or the buying-class assumption is wrong.
-
-*Tests: Objectives 1–8. Difficulty: High.*
-
----
-
-## Chapter Summary
-
-**What you can do now that you could not do before this chapter:**
-
-You can take any B2B sales situation and identify the buyer type, the buy class, the dominant roles in the buying center, the active influence categories, and the buying-process stage. You can predict, given a product category and a buyer organization size, how long the deal will take and how many people will be involved. You can recognize when a "facilitation fee" is a bribe and when an industry-conference conversation about pricing is a price-fixing risk.
-
-**The one idea that matters most from this chapter:**
-
-B2B marketing is not B2C marketing with bigger orders. The decision logic is structurally different: derived demand, multi-person buying centers, formalized eight-stage processes, regulatory frameworks (FCPA, antitrust). Treating B2B like B2C produces the most common B2B failure mode — single-buyer thinking that misses the five other roles, mass-marketing tactics aimed at people who don't make purchase decisions through mass channels, and ethics frameworks calibrated for consumer markets that don't apply.
-
-**The common mistake to watch for:**
-
-Targeting "the customer" as if it were a single decision-maker. In B2B, the customer is a network. A vendor who maps the network correctly — initiator, influencers, gatekeeper, buyer, decider, user — and concentrates on the 1–2 roles that dominate for the specific deal wins more than a vendor with a better product who only talks to the buyer.
-
-**The Feynman test:**
-
-Close the book. Pick a major B2B purchase your university, employer, or family business has made (or is considering). In two minutes, can you walk a friend through (a) the buyer type, (b) the buy class, (c) the buying center roles and which person fills each, (d) the dominant influence category, (e) which of the eight stages were activated and which were compressed, and (f) which marketing-approach choice would most likely have changed the outcome? If yes, you have internalized the chapter. If not, the gap tells you which concept section to reread.
-
----
-
-## Connections Forward
-
-**Chapter 7 — Market Segmentation, Targeting, and Positioning (STP)** applies to both consumer and business markets. The bases for B2B segmentation differ from B2C — industry codes (NAICS), firm size, geographic concentration, technology stack — but the underlying STP discipline is the same. Chapter 7 will treat both.
-
-**Chapter 8 — Marketing Research and Market Intelligence** provides the methods for actually measuring B2B markets, which differ from consumer-research methods because B2B markets have fewer buyers, longer cycles, and more formal information sources (industry reports, government data, trade associations).
-
-**Chapter 18 — Personal Selling and Sales Promotion** extends the personal-selling reliance noted in this chapter into a full treatment of sales-team structure, sales process management, and account-based marketing. Most B2B marketing budgets sit in the personal-selling line; Chapter 18 explains why and what good sales operations look like.
-
-**Chapter 20 — Distribution: Delivering Customer Value** and **Chapter 21 — Retailing and Wholesaling** unpack the reseller side of B2B markets. The two-sided structure (manufacturers selling B2B to retailers; retailers then selling B2C to consumers) is the architecture of most consumer-goods marketing, and Chapters 20–21 dive into how it actually works.
-
----
-
-*Voice anchor: Feynman × MKBHD hybrid. See `style/VOICE.md`.*
-*Source: OpenStax modules m00020–m00025. All statistics, brand examples, and historical claims drawn from the provided source text. The Corporate Medical Services (CMS) case study (m00025) is deferred to the bookmap as a candidate for Chapter 7 (positioning differentiation by service).*
 ---
 
 ## LLM Exercise — Chapter 6: Business Markets and Purchasing Behavior
@@ -499,12 +332,11 @@ retail relationships.
 
 **Preview of next chapter:** Chapter 7 is one of the heaviest additions: STP — segmentation, targeting, positioning. The assistant will be able to define real segments (not wishful ones), recommend a targeting strategy, and draft positioning statements. STP is where most marketing fails or succeeds.
 
-
 ---
 
 ## AI Wayback Machine
 
-**Frederick Webster** was developed the modern framework for B2B buying behavior — distinguishing the buying-center participants and their roles.
+**Frederick Webster** developed the modern framework for B2B buying behavior — distinguishing the buying-center participants and their roles.
 
 **Run this:**
 
