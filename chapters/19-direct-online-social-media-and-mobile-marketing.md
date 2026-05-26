@@ -2,294 +2,186 @@
 
 *The digital element of the promotion mix. Faster, cheaper, more measurable, and harder to do well than the legacy channels it's supposedly replacing.*
 
-## Learning Objectives
+---
 
-By the end of this chapter, you will be able to:
+In 2021, Apple released a software update for iPhone and iPad that added a single screen to the app-opening experience. The screen said, in essence: this app would like to track your activity across other apps and websites. Would you like to allow that or not?
 
-1. Distinguish traditional direct marketing from digital direct marketing and identify when each is appropriate.
-2. Identify the major social media platforms and their demographic patterns.
-3. Apply social media marketing principles to a real brand campaign.
-4. Walk the major online marketing metrics — website traffic, traffic by source, conversion rate, engagement, ROI.
-5. Define mobile marketing and identify its distinct opportunities (location, push notifications, app integration).
-6. Distinguish search engine marketing (SEM) from search engine optimization (SEO).
-7. Evaluate the role of influencer marketing in modern digital strategy.
-8. Evaluate digital marketing decisions for compliance with privacy frameworks (GDPR, CCPA) and ethical standards.
+Most users chose not to allow it.
 
-## Prerequisites
+This was not a minor feature update. It was a structural change to the economics of digital advertising. Meta — the company that owns Facebook and Instagram — reported in early 2022 that Apple's change would cost it approximately $10 billion in annual revenue. Mark Zuckerberg said publicly that Apple was using its control of iOS to harm competitors. Tim Cook said Apple was simply giving users the choice they deserved. Both statements were accurate.
 
-You should be familiar with the **promotion mix** from Chapters 16–18 and the **marketing research methods** from Chapter 8. This chapter covers the digital element of the promotion mix in detail and connects to the data privacy frameworks first introduced in Chapter 8.
+The episode reveals something important about where digital marketing is right now. For roughly fifteen years — from the mid-2000s to the early 2020s — digital marketing was built on an assumption: that user behavior could be tracked continuously across the internet, and that this tracking would be invisible to users, opt-out rather than opt-in, and essentially unlimited. That assumption is being dismantled. Not all at once, not cleanly, but systematically — by platform changes, by regulation, and by users who have decided they'd rather not be followed.
 
-## Why This Chapter Matters
-
-Digital marketing has become the largest channel for most consumer brands and a substantial channel for B2B. The disciplines covered in earlier chapters apply — but the operational mechanics are different, the speed is faster, and the data privacy implications are more consequential.
-
-By the end, you'll be able to read any digital marketing campaign and assess its channel mix, metrics, ethical exposure, and likely ROI.
+Understanding digital marketing in 2024 means understanding both the extraordinary tools that were built during those fifteen years and the regulatory and platform constraints that are now changing how those tools can be used.
 
 ---
 
-## Concept 1 — Direct Marketing, Online, and the Transition
+## How Digital Marketing Works: The Mechanics
 
-### The motivating puzzle
+Digital marketing is direct marketing with better measurement. That's not a demotion — it's a clarification that captures what's actually different.
 
-In **October 2011**, **Dominik Richter, Thomas Griesel, and Jessica Nilsson** launched **HelloFresh** — meal-kit subscription delivery. The challenge: convince consumers to change a behavior they'd practiced their entire lives (planning and shopping for meals).
+**Traditional direct marketing** uses physical channels to reach individual consumers with calls to specific action. Direct mail, catalogs, telemarketing, infomercials. The model is: segment a list, send something, measure response rates. Warby Parker and Casper — both born as digital-first brands — added direct mail to their channels because physical mail stands out when every email inbox is saturated. HelloFresh delivers paper coupons ("16 free meals") alongside its digital campaigns. The physical channel persists because it works in segments digital can't reach as effectively.
 
-HelloFresh's solution combined direct, digital, and social channels. The website is the conversion engine — beautifully designed, easy to customize meals, schedule delivery, and place orders. **Direct mail** delivers paper coupons (the "16 free meals" example from Chapter 18). **Social media** drives website traffic with targeted offers. The integration across channels meant that wherever the customer encountered HelloFresh — Instagram ad, Facebook post, mailbox, website — the messaging was consistent.
+**Digital direct marketing** runs the same model through faster, cheaper, more measurable channels. Email is the most-used digital direct channel — lower cost per message than direct mail, faster to execute, richer in what it can measure (opens, clicks, conversions, unsubscribes, revenue attributed). SMS has higher open rates than email and more constrained content. Push notifications reach users who have the app installed and haven't turned notifications off. The channels have multiplied; the discipline hasn't changed.
 
-By **2021, HelloFresh led the meal-kit market with more than 7.2 million subscribers**.
+**Search** is the channel most tightly coupled to intent. When a consumer searches "running shoes," they are, in that moment, in the market for running shoes. Search engine marketing (SEM) — paid placement in search results through platforms like Google Ads — captures that intent at the precise moment it exists. Search engine optimization (SEO) builds organic rankings through content, site structure, and authority signals so that the search result appears without a direct payment. SEM is immediate, expensive, and visible. SEO is slow, durable, and increasingly essential because paid search is crowded and costly.
 
-The puzzle: how do firms coordinate digital and direct channels to produce coherent customer experiences and measurable conversions?
+**Social media** is the channel most tightly coupled to identity and attention. Facebook and YouTube reach broad demographics; Instagram, Snapchat, and TikTok index heavily toward users under thirty; LinkedIn owns the professional and B2B context; Twitter/X is where real-time news and public conversation happens. Each platform has its own algorithm that determines what content reaches which users — and those algorithms increasingly favor paid content over organic. The implication: "social media is free" is no longer accurate for brands. Reaching meaningful audience sizes on social platforms now requires paid investment on top of content production.
 
-### The mechanism — traditional direct marketing
+**Influencer marketing** is the channel most tightly coupled to trust. An influencer with genuine authority in a category can deliver an endorsement that carries more persuasion weight than equivalent advertising spend, because audiences trust people who have earned their expertise over time — and because influencer content is perceived as recommendation rather than advertising. The FTC requires disclosure (#ad or similar) when content is paid; failure to disclose has produced regulatory action against both influencers and the brands that hired them. The risk-reward math: influencer campaigns can produce extraordinary returns when the influencer-brand fit is genuine, and expensive disasters when the influencer's behavior or audience doesn't align with what the brief assumed.
 
-**Direct marketing** uses communication tools to engage individual consumers with calls to specific actions (visit a website, call a number, redeem a code). Traditional forms:
-
-**Direct mail.** Postcards, catalogs, look books delivered to physical addresses. **Warby Parker** and **Casper** — both digital-first brands — added direct mail to their portfolios because it stands out when consumers' inboxes are saturated.
-
-**Catalogs.** Seasonal printed product books. Common in apparel, home goods, gifts.
-
-**Telemarketing.** Phone-based outreach. Subject to regulations (TCPA from Chapter 8 — no calls 8 PM–9 AM).
-
-**Infomercials.** Long-form TV demonstrations. Still effective for certain product categories.
-
-### The mechanism — digital direct marketing
-
-The same direct-marketing logic applied to digital channels:
-
-**Email marketing.** The most-used digital direct marketing channel. Lower cost than direct mail; faster execution; richer measurement. Subject to CAN-SPAM Act (Chapter 16).
-
-**SMS / text marketing.** Higher open rates than email; more constrained content; subject to regulatory restrictions.
-
-**Push notifications.** App-based notifications to mobile users. Effective when apps are installed; ineffective when users have notifications disabled.
-
-**Website-driven direct response.** Calls to action on websites driving immediate purchase or signup.
-
-The transition from traditional to digital direct didn't eliminate paper mail — it added measurable digital alternatives that work alongside paper. Most successful direct marketers (HelloFresh, Warby Parker, Casper) use both.
-
-### Common misconceptions
-
-**"Direct marketing is dying."** Direct marketing is bigger than ever — it's just gone digital. The discipline (segment, target, call to action) hasn't changed; the channels have multiplied.
-
-**"Digital is always cheaper."** True per-impression but not always per-conversion. Direct mail produces higher conversion rates in some segments because it cuts through digital noise.
-
----
-
-## Concept 2 — Social Media, Mobile, and Search
-
-### The motivating puzzle
-
-A consumer browses Instagram in the morning, sees an ad for new sneakers, taps through to the brand's website, abandons the cart. That afternoon, the same sneakers appear in a Facebook ad. The consumer adds them to cart again, abandons. Three days later, an email arrives offering 15% off the same sneakers. The consumer buys.
-
-That's not three independent campaigns. It's one coordinated digital campaign using **retargeting** — tracking the consumer's behavior across platforms to deliver progressively persuasive messaging until conversion. The mechanism is the modern digital marketing playbook.
-
-### The mechanism — social media marketing
-
-**Social media marketing** uses platforms to deliver content that drives engagement.
-
-Major platforms with demographic patterns:
-
-- **YouTube and Facebook** — broad demographic reach; older users skew here.
-- **Instagram, Snapchat, TikTok** — younger audiences (under 30 are heaviest users).
-- **LinkedIn** — professional / B2B.
-- **Twitter/X** — real-time, news, conversation.
-
-**Warby Parker uses Instagram** to showcase eyewear styles by face shape; users can like, comment, share, or click through to the website to virtually try on frames. The platform integrates content marketing, social proof, and direct response in one experience.
-
-Advantages: highly targeted, engagement-rich, drives website traffic, easily measured. Disadvantages: platform algorithms control distribution; organic reach declining; content saturation.
-
-### The mechanism — search engine marketing (SEM) and SEO
-
-**Search Engine Marketing (SEM)** = paid ads on search engines (Google Ads, Bing Ads). Pay-per-click model; bid on keywords; ad shown when users search those terms.
-
-**Search Engine Optimization (SEO)** = improving organic search rankings. No direct payment; investment in content, technical site structure, backlinks. Long-term strategy.
-
-Most firms use both. SEM for immediate visibility on competitive terms; SEO for sustained organic traffic.
-
-### The mechanism — mobile marketing
-
-Mobile marketing capitalizes on smartphones' unique characteristics:
-
-- **Location-based marketing.** Push notifications when users near a store.
-- **App-based engagement.** Loyalty programs, exclusive offers, gamified experiences.
-- **SMS/text.** Direct, personal, high open rates.
-- **Mobile-optimized websites and ads.** Now standard rather than special.
-
-### The mechanism — influencer marketing
-
-Paid or sponsored content from individuals with audiences. Spectrum from celebrity (millions of followers) to micro-influencers (thousands).
-
-Influencer marketing's value: third-party endorsement, audience trust, content production by the influencer (not the brand). Risks: regulation requires disclosure; influencer behavior can damage brand; performance varies.
-
-The FTC requires #ad or similar disclosure when content is paid; failure to disclose has produced regulatory action.
-
-### Common misconceptions
-
-**"Social media is free."** Posting is free; reaching audiences increasingly requires paid promotion as platform algorithms favor paid content.
-
-**"More platforms is better."** Most brands succeed by mastering 2–3 platforms relevant to their audience rather than spreading thin across all.
-
----
-
-## Concept 3 — Digital Metrics and Measurement
-
-### The motivating puzzle
-
-A digital campaign produces 1 million website visits. The CMO is pleased. The CFO asks how many visits became sales. Of the 1 million visits, 50,000 added to cart, 5,000 completed purchase. Conversion rate: 0.5%.
-
-Now compare to a campaign that produced 100,000 visits with a 5% conversion rate — also 5,000 purchases at one-tenth the traffic cost. Which campaign is "better"?
-
-The answer depends on what the metric measures. Digital marketing's defining feature is measurability — and the discipline of choosing the right metrics.
-
-### The mechanism — major digital metrics
-
-**Website traffic.** Total visits. Top of the sales funnel.
-
-**Traffic by source.** Where visitors came from — social, email, paid search, organic search, direct, referral. Critical for attribution.
-
-**Sales funnel.** Awareness → interest → consideration → purchase → loyalty. Each stage has metrics.
-
-**Click-through rate (CTR).** Clicks ÷ impressions. Indicates ad effectiveness.
-
-**Conversion rate.** Conversions ÷ visits. Indicates landing page and offer effectiveness.
-
-**Bounce rate.** Visitors who leave after one page ÷ total visits. High bounce = mismatch between expectation and content.
-
-**Cost per click (CPC), cost per acquisition (CPA).** Spend ÷ outcomes. Indicates efficiency.
-
-**Engagement metrics.** Likes, shares, comments, time on page, video completion rate. Indicates content resonance.
-
-**ROI (return on investment).** Revenue from campaign − cost of campaign, divided by cost. The ultimate metric.
+**Mobile** is not a channel — it's the context in which all the other channels are increasingly consumed. More than half of web traffic now comes from mobile devices. Location-based marketing (push notifications triggered when a user is near a store), in-app loyalty programs, and mobile-optimized purchase flows are specific to the mobile context but are downstream of the same search, social, and direct channels described above.
 
 <!-- → DIAGRAM: Sales funnel with metrics labeled at each stage. Awareness (impressions, reach) → Interest (CTR, time on page) → Consideration (add to cart, demo requests) → Purchase (conversion rate, revenue) → Loyalty (repeat purchase rate, NPS). -->
 
-### Common misconceptions
+---
 
-**"Vanity metrics matter."** Likes, shares, follower counts can be vanity metrics if not connected to business outcomes. Engagement that doesn't translate to revenue is decorative.
+## The Measurement Problem
 
-**"More data is always better."** Better data is always better. Drowning in metrics without focus produces analysis paralysis.
+Digital marketing's defining claim over the legacy channels is measurability. Television advertising produces impressions estimates; digital advertising produces click-level data. A billboard campaign produces a rough count of who drove past; a digital campaign produces an exact count of who clicked, who added to cart, who purchased, and how long they spent on each page.
+
+That claim is true, and it creates a trap.
+
+The trap is this: more data does not mean better understanding unless you know which question each metric is answering. A campaign that produces a million website visits and fifty purchases looks different from a campaign that produces a hundred thousand visits and five thousand purchases — even though both might represent "success" on a clicks dashboard. The first has a 0.005 percent conversion rate. The second has a 5 percent conversion rate. The right metric depends on the campaign's objective, and the objective has to be set before the data collection begins.
+
+The metrics that actually matter are organized by funnel stage:
+
+**Top of funnel** — awareness and reach. Impressions: how many times the ad was shown. Reach: how many distinct people saw it. These metrics tell you whether the campaign is being seen. They don't tell you whether anyone cared.
+
+**Middle of funnel** — consideration and interest. Click-through rate (CTR): the percentage of impressions that produced a click. Time on page, pages per session, video completion rate: proxies for whether the content engaged the people it reached. These metrics tell you whether the audience found the message relevant.
+
+**Bottom of funnel** — conversion. Conversion rate: the percentage of visitors who completed the desired action (purchase, signup, download). Cost per click (CPC) and cost per acquisition (CPA): how much the firm paid to get each click and each conversion. These metrics tell you whether the campaign is producing business outcomes.
+
+**Beyond the funnel** — loyalty. Repeat purchase rate. Net Promoter Score. Customer lifetime value. These metrics tell you whether acquired customers are worth having.
+
+The metric that ties all of this together is **ROI**: revenue from the campaign minus cost of the campaign, divided by cost. ROI is the metric that should govern all the others, because it answers the only question that ultimately matters: did this investment return more than it cost?
+
+The problem with ROI in digital marketing is attribution — the question of which channel gets credit for a conversion. A consumer who sees a brand on Instagram, then encounters a retargeted display ad, then searches the brand name and clicks an organic result, and then completes a purchase — has been influenced by at least four touchpoints. Which one produced the sale? Last-click attribution gives all the credit to the organic search. First-click attribution gives all the credit to the Instagram ad. Multi-touch attribution attempts to distribute credit across all touchpoints in proportion to their contribution — but the contribution of each is genuinely uncertain.
+
+The practical discipline: be explicit about which attribution model your dashboard is using. A last-click model consistently undervalues upper-funnel channels (social, display, awareness campaigns) and overvalues lower-funnel channels (search, retargeting). A first-click model does the reverse. Neither is "correct" because the consumer's purchase decision was shaped by the entire sequence. Knowing the model's bias is how you avoid misallocating budget based on the model's limitations.
+
+<!-- → DIAGRAM: Attribution model comparison. A single consumer journey: Instagram ad → display retarget → email → organic search → purchase. Four rows showing how each attribution model (last-click, first-click, linear, multi-touch) allocates credit across the five touchpoints. Student should see that last-click and first-click produce opposite budget implications, and why neither is correct. -->
 
 ---
 
-## Integration — Privacy, Ethics, and Regulation
+## The Retargeting Machine
 
-Digital marketing's measurability comes from data collection. Data collection raises privacy concerns. Privacy concerns drive regulation. The triangle is the central tension of modern digital marketing.
+The most effective digital marketing campaign most consumers encounter doesn't announce itself as a campaign. It appears as a series of seemingly coincidental ads.
 
-### Consumer privacy concerns
+The mechanism: a consumer visits a website and does not convert. The website's tracking pixel records the visit. On the consumer's next session on any website that carries the advertising network's tags, the same brand's ad appears — a reminder of what the consumer looked at. On the session after that, perhaps a different ad with a promotional offer. After a few more sessions, perhaps an email if the consumer's email is in the firm's database.
 
-**KPMG survey:** **86% of respondents** report growing concern about data privacy; **78% fear** the amount of data being collected; **75%** want increased transparency. Trust has eroded as data breaches and aggressive tracking practices have become public.
+This is retargeting, and it works because it reaches people who have already demonstrated interest rather than trying to create interest from scratch. The conversion rates on retargeted ads are dramatically higher than on cold-audience ads for the same reason: the consumer is already aware of the brand and has already shown behavior consistent with purchase consideration.
 
-**71% of social media users** check their privacy settings — a meaningful indicator that consumers are actively managing their data exposure.
+Warby Parker and HelloFresh both use retargeting as a core component of their digital strategies. HelloFresh's integration — Instagram ad, Facebook retargeting, direct mail coupon, website conversion — is retargeting at its most sophisticated: consistent messaging across channels, escalating offers, measured at each stage.
 
-### Apple vs. Meta — the platform war
+The Apple tracking-permission change disrupted this ecosystem because retargeting across apps requires the ability to recognize the same user across different contexts. If the user opts out of cross-app tracking, the retargeting chain breaks. Advertisers who depended on the chain lost a significant portion of their most effective targeting capability. The industry response has been a combination of first-party data strategies (building direct relationships with users who provide their data voluntarily), contextual targeting (serving ads based on the content being consumed rather than the user's history), and measurement innovations that attempt to model attribution without individual-level tracking.
 
-In **2021, Apple released features for iPhone and iPad** that gave users explicit control over app tracking via pop-ups: allow or disallow tracking across apps and websites. The change disrupted Meta's (Facebook's) advertising model, which depends on cross-app tracking.
+None of these replacements is as efficient as the original system. That's the cost of privacy protection, and it's a cost the regulatory and platform consensus has decided is worth paying.
 
-**Mark Zuckerberg (Meta CEO)** publicly opposed the change. **Tim Cook (Apple CEO)** defended it as a privacy move. The dispute illustrated digital marketing's structural tension: the firms whose business models depend on tracking vs. the firms whose products depend on user trust.
+---
 
-### Regulatory frameworks
+## Privacy, Regulation, and the Value Ratio
 
-From Chapter 8:
+The Apple-Meta dispute is a business story and a privacy story at the same time. Understanding why requires going back to the value ratio from Chapter 2.
 
-- **GDPR (EU)** — General Data Protection Regulation. Strict rules on consent, data minimization, purpose limitation, deletion rights.
-- **CCPA (California)** — California Consumer Privacy Act. Similar protections for California residents.
-- **CAN-SPAM Act (US)** — Email marketing rules.
-- **FTC** — Disclosure requirements for sponsored content (#ad).
+When a consumer receives a highly targeted ad for something they've been looking for, the targeting makes the ad more valuable to them — it's relevant, it may introduce them to a better option or a better price. The targeting moves $B$ upward. The consumer benefits from the data collection.
 
-Compliance is now table stakes. Non-compliance produces fines (GDPR fines can reach 4% of global revenue), reputational damage, and consumer trust erosion.
+When a consumer receives a targeted ad based on their location data, their browsing history, or data they didn't know was being collected, the experience can feel invasive. The feeling of being tracked without knowledge moves $B$ downward — not because the ad is irrelevant but because the mechanism that produced the relevance violated the consumer's expectation of privacy. The consumer experiences the marketing as surveillance rather than service.
 
-### The integration with $V = B/P$
+The surveys are consistent. An KPMG survey found that 86 percent of respondents report growing concern about data privacy, 78 percent fear the amount of data being collected, and 75 percent want increased transparency. 71 percent of social media users check their privacy settings. These numbers describe a population that has become aware of the trade-off and is actively managing it.
 
-Digital marketing's tracking infrastructure can produce highly targeted, relevant marketing — moving $B$ favorably for customers who appreciate personalization. The same infrastructure can produce creepy, intrusive marketing — moving $B$ unfavorably for customers who feel surveilled.
+The regulatory response is an attempt to institutionalize what the surveys show consumers want:
 
-The discipline: collect data with explicit, informed consent; use it to genuinely serve the customer; respect deletion requests; communicate clearly about how data is used. The firms that get this right build durable digital marketing positions; the firms that don't face escalating regulatory risk and customer backlash.
+**GDPR** (Europe's General Data Protection Regulation) requires explicit consent before collecting personal data, gives users the right to request deletion, mandates data minimization (don't collect what you don't need), and fines violations at up to 4 percent of global annual revenue.
+
+**CCPA** (California Consumer Privacy Act) gives California residents the right to know what data is collected about them, the right to delete it, the right to opt out of its sale, and protection against discrimination for exercising those rights.
+
+**CAN-SPAM Act** (United States) governs email marketing: no deceptive headers, clear identification of commercial messages, working unsubscribe mechanism, physical address in the email.
+
+**FTC disclosure requirements** govern influencer marketing: paid relationships must be disclosed clearly, not buried in hashtags or disclosure statements too small to read.
+
+<!-- → TABLE: Privacy regulation reference table. Four rows: GDPR, CCPA, CAN-SPAM, FTC influencer rules. Columns: Regulation, Jurisdiction, Core requirement, Key right it grants consumers, Maximum penalty. The penalty column is the most actionable — it quantifies the compliance risk in the same units as marketing ROI. -->
+
+Compliance is table stakes. Non-compliance produces fines, regulatory action, and consumer trust erosion. The firms that treat privacy compliance as a minimum requirement and build genuine trust on top of it — through transparency about data use, meaningful consent flows, and demonstrated respect for user preferences — are building a durable competitive position. The firms that treat compliance as the maximum they're willing to do are building exposure.
+
+---
+
+## Where This Chapter Fits
+
+Chapter 17 established that advertising buys reach and control; PR builds credibility without control. Digital marketing straddles both — paid digital channels offer reach with significant control, while social media and influencer marketing offer elements of earned credibility with varying degrees of control.
+
+The measurement vocabulary in this chapter (CTR, CPA, conversion rate, ROI, attribution) connects directly to Chapter 3's KPI discipline and Chapter 15's pricing frameworks. Customer acquisition cost (CAC) — the total marketing spend divided by the number of new customers acquired — is a digital marketing metric that directly determines whether a business is viable. A firm spending $100 to acquire a customer who generates $50 in lifetime value is not a business; it's a money-losing operation disguised as a business by growth numbers. Customer lifetime value (CLV) from Chapter 3 is the denominator that makes CAC meaningful.
+
+The privacy and regulatory frameworks here connect back to Chapter 8's marketing research ethics and Chapter 6's legal-compliance framework. GDPR and CCPA are not primarily marketing regulations; they're data-rights regulations that have significant marketing implications. A marketer who doesn't understand the regulatory environment is building campaigns on ground that may legally disappear.
+
+Chapter 20 — Distribution — follows. How products reach customers physically is the other half of the accessibility question that digital channels address virtually. Place and digital promotion are increasingly integrated: a consumer who discovers a product through a social media ad and then buys it from a physical store is moving through both channels in one purchase journey.
 
 ---
 
 ## Exercises
 
-### Warm-up
+### Warm-Up
 
-**1. Identify the channel.** For each, identify the digital marketing channel:
+**1. Identify the channel.** For each scenario, identify the primary digital marketing channel being used and name one defining characteristic that makes it distinct from the others:
 
-- A 30-second YouTube ad before a video.
-- An email with a discount code.
-- A push notification when near a store.
-- An influencer's sponsored Instagram post.
+- A brand pays to appear at the top of Google search results when users search "best running shoes."
+- A brand publishes weekly blog posts and product pages optimized to appear in organic search results over time.
+- A customer who visited a brand's website but didn't purchase sees the brand's ads on unrelated websites over the next week.
+- A fitness influencer with 180,000 followers posts a workout video featuring the brand's protein powder, with #ad in the caption.
+- A brand sends a push notification offering 20% off to app users who are within 500 meters of one of its stores.
 
-*Tests: Objectives 2, 5, 7.*
+*(Tests: Objectives 1, 2, 5, 6, 7. Difficulty: Low.)*
 
-**2. Compute conversion rate.** A campaign produces 250,000 visits and 7,500 purchases. Calculate the conversion rate.
+**2. Calculate conversion rate and interpret the result.** Campaign A produces 400,000 website visits and 2,000 purchases. Campaign B produces 60,000 visits and 1,800 purchases. Calculate the conversion rate for each. If Campaign A cost $80,000 and Campaign B cost $30,000, calculate cost per acquisition for each. Which campaign was more efficient? What additional information would you need to know which campaign was "better" overall?
 
-*Tests: Objective 4.*
+*(Tests: Objective 4. Difficulty: Low.)*
 
-**3. Distinguish SEM from SEO.** For each scenario, identify SEM or SEO:
+**3. Distinguish attribution models.** A consumer's journey to purchase: (1) sees an Instagram ad, (2) clicks a Facebook retargeting ad, (3) opens a brand email, (4) searches the brand name on Google and clicks an organic result, (5) purchases.
 
-- Bidding on the keyword "running shoes" in Google Ads.
-- Writing blog content optimized for organic search.
-- Investing in backlinks from high-authority sites.
-- Paying for top placement on a search results page.
+Under last-click attribution, which touchpoint gets 100% of the credit? Under first-click? If the brand's CMO concludes from last-click data that Instagram is performing poorly and cuts the Instagram budget, what is likely to happen to conversions — and why?
 
-*Tests: Objective 6.*
+*(Tests: Objective 4. Difficulty: Low.)*
 
 ### Application
 
-**4. Audit a digital campaign.** Pick a brand's recent digital campaign. Identify the channels used, the likely metrics tracked, and the integration across channels.
+**4. Design a channel mix for a specific objective.** A direct-to-consumer skincare brand wants to acquire 5,000 new customers in the next quarter. It has $75,000 in marketing budget and its current customer base skews female, ages 28–42, and lives in urban areas. Recommend a digital channel mix: which channels, what percentage of budget to each, and why. Specify which metric you'd use to evaluate each channel's contribution.
 
-*Tests: Objectives 1–4.*
+*(Tests: Objectives 1–3, 5. Difficulty: Medium.)*
 
-**5. Design a social media strategy.** For a hypothetical product, recommend 2–3 platforms with rationale. Specify content type and frequency for each.
+**5. Assess influencer marketing risk and return.** A consumer food brand is considering two influencer options: (a) a celebrity chef with 4.2 million Instagram followers who charges $40,000 per post and whose audience is broader than the brand's target segment, (b) a food blogger with 85,000 followers who charges $3,500 per post and whose audience closely matches the brand's core customer. Evaluate both options using the risk-reward framework from the chapter. Recommend one, with conditions.
 
-*Tests: Objective 3.*
+*(Tests: Objective 7. Difficulty: Medium.)*
 
-**6. Build a measurement plan.** Specify the metrics you'd track for an e-commerce launch campaign. Map metrics to sales funnel stages.
+**6. Privacy compliance check.** A startup is launching an email marketing campaign that will send promotional emails to a list purchased from a data broker, use a pixel to track email opens and clicks, and retarget those who clicked with display ads. Identify each component's compliance risk under CAN-SPAM, GDPR, and CCPA. For any element that poses risk, name the specific rule it may violate and what the firm would need to do to comply.
 
-*Tests: Objective 4.*
+*(Tests: Objective 8. Difficulty: Medium.)*
 
 ### Synthesis
 
-**7. Connect to HelloFresh.** Walk HelloFresh's growth strategy through Concepts 1–3. Identify the channels, the metrics, and the privacy considerations.
+**7. Diagnose the attribution trap.** A brand has been running the same digital campaign for six months using last-click attribution. Its dashboard shows that paid search produces 65% of conversions and social media produces 8%. The brand is considering cutting social media spend by 75% and reallocating to paid search. Explain, using the attribution framework from this chapter, why this decision might be wrong. Design a 90-day test that would produce more reliable attribution data before making the reallocation.
 
-*Tests: Objectives 1–4.*
+*(Tests: Objective 4. Difficulty: Medium-high.)*
 
-**8. Influencer ROI.** Design a measurement framework for an influencer campaign. Specify which metrics indicate success vs. vanity.
+**8. Connect to HelloFresh.** Walk HelloFresh's digital strategy through the chapter's frameworks: (a) which channels it uses and why, (b) how the retargeting chain works across those channels, (c) which attribution model would most accurately reflect the contribution of each channel, (d) what privacy risks its cross-channel tracking creates and what first-party data strategies would mitigate them. Be specific at each step.
 
-*Tests: Objectives 4, 7.*
+*(Tests: Objectives 1, 4, 8. Difficulty: Medium-high.)*
 
 ### Challenge
 
-**9. Privacy compliance audit.** A firm is launching a marketing campaign that collects user data across channels. Audit the campaign against GDPR, CCPA, and CAN-SPAM. Identify the disclosures and opt-out mechanisms required.
+**9. Design a post-cookie digital strategy.** The firm you work for has historically relied heavily on third-party cookie-based retargeting. Apple's iOS changes and upcoming browser deprecations of third-party cookies are eliminating that capability. Design a digital marketing strategy that achieves comparable conversion rates without third-party cookies. Specify: (a) what first-party data you would collect and how, (b) what contextual targeting approaches replace behavioral retargeting, (c) what measurement approaches replace individual-level attribution, (d) what the net efficiency loss is likely to be and how you would recover it.
 
-*Tests: Objective 8.*
-
-**10. Design an ethical digital strategy.** Build a digital marketing strategy that maximizes effectiveness while respecting privacy. Specify what data to collect, what consent mechanisms, what data not to collect.
-
-*Tests: Objective 8.*
-
----
-
-## Chapter Summary
-
-**What you can do:** read any digital campaign and assess channels, metrics, integration, and privacy compliance.
-
-**The one idea:** digital marketing's defining feature is measurability. The firms that use the measurement well outperform those that don't — but the data infrastructure that enables measurement also creates the privacy risks that regulation increasingly addresses.
-
-**The common mistake:** chasing vanity metrics (likes, follower counts) without connecting them to business outcomes.
-
-**The Feynman test:** pick a digital campaign you've encountered. In two minutes, can you describe its channels, its metrics, its integration, and its privacy footprint?
+*(Tests: Objectives 1, 4, 8. Difficulty: High.)*
 
 ---
 
 ## Connections Forward
 
-**Chapter 20 — Distribution: Delivering Customer Value** opens the Place P sequence.
+**Chapter 20 — Distribution: Delivering Customer Value** opens the Place P sequence. Physical distribution and digital marketing are increasingly integrated — the consumer journey moves between both, and the firm's strategy has to account for the full path.
 
-**Chapter 21 — Retailing and Wholesaling** continues with the channel intermediaries.
+**Chapter 21 — Retailing and Wholesaling** covers the channel intermediaries and the structural shift from physical retail to omnichannel.
 
-**Chapter 22 — Sustainable Marketing** closes the book.
+**Chapter 22 — Sustainable Marketing** closes the book by returning to the question of whether the firm's marketing decisions serve not just the customer but the broader world.
 
----
-
-*Voice anchor: Feynman × MKBHD hybrid. See `style/VOICE.md`.*
-*Source: OpenStax modules m00104–m00108. All statistics, brand examples, and historical claims drawn from source.*
 ---
 
 ## LLM Exercise — Chapter 19: Direct, Online, Social Media, and Mobile Marketing
@@ -373,17 +265,19 @@ valuable single piece — most early-stage brands don't know it.
 
 **Preview of next chapter:** Chapter 20 adds distribution capability. The assistant will be able to design a channel structure with explicit coverage strategy, assess SCM trade-offs, and incorporate sustainability into channel choice.
 
-
 ---
 
 ## AI Wayback Machine
 
-**Lester Wunderman** was coined "direct marketing" in 1967 — and built the modern theory of database-driven customer marketing.
+**Lester Wunderman** coined "direct marketing" in 1967 — and built the modern theory of database-driven customer marketing.
 
 **Run this:**
 
 ```
-Who is Lester Wunderman, and how does their work connect to direct and digital marketing we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who is Lester Wunderman, and how does their work connect to direct
+and digital marketing we covered in this chapter? Keep it to three
+paragraphs. End with the single most surprising thing about their
+career or ideas.
 ```
 
 → Search **"Lester Wunderman"** on Wikipedia.
