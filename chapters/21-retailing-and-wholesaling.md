@@ -2,236 +2,193 @@
 
 *The two intermediary categories that move most consumer products from manufacturers to customers.*
 
-## Learning Objectives
+---
 
-By the end of this chapter, you will be able to:
+Here is a question that seems to have an obvious answer until you think about it carefully.
 
-1. Define retailing and identify the major retailer types (store and non-store).
-2. Distinguish store retailers (department stores, specialty, supermarkets, convenience, discount, off-price) from non-store retailers (e-commerce, direct, vending).
-3. Apply retailing strategy decisions — pricing, location, merchandise, communications.
-4. Identify major retailing trends — omnichannel, e-commerce growth, post-pandemic shifts.
-5. Define wholesaling and identify the major wholesaler types.
-6. Distinguish full-service from limited-service wholesalers and brokers/agents.
-7. Evaluate retailing and wholesaling decisions for ethical compliance.
+Why do intermediaries exist?
 
-## Prerequisites
+The standard intuition is that they shouldn't. A manufacturer makes a product. A customer wants the product. Every entity that sits between them takes a cut. The cut raises the price the customer pays without adding any value to the product itself. If the manufacturer and customer could trade directly, both would be better off — the manufacturer would capture more margin, the customer would pay less. Intermediaries, on this view, are inefficiency dressed up as commerce.
 
-You should be familiar with the **B2B markets** from Chapter 6, the **distribution channels** from Chapter 20, and the **product classification** from Chapter 12.
+The standard intuition is wrong. And the way it's wrong tells you almost everything important about how distribution actually works.
 
-## Why This Chapter Matters
+A small grocery store needs thirty different products — cooking oil, pasta, flour, canned tomatoes, paper towels, cleaning supplies, and twenty-four other items. Buying directly from the thirty manufacturers that produce those items would require thirty separate relationships, thirty separate contracts, thirty separate purchase orders, thirty separate logistics arrangements, thirty separate invoices to process. The store's owner has one employee. The administrative overhead of thirty direct manufacturer relationships would consume more labor than the store can afford to hire.
 
-Most consumer-product purchases happen at retail. Most retail purchases involve at least one wholesaler in the upstream chain. The two intermediary categories are the operational backbone of consumer-product distribution.
+The wholesaler solves this problem. The store calls one number, places one order, receives one delivery, processes one invoice. The wholesaler maintains the thirty manufacturer relationships. It warehouses product so the store doesn't have to. It breaks bulk — buying in quantities that make sense at the manufacturer level and selling in quantities that make sense at the retail level. It bears the inventory risk between purchase and sale. It provides market information (what's selling, what isn't, what's coming) that neither the manufacturer nor the small retailer could economically gather independently.
 
-By the end, you'll be able to read any retail or wholesale operation and assess its strategy and ethical compliance.
+This is not markup. This is value. The intermediary exists because the services it provides are worth more than they cost. When they stop being worth more than they cost, disintermediation becomes viable — which is exactly what Amazon did to many retail categories, and what direct-to-consumer brands are doing to traditional retail. But the disintermediating firm has to build the equivalent capabilities internally. Amazon has more warehouses than most wholesale distributors. The DTC brand's website is the retail store. The function doesn't disappear; the entity providing it changes.
 
 ---
 
-## Concept 1 — Retailing
+## What Retailing Is and Why Its Form Keeps Changing
 
-### The motivating puzzle
+Retailing is the business of selling goods and services to end consumers. Retailers are the final link between manufacturer and consumer in most distribution channels — the point at which goods stop being inventory and become possessions.
 
-**Precycle**, owned by **Katerina Bogatireva** in Brooklyn, sells groceries — spices, fruits, grains, pastas, household basics. What customers won't find at Precycle: **plastic packaging**. Bogatireva opened the store specifically to reduce plastic in retailing. All items are sold in bulk, free of plastic, locally sourced.
+That function is ancient. Retailing has existed since at least 800 BCE, when merchants in ancient Athens sold goods in city-center markets. What has changed, continuously and radically, is the form.
 
-In a market saturated with grocery options, Precycle differentiated through environmental positioning. The strategy aligns with the consumer-segment data from Chapters 9–10 — sustainability-conscious consumers willing to pay premium for products aligned with values.
+Department stores emerged in the late 1800s to aggregate multiple product categories under one roof — a response to the urbanization that created large populations within a small geographic area. Supermarkets emerged in the 1920s when self-service and automobile ownership made large-format stores practical. Door-to-door selling peaked in the 1950s. Infomercials appeared in the 1980s when cable television created cheap airtime for long-form product demonstrations. Online shopping began in the mid-1990s and has grown continuously since.
 
-### The mechanism — what retailing is
+Each new format emerged not because retailers were bored with the old ones but because a change in consumer circumstances — technology, transportation, living arrangements, economic conditions — created an opportunity for a different configuration of convenience, selection, and price. The function (connect manufacturers to consumers) persists; the optimal form changes as the consumer's world changes.
 
-**Retailing** = the business of selling goods and services to end consumers. Retailers are the final link between manufacturer and consumer in most distribution channels.
+The current form landscape is organized around two axes: physical versus non-physical, and broad versus narrow selection.
 
-Retailing has existed at least since **800 BCE in ancient Athens**, where merchants sold goods in city-center markets. The form has evolved — department stores in the late 1800s, supermarkets in the 1920s, door-to-door selling in the 1950s, infomercials in the 1980s, online shopping starting in the 1990s — but the underlying function is unchanged.
+**Store retailers** operate physical locations. Department stores (Macy's, Nordstrom) carry wide product mixes across many lines. Specialty stores (REI for outdoor gear, Sephora for beauty) offer narrow product lines with deep selection and expertise. Supermarkets are large self-service formats organized primarily around food and household goods. Convenience stores (7-Eleven) are small footprint, limited selection, extended hours, optimized for immediate need at a price premium. Discount stores (Walmart, Target) offer broad assortment at low prices through cost-efficiency rather than premium service. Off-price retailers (TJ Maxx, Marshalls, Ross) sell discounted brand-name merchandise acquired through overstock, end-of-season, or factory-direct relationships with manufacturers.
 
-### The mechanism — types of retailers
+**Non-store retailers** operate without (or with minimal) physical locations. E-commerce is the most significant — Amazon is the canonical case, but non-store retail also includes the thousands of direct-to-consumer brands that sell through their own websites. Direct selling operates through independent representatives (Mary Kay, Tupperware) whose social networks are the distribution channel. Vending machines are automated retail for specific categories. Direct mail and catalogs were historically significant and still operate in targeted contexts.
 
-**Store retailers** operate physical locations:
+<!-- → TABLE: Retailer types reference table. Rows: department store, specialty, supermarket, convenience, discount, off-price, e-commerce, direct selling. Columns: example brand, selection breadth, price level, primary consumer value (what brings the customer in), primary competitive threat. Student should see the full landscape before working with any single category. -->
 
-- **Department stores** — wide product mix across many lines (Macy's, Nordstrom).
-- **Specialty stores** — narrow product line, deep selection (REI for outdoor gear, Sephora for beauty).
-- **Supermarkets** — large self-service, primarily food and household.
-- **Convenience stores** — small footprint, limited selection, extended hours (7-Eleven).
-- **Discount stores** — broad assortment at low prices (Walmart, Target).
-- **Off-price retailers** — discounted prices on brand-name merchandise (TJ Maxx, Marshalls, Ross).
-
-**Non-store retailers** operate without (or with minimal) physical locations:
-
-- **E-commerce** — online-only or online-primary (Amazon).
-- **Direct selling** — through reps, parties, in-home (Mary Kay, Tupperware).
-- **Vending machines** — automated retail.
-- **Direct mail / catalog** — historical (Sears catalog), now primarily digital.
-
-### Common misconceptions
-
-**"All retailers are dying."** Some retail formats are declining; others are growing. The story is differentiation, not category death.
+The form matters because it determines the competitive context. A specialty retailer competes on expertise and selection, not price; competing on price against a discount retailer is a strategy that ends in bankruptcy. A convenience store competes on accessibility and hours, not price; trying to match a supermarket's assortment destroys the format's reason to exist. The retailer's strategic decisions — pricing, location, merchandise, communications — only make sense relative to the format, and the format only makes sense relative to the consumer need being served.
 
 ---
 
-## Concept 2 — Retailing Strategy
+## Retailing Strategy: Four Decisions That Define Positioning
 
-### The motivating puzzle
+A retailer is a positioning statement made physical. The price level signals quality expectations. The location signals who the customer is and how they shop. The merchandise assortment signals what the retailer is for. The communications strategy signals how the retailer wants to be perceived.
 
-A new retailer enters a market. The retailer's options span pricing strategy (premium vs. discount), location (urban vs. suburban vs. mall vs. standalone), merchandise (broad vs. narrow), and communications (heavy advertising vs. word of mouth).
+When these four decisions align, they reinforce each other and produce a clear customer perception. When they don't align — premium merchandise in a low-rent strip mall, discount pricing in a luxury location, wide assortment marketed as specialization — the customer experiences confusion. Confusion is death in retail.
 
-Each combination defines a positioning. The wrong combination — premium pricing in a discount-traffic location, for example — produces failure.
+<!-- → DIAGRAM: Retail strategy coherence map. Four quadrants labeled Pricing, Location, Merchandise, Communications. In the center: "Customer Perception." Arrows from each quadrant pointing inward. Two versions side by side: (1) "Coherent" — all four arrows point toward the same customer perception (premium); (2) "Incoherent" — arrows point in conflicting directions (premium merchandise, discount location, mixed signals). Student should see the four decisions as a system that either reinforces or contradicts itself. -->
 
-### The mechanism — four strategy decisions
+**Pricing** is the first signal the customer often receives. A price level carries expectations that everything else in the experience must support. Whole Foods prices at premium; the customer arrives expecting premium merchandise, premium service, and a premium environment. If any of those elements is missing, the customer feels cheated. Trader Joe's prices at moderate; the customer arrives expecting interesting products at accessible prices, not premium service or expansive selection. Each price level works if everything else is calibrated to it.
 
-**Pricing.** Premium, mid-tier, or discount. Aligned with the brand positioning from Chapter 7 and pricing strategy from Chapter 15.
+**Location** is where the customer's decision about whether to visit begins. Urban locations offer walk-in traffic and reduced need for parking. Suburban strip malls offer parking and lower rent but require deliberate trip-making. Mall locations offer foot traffic from anchor tenants but require shared positioning with neighbors. Standalone locations offer brand identity and control but require marketing investment to drive awareness. The trade-off in all cases is traffic versus cost — high-traffic locations carry high rents; accessible locations with low rents often lack spontaneous traffic.
 
-**Location.** Urban, suburban, mall, standalone, online. The trade-off between traffic and rent.
+The online analogue of physical location is discoverability — where the brand appears in search results, on social platforms, in marketplace listings. A DTC brand's website address is easy to communicate, but whether consumers actually navigate to it requires the search, social, and digital advertising investment that Chapter 19 covered. The traffic-versus-cost trade-off exists in digital contexts as clearly as in physical ones.
 
-**Merchandise.** Broad assortment vs. narrow specialty. Depth within a line.
+**Merchandise** is what the retailer sells. The two strategic dimensions are breadth (how many product categories) and depth (how much selection within a category). Department stores are wide and moderately deep. Specialty stores are narrow and very deep. Warehouse clubs (Costco, Sam's Club) are wide but deliberately shallow — a limited number of SKUs in each category, chosen for value. Convenience stores are narrow and shallow by necessity. Each configuration serves a different consumer need and attracts a different consumer profile.
 
-**Communications.** How the retailer markets to customers. From advertising-heavy to word-of-mouth-driven.
+The merchandise decision is also a statement about who the retailer is not for. Precycle — the Brooklyn grocery store described in the source material, opened specifically to sell bulk goods without plastic packaging — is making a very narrow merchandise decision: only goods that can be sold package-free, sourced locally. That constraint eliminates most products from most major brands. It also creates a positioning that's impossible for conventional grocers to replicate without fundamentally changing their supply chains. The constraint is the competitive advantage.
 
-### The mechanism — major retailing trends
-
-- **Omnichannel** (from Chapter 20) — integrated experience across channels.
-- **E-commerce growth** — accelerated by COVID-19 pandemic.
-- **Direct-to-consumer (DTC) brands** — bypassing traditional retail.
-- **Experiential retail** — physical stores as experiences (Apple Store, Glossier flagship).
-- **Sustainability positioning** — Precycle's category, growing across many segments.
-
-### Common misconceptions
-
-**"Online killed brick-and-mortar."** Brick-and-mortar adapted. The brands that thrived integrated online with physical (omnichannel); the brands that didn't lost share to those that did.
+**Communications** is how the retailer reaches and retains its customers. Advertising-heavy retailers (Macy's holiday campaigns, Target's seasonal circulars) invest in broad awareness. Word-of-mouth retailers (farmers' markets, specialty bookstores, local restaurants) invest in product and experience quality on the assumption that satisfied customers will refer others. Social-media-driven retailers (the DTC skincare brand with an Instagram-native customer base) invest in content and community. The right communications strategy depends on the customer acquisition economics of the category and the format's natural discovery mechanisms.
 
 ---
 
-## Concept 3 — Wholesaling
+## The Current Trends Reshaping Retail
 
-### The motivating puzzle
+Retailing is in a long structural transition driven by several forces operating simultaneously.
 
-A small grocery store needs 30 different products in small quantities. Buying directly from 30 manufacturers would require 30 relationships, 30 contracts, 30 logistics arrangements. The store buys from one wholesaler instead.
+**E-commerce growth**, which was steady before 2020, accelerated dramatically during the COVID-19 pandemic when physical retail was temporarily unavailable. The acceleration pulled forward adoption by consumers who had never shopped online and created behavioral habits that persisted after restrictions lifted. The categories most disrupted — apparel, electronics, home goods — have not reverted to pre-pandemic patterns.
 
-That's the value wholesaling adds — aggregation, simplification, logistics handling.
+**Omnichannel integration** is the response of surviving physical retailers. An omnichannel strategy integrates physical and digital channels so that a consumer can research online, purchase in-store, return through either channel, and receive consistent service across all of them. The challenge is operational — inventory systems, loyalty programs, and customer data have to be unified across channels — and it's a challenge most large retailers are still solving. The retailers that have solved it (Target, Best Buy) have demonstrated that physical stores can be competitive in an e-commerce environment when they're treated as fulfillment and experience assets rather than simply transaction locations.
 
-### The mechanism — what wholesaling is
+**Direct-to-consumer brands** bypassing traditional retail entirely are a structural challenge to both retailers and wholesalers. A DTC brand sells directly through its own website, controls the customer relationship, captures the full retail margin, and accumulates first-party customer data. The trade-off is the distribution coverage that a wholesale-to-retail model provides — a DTC brand with no retail presence is invisible to the portion of the market that discovers products by browsing in stores. The most successful DTC brands have moved omnichannel themselves: Warby Parker started online, added physical showrooms, and now operates both channels.
 
-**Wholesaling** = buying in bulk from manufacturers (or other channel members) at a discount and selling to retailers for higher prices. Wholesalers are intermediaries between producers and retailers; they typically don't interact with end consumers.
-
-Wholesalers add value through:
-
-- **Buying in bulk** — pass volume economies to retailers.
-- **Storing** — warehouse goods until retailers need them.
-- **Selling and marketing** — relationships with retailer networks.
-- **Logistics** — transportation, breaking bulk into smaller quantities.
-
-### The mechanism — types of wholesalers
-
-**Full-service wholesalers.** Provide a complete range of services — bulk buying, storage, financing, market research, technical assistance. Higher margins; deeper relationships.
-
-**Limited-service wholesalers.** Provide fewer services. Lower margins; transactional relationships.
-
-**Brokers and agents.** Don't take ownership of goods. Earn commissions on transactions. Common in real estate, insurance, food brokerage.
-
-### Common misconceptions
-
-**"Wholesalers are unnecessary middlemen."** They aggregate, simplify, and provide logistics that retailers can't efficiently replicate. The few firms that disintermediated wholesale have built substantial in-house operations to replace what the wholesaler provided.
+**Experiential retail** is the strategy physical stores are using to compete with online convenience. If the store offers an experience the customer can't replicate through a website — the Apple Genius Bar, the REI climbing wall, the Glossier flagship designed as a shared aesthetic space — then the store serves a function that e-commerce can't replace. The experience brings customers in; the purchase follows. This is why Chapter 20's observation about place decisions being marketing decisions applies in retail: the store environment is a promotional medium, not just a transaction location.
 
 ---
 
-## Integration — Ethics in Retailing and Wholesaling
+## Wholesaling: The Invisible Infrastructure
 
-Both categories face specific ethical risks:
+Most consumers never encounter a wholesaler directly. The wholesaler operates between the manufacturer and the retailer, and from the consumer's perspective, goods simply appear on shelves. That invisibility is part of why wholesaling is misunderstood — it's large, economically significant, and routinely attributed with less value than it actually creates.
 
-**Deceptive marketing.** Misleading prices, false sale signs, bait-and-switch (Chapter 18). FTC oversight applies.
+Wholesaling means buying in bulk from manufacturers or other channel members and selling in smaller quantities to retailers. The core economic function is breaking bulk — buying at the scale that makes sense for manufacturing and selling at the scale that makes sense for retail. A regional food distributor might buy a truckload of pasta from an Italian manufacturer and distribute it across five hundred restaurants and grocery stores in one-case quantities. Neither the manufacturer nor the retailers could efficiently arrange that themselves.
 
-**Misleading sales tactics.** Pressure tactics in retail; high-pressure pitches at the wholesale level.
+The services wholesalers provide beyond bulk-breaking:
 
-**Poor treatment of consumers and workers.** Long checkout lines, untrained staff, wage theft, worker safety issues.
+**Inventory holding** — the wholesaler warehouses goods between production and retail, shifting the inventory-holding cost and risk away from both the manufacturer and the retailer. The manufacturer doesn't need to hold product waiting for retail orders; the retailer doesn't need to hold large quantities waiting for consumer demand.
 
-**Counterfeit goods.** Selling counterfeits as genuine. Federal regulatory exposure.
+**Market information** — a wholesaler with relationships across hundreds of retailers has a unique view of what's selling and why. That information is valuable to manufacturers designing products and to retailers managing assortment. The wholesaler is often the most informed node in the distribution network about actual consumer behavior.
 
-**Wholesale ethics.** Bribes to retailer buyers; FCPA violations in international wholesale (Chapter 6).
+**Financing** — many wholesalers extend credit to retailers, allowing them to stock product before collecting from consumers. This is a financial service with significant economic value for retailers with constrained working capital.
 
-The integration with $V = B/P$: ethical violations destroy customer trust at the point of purchase — the most consequential moment in the customer journey.
+**Logistics** — transportation, routing, delivery scheduling. A wholesaler that serves five hundred retailers in a region has optimized a logistics network that a manufacturer serving those same retailers individually would have to replicate separately.
+
+<!-- → TABLE: Wholesaler functions reference table. Seven rows: bulk-breaking, inventory holding, market information, financing, logistics, selling/marketing support, risk-bearing. Columns: Function, What the wholesaler does, Who would bear the cost without the wholesaler (manufacturer or retailer), Why it's cheaper for the wholesaler to provide it. The last column is the value-creation argument — economies of scale and specialization are the reason intermediaries justify their margin. -->
+
+Three wholesaler types:
+
+**Full-service wholesalers** provide the complete range — bulk buying, storage, logistics, market research, technical assistance, financing. They add the most value and earn higher margins. Common in grocery, hardware, and industrial supply.
+
+**Limited-service wholesalers** offer a subset of services, typically at lower cost. Drop-shippers take orders and arrange delivery without holding inventory; rack jobbers own and maintain the display racks in retail locations but leave logistics to others.
+
+**Brokers and agents** don't take ownership of goods. They facilitate transactions between buyers and sellers and earn commissions. Real estate brokers, food brokers, insurance agents, and manufacturers' representatives all follow this model. The broker's value is relationships and market knowledge, not inventory or logistics.
+
+<!-- → TABLE: Wholesaler types — three rows: full-service, limited-service, broker/agent. Columns: services provided, takes title to goods (yes/no), how compensation works, common industries. The "takes title" column is the structural distinction — it determines who bears the inventory risk. -->
+
+The disintermediation question — whether a firm should bypass wholesalers and sell directly to retailers — comes down to the same cost-benefit analysis the opening example described. The wholesaler adds value; the question is whether the firm can add the same value more cheaply internally. For large manufacturers with sufficient scale and sophisticated logistics operations, direct-to-retailer relationships are often economical. For smaller manufacturers or those in geographically fragmented markets, the wholesaler's existing infrastructure is cheaper to use than to replicate.
+
+---
+
+## Where This Chapter Fits
+
+Chapter 20 established the principle that place decisions are marketing decisions — that how a product reaches the customer determines how the customer perceives the product. This chapter is the operational detail of how the two major intermediary categories execute that reach.
+
+The retailer is not a passive transaction point. The store's atmosphere, its merchandise selection, its pricing, its location all communicate something about the brand. When a manufacturer chooses to distribute through Walmart, the Walmart environment becomes part of the product's positioning context. When a brand chooses to distribute only through specialty retailers, the specialty retail environment — the expertise of the staff, the selection quality, the customer profile — reinforces the brand's positioning. The distribution choice is a positioning choice.
+
+Chapter 7's segmentation and targeting frameworks apply here. Different retail formats serve different segments; choosing a retail partner is implicitly choosing which segments you're serving and how. Chapter 15's pricing strategy applies here: the retailer's price level either reinforces or contradicts the manufacturer's pricing intent, and the manufacturer has to choose partners whose price positioning is compatible with their own. Chapter 11's coherence principle applies here most of all: the retailer and wholesaler relationships either support the overall marketing strategy or undermine it.
+
+Chapter 22 — the book's final chapter — follows. Sustainable marketing is where all the framework decisions of Units 1 through 3 come back to a central question: what are the firm's obligations beyond profit maximization? The distribution channel, as it turns out, is one of the most consequential places where sustainability decisions live — packaging, logistics, supplier relationships, labor practices at the retail level.
 
 ---
 
 ## Exercises
 
-### Warm-up
+### Warm-Up
 
-**1. Classify the retailer.** For each, identify the type:
+**1. Classify the retailer.** For each, identify the retailer type (department store, specialty, supermarket, convenience, discount, off-price, e-commerce, direct selling) and name the primary competitive advantage that type offers its customers:
 
 - Macy's
 - 7-Eleven
 - TJ Maxx
+- REI
 - Amazon
-
-*Tests: Objective 2.*
-
-**2. Match the strategy.** For each retailer, identify pricing strategy, location strategy, merchandise strategy:
-
 - Costco
+
+*(Tests: Objective 2. Difficulty: Low.)*
+
+**2. Match the four strategy decisions.** For each retailer, identify the pricing strategy (premium/mid/discount), one location strategy choice, the merchandise strategy (broad-shallow, narrow-deep, or another configuration), and one word describing the communications approach:
+
 - Whole Foods
 - Dollar Tree
+- Warby Parker's physical showrooms
 
-*Tests: Objective 3.*
+*(Tests: Objective 3. Difficulty: Low.)*
 
-**3. Identify the wholesaler type.** For each, identify full-service, limited-service, or broker/agent:
+**3. Identify the wholesaler type.** For each scenario, identify whether the wholesaler is full-service, limited-service, or broker/agent — and state whether they take title to the goods:
 
-- A real estate agent.
-- A regional food distributor providing logistics + marketing services.
-- A drop-shipper providing only logistics.
+- A regional food distributor that warehouses, finances, and delivers product to 400 grocery stores.
+- A company that takes retailer orders online, then routes them to the manufacturer for direct shipment without ever holding inventory.
+- A manufacturers' rep who connects specialty food brands with regional grocery buyers, earning a commission on each deal closed.
 
-*Tests: Objective 6.*
+*(Tests: Objective 6. Difficulty: Low.)*
 
 ### Application
 
-**4. Audit a retailer's strategy.** Pick a retailer. Walk pricing, location, merchandise, communications.
+**4. Diagnose a retail strategy mismatch.** Find a real retailer (physical or online) whose four strategy decisions are visibly misaligned — where the price level, location, merchandise, or communications are contradicting each other rather than reinforcing a single positioning. Describe the mismatch specifically. Recommend one change that would improve coherence, and explain why that change rather than another.
 
-*Tests: Objective 3.*
+*(Tests: Objective 3. Difficulty: Medium.)*
 
-**5. Identify retailing trends.** For a retail category you know, identify which trends are reshaping it.
+**5. Evaluate the disintermediation question.** A craft food brand currently sells through a regional distributor to independent grocery stores. Annual revenue through the distributor: $800,000. The distributor charges a 22 percent margin. The brand is considering building its own direct-to-retailer sales force. Estimate what it would cost to replicate the distributor's functions internally (use assumptions, state them clearly). At what revenue level does going direct become economical? What non-financial factors would you also consider?
 
-*Tests: Objective 4.*
+*(Tests: Objectives 5, 6. Difficulty: Medium.)*
 
-**6. Evaluate wholesaling value.** For a product category, evaluate the value wholesalers add. Could disintermediation work?
+**6. Audit a DTC brand's retail experience.** Pick a direct-to-consumer brand that sells only through its own website. Apply the four retail-strategy decisions to its online store: pricing signal (what does the price level communicate?), location equivalent (how discoverable is it?), merchandise (how is the assortment structured?), communications (what does the site's copy and design say about who it's for?). Identify one decision that is strengthening the brand's positioning and one that is undermining it.
 
-*Tests: Objectives 5, 6.*
+*(Tests: Objectives 1, 3. Difficulty: Medium.)*
 
 ### Synthesis
 
-**7. Connect to channel strategy.** For a brand, walk through Chapter 20's distribution decisions and Chapter 21's retail/wholesale choices.
+**7. Connect distribution choice to positioning.** A premium cookware brand currently sells through Williams Sonoma and its own website. It is considering adding distribution through Amazon and Costco to increase volume. Using Chapter 7's positioning framework and this chapter's retail strategy decisions, evaluate whether adding those two channels would strengthen or undermine the brand's positioning. Be specific: name which of the four retail-strategy decisions would be affected and how.
 
-*Tests: Objectives 1, 5.*
+*(Tests: Objectives 1, 3, 4. Difficulty: Medium-high.)*
 
-**8. Design a retailing strategy.** For a new product, recommend retailing strategy across all four decision areas.
+**8. Design a retail strategy for a new product.** A startup is launching a premium line of sustainable household cleaning products. They have three distribution options: (a) specialty natural-food retailers only, (b) mass-market retailers (Target, Walmart) only, (c) DTC only via their own website. For each option, walk all four retail-strategy decisions, identify which consumer segment it reaches, and name the primary risk. Then recommend one option with conditions.
 
-*Tests: Objective 3.*
+*(Tests: Objectives 1, 2, 3. Difficulty: Medium-high.)*
 
 ### Challenge
 
-**9. Retail ethics audit.** Pick a retailing controversy. Audit using the chapter's framework.
+**9. Retail ethics audit.** Find a real retailing controversy from the last five years — a deceptive pricing case (fake "original" prices), a bait-and-switch complaint, a counterfeit goods case, or a labor practice issue at a major retailer. Identify the specific violation, what regulatory or legal standard it violated, what the consequence was, and what structural change to the retailer's operations would have prevented it. Then evaluate: what did the controversy cost in $B$ terms — the trust and brand equity lost — beyond any financial penalty?
 
-*Tests: Objective 7.*
-
-**10. DTC vs. traditional retail.** For a hypothetical brand, evaluate DTC vs. traditional retail vs. omnichannel approaches. Recommend.
-
-*Tests: Objectives 2, 4.*
-
----
-
-## Chapter Summary
-
-**What you can do:** read any retailer or wholesaler and assess its strategy and ethical exposure.
-
-**The one idea:** retail and wholesale are the operational backbone of consumer products. The brands that succeed integrate well with the right intermediaries.
-
-**The common mistake:** treating distribution as a logistics problem rather than a marketing strategy.
-
-**The Feynman test:** pick a retailer. In two minutes, can you describe its retailer type, strategy decisions, and one trend reshaping it?
+*(Tests: Objective 7. Difficulty: High.)*
 
 ---
 
 ## Connections Forward
 
-**Chapter 22 — Sustainable Marketing: The New Paradigm** closes the book by integrating sustainability across all the marketing mix decisions you've now learned.
+**Chapter 22 — Sustainable Marketing: The New Paradigm** closes the book. The retailer's sustainability positioning (Precycle's bulk-and-no-plastic model), the wholesaler's supply-chain ethics, and the manufacturer's environmental footprint all converge in the sustainability chapter's central argument: that marketing decisions and sustainability decisions can no longer be separated.
 
----
-
-*Voice anchor: Feynman × MKBHD hybrid. See `style/VOICE.md`.*
-*Source: OpenStax modules m00116–m00123. All statistics, brand examples, and historical claims drawn from source.*
 ---
 
 ## LLM Exercise — Chapter 21: Retailing and Wholesaling
@@ -312,17 +269,18 @@ retail experience.
 
 **Preview of next chapter:** Chapter 22 closes the book with sustainable marketing as the new paradigm. The assistant adds greenwashing detection, brand-purpose falsifiability check, and integrates sustainability across all 4Ps. Then the project's final integration: compile the assistant + write the user manual.
 
-
 ---
 
 ## AI Wayback Machine
 
-**Stanley Marcus** was former president of Neiman Marcus who shaped modern luxury retailing — and wrote the influential Minding the Store.
+**Stanley Marcus** was the former president of Neiman Marcus who shaped modern luxury retailing — and wrote the influential *Minding the Store*.
 
 **Run this:**
 
 ```
-Who is Stanley Marcus, and how does their work connect to retailing we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who is Stanley Marcus, and how does their work connect to retailing
+we covered in this chapter? Keep it to three paragraphs. End with
+the single most surprising thing about their career or ideas.
 ```
 
 → Search **"Stanley Marcus"** on Wikipedia.
