@@ -2,271 +2,133 @@
 
 *Every framework in this book has been about how the firm creates value for customers. This chapter asks the next question: at whose expense, and for how long?*
 
-## Learning Objectives
+Here is an unusual origin story.
 
-By the end of this chapter, you will be able to:
+Dan Buettner rode his bicycle around the world. Along the way, he became interested in the places where people lived significantly longer than anywhere else — not just longer, but healthier and more socially engaged. He identified five such regions: Okinawa in Japan, Sardinia in Italy, Nicoya in Costa Rica, Ikaria in Greece, and Loma Linda in California. He called them Blue Zones. He identified nine specific lifestyle habits the populations shared. He published the research. *The Blue Zones* became a *New York Times* best seller.
 
-1. Define sustainable marketing and explain how it differs from traditional marketing.
-2. Identify the three pillars of sustainable marketing — environmental, social, and economic (governance) — and apply each to a real organization.
-3. Explain the relationship between sustainable marketing and the ESG (environmental, social, governance) framework used by investors and rating agencies.
-4. Compare traditional marketing's customer-focused approach with sustainable marketing's stakeholder approach.
-5. Identify the benefits of sustainable marketing, including enhanced brand recognition, reduced costs, improved effectiveness, easier regulatory compliance, waste minimization, and enhanced ROI.
-6. Distinguish the five principles of sustainable marketing — consumer-oriented, customer-value, innovative, mission-driven, and societal marketing.
-7. Define brand purpose and recognize when a purpose-driven campaign is authentic vs. performative.
-8. Synthesize the frameworks from this textbook to evaluate a marketing decision against both customer-value and societal-sustainability criteria.
+Here is where the story gets interesting for this chapter.
 
-## Prerequisites
+Buettner didn't stop at the publication. He built the finding into an organization — the Blue Zones Project — that offers communities a framework for implementing the same lifestyle changes the five original regions embodied. In 2009, Albert Lea, Minnesota, a town suffering severe economic crisis, partnered with Blue Zones to apply the principles across its people, places, and policies. The results were measurable: lower obesity rates, smoking cessation, increased exercise, reduced healthcare costs, a community that described itself as significantly happier.
 
-You should be familiar with every preceding chapter of this book. Sustainable marketing is the synthesis chapter — it integrates the value ratio (Chapter 2), the strategic planning frameworks (Chapter 3), the consumer behavior frameworks (Chapter 5), the segmentation methods (Chapter 7), and every P decision from Chapters 12–21. The frameworks of this chapter don't replace what came before; they recontextualize it.
+Lois Ahern, retired director of Freeborn County Health, said: *"The Blue Zones Project helped our community set amazing, aggressive, and achievable strategies that moved the Public Health agenda further in 10 months than what I could have expected in 10 years."*
 
-## Why This Chapter Matters
+Buettner built a mission-driven organization that creates genuine societal value. It also makes money. The two are not in tension.
 
-Every marketing decision you have learned to make in this book moves the customer's value ratio in the firm's favor. This chapter asks the question that the rest of the book deferred: **does the marketing decision also serve the customer's children, the firm's employees, the suppliers' communities, and the planet's long-term viability?**
-
-The question isn't decorative. **74 percent of consumers** agree that ethical practices are an important reason to support a company. **65 percent of employees** believe businesses should leave their employees better off through work. **81 percent of sustainable investment indexes outperformed comparable benchmarks in 2020.** **An IBM study found 57 percent of consumers would alter consumption habits to be more environmentally conscious; nearly 80 percent indicated sustainability is essential.**
-
-The data is consistent: customers, employees, and investors increasingly factor sustainability into their decisions. Marketing strategies that ignore this factor produce short-term gains and long-term equity loss. Marketing strategies that incorporate it produce both customer value and societal value — the dual mandate that defines this chapter.
-
-By the end, you will have a framework for evaluating any marketing decision against both customer-value criteria (the rest of this book) and societal-sustainability criteria. The two work together; they don't conflict.
+That is what this chapter is about.
 
 ---
 
-## Concept 1 — What Sustainable Marketing Is, and the Three Pillars
+## The Question the Rest of the Book Left Open
 
-### The motivating puzzle
+Every chapter before this one taught you how to move the customer's value ratio in the firm's favor. How to raise $B$ through better products, stronger brands, more relevant positioning. How to manage $P$ through pricing strategy. How to make the four levers pull together. How to understand the buyer's decision process, segment the market, find the right channel, coordinate the promotion.
 
-In 2021, *Barron's* published its **100 Most Sustainable Companies** list. **Williams-Sonoma** stood out: the company's **board was 67 percent women**. The company's **2021 impact report** stated that **46 percent of its products supported one or more environmental and social initiatives**, with a goal to reach **75 percent by 2030**. In 2020, Williams-Sonoma joined the **United Nations Global Compact** and aligned its corporate goals with the **UN Sustainable Development Goals**.
+All of it was in service of one goal: the firm delivers value to the customer; the customer exchanges something of value with the firm; both are better off.
 
-Williams-Sonoma sells kitchen and home goods. None of its products are obviously environmental products. The company's positioning rests not on what it sells but on how it operates — board composition, supply chain choices, product certifications, alignment with international sustainability frameworks.
+The question this chapter asks is the one that framework deferred: *when the firm and the customer are both better off, who else is affected?*
 
-The puzzle: how does a kitchen-supply retailer compete on sustainability? And why does it work?
+The employees who make the product. The suppliers in the chain. The communities near the factories. The ecosystems the raw materials come from. The atmosphere absorbing the carbon from the logistics. Future customers, who will inherit both the product category and the planet it runs on.
 
-The answer is that sustainability has shifted from a category-specific positioning (Patagonia, TOMS, Tesla) to a horizontal expectation that applies across every product category. The **2021 Weinreb Group report** found *more chief sustainability officers (CSOs) recruited in 2020 than in the previous three years combined*. **John Streur, CEO of Calvert Research and Management**, summarized the shift: *"In 2021, we see companies almost competing with one another on sustainability."*
+**Sustainable marketing** is the discipline of answering this question alongside the value-ratio question, not instead of it. Philip Kotler defined it as the concept that an organization should meet the needs of its present consumers without compromising the ability of future generations to fulfill their own needs. The practical version: products and services consumed today should not harm consumers of tomorrow.
 
-Williams-Sonoma's strategy is the playbook for the new paradigm.
+---
 
-### The mechanism — what sustainable marketing is
+## Three Pillars, Not One
 
-**Philip Kotler**, Professor Emeritus at Northwestern University, defined sustainable marketing as: *"the concept that an organization should meet the needs of its present consumers without compromising the ability of future generations to fulfill their own needs."*
+The first thing to understand about sustainable marketing is that "environmental" is only one of three pillars.
 
-Stripped of academic phrasing: **products and services consumed today should not harm consumers of tomorrow**.
+**The environmental pillar** is what most people picture when they hear "sustainability": reducing carbon emissions, minimizing waste, sustainable sourcing, packaging redesign, energy efficiency. Stonyfield Organic committed to cutting carbon emissions by 30 percent by 2030, with energy conservation, waste reduction, and sustainable packaging and logistics as parallel commitments. Subaru of Indiana Automotive runs a manufacturing facility designed as zero landfill — 98 percent of manufacturing waste is recycled or composted, the remaining 2 percent incinerated as waste-to-fuel.
 
-Sustainable marketing infuses purpose into socially conscious brands. It defines a purpose, orients to consumer and stakeholder values, aligns purpose with strategy, and reflects sustainability across all marketing-mix decisions.
+**The social pillar** concerns people — the firm's employees, customers, and communities. State Bags donates a bag filled with school supplies for each bag purchased, partnering with nonprofits including Seeds of Peace, Time's Up, and Bottomless Closet. Adobe runs Gen Create, a digital space for diverse thinkers and creators to collaborate, and provides software access to underserved communities to advance equity regardless of geography. The social pillar is about who benefits from the firm's existence, not just its customers.
 
-This is not the same as the **societal marketing concept** introduced in Chapter 2. The societal marketing concept was one of five evolutionary stages of marketing thinking. Sustainable marketing is the operational discipline that extends from the societal marketing concept into a full marketing approach.
-
-### The mechanism — three pillars (the planet/people/profits frame)
-
-Sustainable marketing rests on three pillars, often called **"planet, people, and profits"** or the **ESG framework** (environmental, social, governance):
-
-**The environmental pillar** focuses on reducing the firm's impact on the environment. Recycling, reuse, waste minimization, energy efficiency, sustainable sourcing.
-
-- **Stonyfield Organic** committed to **cutting carbon emissions by 30% by 2030**, plus energy conservation, waste reduction, and sustainable packaging and logistics.
-- **Subaru of Indiana Automotive** operates a **"green lean" manufacturing facility designed as zero landfill** — **98 percent of manufacturing waste is recycled or composted; the remaining 2 percent is incinerated as waste-to-fuel**.
-
-**The social pillar** focuses on creating an inclusive environment for the firm's employees, customers, and communities. Programs that increase well-being; community impact; diversity, equity, inclusion.
-
-- **State Bags** donates a bag filled with school supplies for each bag purchased. Partners with nonprofits including Seeds of Peace, Time's Up, and Bottomless Closet.
-- **Adobe** runs **Gen Create**, a digital space for diverse thinkers and creators to collaborate. Adobe also provides software access to underserved communities to advance equity regardless of location.
-
-**The economic pillar (governance pillar)** concerns profitability and business ethics. Sustainability requires profitability — firms that don't earn cannot sustain anything. Governance covers voting rights, legal compliance, accounting standards, business ethics, anticompetitive practices, tax transparency.
-
-- **Fortune and Refinitiv's Measure Up initiative** brings transparency to Fortune 500 companies' diversity, equity, and inclusion work — measuring policies, employee resource groups, percentage of minorities in leadership, salary parity. **Microsoft, Target, and Gap rated highly** on the criteria.
-- **Amazon publishes representation statistics sorted by job level**.
+**The economic pillar** — also called the governance pillar — concerns profitability, business ethics, transparency, and organizational accountability. Sustainability requires profitability; firms that don't earn can't sustain anything. But economic sustainability means more than profit: voting rights, accounting standards, legal compliance, anticompetitive practices, tax transparency, executive pay ratios. Microsoft, Target, and Gap have rated highly on Fortune and Refinitiv's Measure Up initiative, which brings transparency to Fortune 500 diversity, equity, and inclusion work. Amazon publishes employee representation statistics sorted by job level.
 
 <!-- → DIAGRAM: Three pillars of sustainable marketing as overlapping circles (Venn-style). Environmental / Social / Economic (Governance). The intersection in the middle labeled "sustainable marketing." Each pillar gets one example brand and one specific commitment. -->
 
-### The trade-off — pillar coordination vs. specialization
+The three pillars are the ESG framework that investors now use to evaluate firms. **81 percent of sustainable investment indexes outperformed comparable benchmarks in 2020.** The data is consistent across years: sustainability and profitability are not in tension; they reinforce each other over the time horizons that matter.
 
-A firm could focus exclusively on one pillar. Patagonia leads on environmental; State Bags leads on social; well-governed firms with weak environmental records lead on economic alone.
+Williams-Sonoma — a kitchen and home goods retailer — illustrates why sustainability isn't category-specific. Its 2021 board was 67 percent women. Its 2021 impact report showed 46 percent of products supporting one or more environmental and social initiatives, with a goal of 75 percent by 2030. The company joined the United Nations Global Compact and aligned its goals with the UN Sustainable Development Goals. Williams-Sonoma isn't selling outdoor gear or organic food. It's selling kitchen supplies — and competing on sustainability across all three pillars simultaneously.
 
-The trade-off: focused excellence in one pillar produces clearer brand positioning but leaves the other pillars exposed. Coordinated investment across all three pillars dilutes any single positioning but produces durable cross-stakeholder credibility.
-
-Williams-Sonoma's approach — board diversity (governance), supply chain choices (environmental), community partnerships (social) — exemplifies coordination. The firms ranking highest on sustainability indexes (Microsoft, VMware, Intuit, Apple, Mastercard — all named in *Barron's* and similar lists) typically operate across all three.
-
-### Common misconceptions
-
-**"Sustainability is environmental."** Environmental is one of three pillars. Social and governance matter equally; firms that perform well only on environment but ignore the other two get called out for the gap.
-
-**"Sustainability is for green companies."** Williams-Sonoma sells kitchen supplies. Mastercard processes payments. Microsoft sells software. None are intuitively "green" companies; all rank among the most sustainable.
+The **2021 Weinreb Group report** found more chief sustainability officers recruited in 2020 than in the previous three years combined. The firms ranking highest on sustainability — Microsoft, VMware, Intuit, Apple, Mastercard — operate across all three pillars. Focused excellence in one pillar produces clearer positioning but leaves the others exposed. Coordinated investment across all three produces durable cross-stakeholder credibility.
 
 ---
 
-## Concept 2 — Traditional vs. Sustainable Marketing, and the Benefits
+## The Stakeholder Shift
 
-### The motivating puzzle
+Traditional marketing takes a customer approach: target audience, four Ps, transaction, shareholder return as the primary obligation. Sustainable marketing takes a stakeholder approach: customers, shareholders, employees, vendors, interest groups, media, the general public — all stakeholders whose interests the firm considers when making marketing decisions.
 
-A traditional marketer reads this book through Chapter 21 and operates: target customers, position the brand, pull the four levers, measure the results. Done.
+The practical difference appears in cost and speed. Stakeholder consideration is slower and more expensive than pure customer optimization. The question is whether the long-term returns justify the investment.
 
-A sustainable marketer reads the same book and asks: target *which* customers, in *which* communities, supplied by *whom*, with *what* environmental footprint, governed by *whom*, accountable to *which* stakeholders? The questions multiply because the relevant stakeholder set has expanded.
+They do.
 
-The puzzle: does the expanded stakeholder consideration produce better business outcomes, or just slower decisions?
+Bain & Company research found 5x revenue growth among brands scoring highest on sustainability. Mastercard saw average annual profit growth of nearly 19 percent over the 10 years it connected purpose to profits. PepsiCo under former CEO Indra Nooyi built a comprehensive sustainability program covering agriculture, water, packaging, product, climate, and people — and earned over $70 billion in net revenue in 2020 while operating that framework. Harvard's Rebecca Henderson describes the shared-value opportunity: *doing well and doing good are mutually dependent*.
 
-### The mechanism — traditional vs. sustainable marketing
+The mechanism is not mysterious. Sustainability practices reduce waste, lower energy costs, and decrease materials use — all reducing long-term production costs. They attract and retain better employees, who increasingly choose employers based on purpose and values. **65 percent of employees** believe businesses should leave their employees better off. **8 in 10 employees** say their employer's values aligning with their own is important. Purpose-aligned employees are more engaged, more productive, and more retained.
 
-**Traditional marketing** takes a customer approach. Target audience, four Ps, transaction. Shareholder return is the primary obligation.
+Costco's framing is honest about the connection: *"Sustainability to us is remaining a profitable business while doing the right thing."* The firm pays employees above market rates — both as a sustainability commitment and as a business strategy. Employees who feel treated fairly produce customer service that customers notice.
 
-**Sustainable marketing** takes a stakeholder approach. Customers, shareholders, employees, vendors, interest groups, media, the general public — all stakeholders whose interests the firm considers. The brand's sustainability agenda becomes part of the marketing effort.
-
-**Costco** illustrates the stakeholder approach. The firm's published sustainability framing: *"Sustainability to us is remaining a profitable business while doing the right thing."* Three principles:
-
-- *"For Costco to thrive, the world needs to thrive. We are committed to doing our part to help."*
-- *"We focus on issues related to our business and where we can contribute to real, results-driven positive impact."*
-- *"We do not have all of the answers, are learning as we go and seek continuous improvement."*
-
-Costco backs the principles operationally — **paying employees above market rates** to honor commitments to employees and communities. The wage policy is both an employee-experience choice and a sustainability commitment.
-
-**New Belgium Brewery** in Fort Collins, Colorado, designs around the environment. Three principles in its business model toward **carbon neutrality by 2030**:
-
-- Reduce emissions through electricity from wastewater, heat-recapture during brewing, and LEED certification on properties.
-- Work with interest groups to advocate for improved climate policies.
-- Improve recycling in the United States through its co-founded glass recycling coalition.
-
-The brewery doesn't just reduce its own footprint — it advocates for policy change and builds industry recycling infrastructure. The stakeholder approach extends beyond the firm's walls.
-
-### The mechanism — six benefits of sustainable marketing
-
-The literature on sustainable marketing identifies six categories of benefit:
-
-**Enhanced brand recognition.** Brands that incorporate purpose earn distinctive positioning. **Patagonia**, founded by Yvon Chouinard, exemplifies. The brand will repair its goods to avoid replacement purchases, **donates 1 percent of annual sales to good causes worldwide**, and operates the **Action Works website** connecting customers with local environmental groups for activism.
-
-**Reduced costs.** Sustainability practices typically require up-front investment but produce long-term cost reduction. **Bain & Company** research found **5x revenue growth among brands scoring highest on sustainability**. The mechanism: reduced materials, recycling programs, lower natural-resource use — all reducing production costs while reducing environmental impact. **Ben & Jerry's** stopped using plastic straws and spoons in stores — good for the planet, lower expenses, both. The firm's founders, **Ben Cohen and Jerry Greenfield**, set forth a *"product, economic, and social mission"* — the **triple bottom line** approach since adopted by many organizations.
-
-**Improved effectiveness.** Sustainability practices improve organizational effectiveness through human capital. Employees increasingly choose employers based on purpose, well-being, culture, diversity, equity, and inclusion. **Mastercard saw an average annual profit growth of nearly 19 percent over the 10 years it connected purpose to profits**. The connection isn't accidental — purpose-aligned employees are more engaged, more productive, and more retained.
-
-**Easier regulatory compliance.** Sustainability commitments typically exceed legal minimums, easing compliance burden. The **EPA** publishes regulatory information by sector; firms operating well above the regulatory floor face less compliance friction.
-
-**Waste minimization.** Direct environmental benefit. **McDonald's set a goal of having 100 percent guest packaging derived from renewable, recycled, or certified sources by 2025**. **Anya Hindmarch's "I Am Not a Plastic Bag" campaign in 2007** — collaboration with creative agency Antidote — gained press coverage that contributed to the **UK's decision to charge for plastic bags**.
-
-**Enhanced return on investment.** Sustainable marketing produces measurable returns. Investor interest, brand value, revenue all rise for sustainability leaders. The 81% sustainable investment outperformance figure cited at the chapter's opening is the financial-side evidence.
-
-**PepsiCo** under former CEO **Indra Nooyi** built a comprehensive sustainability program covering agriculture, water, packaging, product, climate, and people. The result: **PepsiCo earned over $70 billion in net revenue in 2020** while operating on the sustainability framework. The shared-value opportunity that Harvard's **Rebecca Henderson** describes — *doing well and doing good are mutually dependent* — produces both outcomes simultaneously when pursued well.
-
-### The trade-off — short-term cost vs. long-term value
-
-The most persistent tension in sustainable marketing is the time horizon trade-off. **Sustainability practices typically carry up-front investment** with returns spread over years. Quarterly-focused firms struggle to justify the spend; long-horizon firms accumulate compounding advantages.
-
-The trade-off resolves through governance. Firms with leadership committed to long-horizon thinking — typically through ownership structure, founder leadership, or explicit board mandates — sustain investment through cost cycles. Firms governed by quarterly pressure typically retreat from sustainability commitments when revenue tightens, and lose the compounding benefit.
-
-### Common misconceptions
-
-**"Sustainability is expensive."** Up-front, often. Long-term, usually cheaper. The 5x revenue growth (Bain) and 19% Mastercard profit growth aren't anomalies; they reflect the systemic benefits of sustainability done well.
-
-**"Sustainable marketing is for big companies."** Small firms can implement most sustainability practices. State Bags, New Belgium Brewery, Anya Hindmarch — all started smaller and grew by leading on sustainability.
+New Belgium Brewery goes further. Its path to carbon neutrality by 2030 includes generating electricity from wastewater, heat recapture during brewing, and LEED certification on properties — but also advocacy for improved climate policies and co-founding a glass recycling coalition. The brewery isn't just reducing its own footprint; it's building the infrastructure that makes the whole category more sustainable. The stakeholder approach extends beyond the firm's walls.
 
 ---
 
-## Concept 3 — Five Principles, Brand Purpose, and the Blue Zones
+## Five Principles
 
-### The motivating puzzle
+Sustainable marketing operationalizes through five principles. They overlap; a strong sustainable marketer applies all five.
 
-Adventurer **Dan Buettner** rode his bicycle around the world studying communities where people lived longer than anywhere else on Earth. He identified **five regions** with extraordinary concentrations of healthy older adults — places he called **Blue Zones**:
+**Consumer-oriented marketing** keeps the customer's genuine needs at the center. Not manufactured wants, not short-term manipulation — real needs, served well. Zappos built its business on extensive customer service, a principle that required genuine structural investment rather than surface-level politeness training. Consumer-oriented marketing is the same research discipline from Chapters 5–8 applied with real commitment.
 
-- **Okinawa, Japan**
-- **Sardinia, Italy**
-- **Nicoya, Costa Rica**
-- **Ikaria, Greece**
-- **Loma Linda, California**
+**Customer-value marketing** delivers maximum utility relative to competitors. This connects directly to $V = B/P$ from Chapter 2. Customer-value doesn't mean low price — Tiffany & Co. creates value through luxury positioning at premium prices, intentionally targeting customers who perceive high value in the luxury experience. The principle is that the value delivered must be genuine, not manufactured through manipulation or information asymmetry.
 
-The Blue Zones research, building on prior work by demographers **Gianni Pes** and **Michel Poulain**, identified **nine specific lifestyle habits** the populations shared — what Buettner's team called the **Power 9**. *The Blue Zones* became a *New York Times* best seller.
+**Innovative marketing** engages audiences where they are, in formats they'll actually engage with. The Shedd Aquarium in Chicago took its penguins on a virtual field trip during COVID lockdowns in 2020 — broadcasting on social media to animal lovers worldwide, maintaining engagement during a period when physical attendance was impossible. Innovative marketing meets customers in their current reality rather than the reality marketing campaigns were designed for.
 
-The puzzle: Dan Buettner had a research finding. He could have published academic papers and moved on. Instead, he built the finding into a sustainable-marketing organization that has reshaped community health in the United States.
+**Mission-driven marketing** puts purpose at the center and lets the brand follow. Charity: Water, founded by Scott Harrison, has raised more than $640 million and funded more than 91,000 water projects in 29 countries. Harrison's personal transformation — from nightclub promoter to mission-driven nonprofit founder — anchors the brand's storytelling. The mission isn't decoration; it's the organizing principle the brand exists to advance.
 
-The **Blue Zones Project** offers communities a phased implementation framework. **In 2009, Albert Lea, Minnesota** — a town suffering severe economic crisis — partnered with Blue Zones to apply the same lifestyle principles seen in the original five regions. The project worked across the people, the places, and the policies of the community. The results: **lower obesity rates, smoking cessation, increased exercise, reduced healthcare expenses, a happier and more productive community**.
+**Societal marketing** closes the loop: sustainability strategies that meet customer needs while fulfilling social-responsibility obligations. Athleta sells premium-priced performance apparel to female athletes. Its Power of She campaign celebrates women's diversity. Approximately 70 percent of Athleta's apparel is manufactured from recycled and sustainable materials. The product, the campaign, and the supply chain express the same mission.
 
-**Lois Ahern**, retired director of Freeborn County Health in Albert Lea, summarized: *"The Blue Zones Project helped our community set amazing, aggressive, and achievable strategies that moved the Public Health agenda further in 10 months than what I could have expected in 10 years."*
-
-The Blue Zones case illustrates several mechanisms simultaneously: societal marketing as a business model, mission-driven marketing as a growth strategy, sustainable marketing as a community partnership, and brand purpose as the organizing principle. The framework that follows unpacks how these connect.
-
-### The mechanism — five principles of sustainable marketing
-
-Sustainable marketing operationalizes through five overlapping principles:
-
-**Consumer-oriented marketing.** Customer's needs at the center. Product solves a problem; distribution serves convenience; promotion communicates the solution. **Zappos** built a consumer-oriented strategy through extensive customer service. The discipline requires research — segmentation (Chapter 7), buyer behavior (Chapter 5), research methods (Chapter 8) — all in service of authentic customer focus.
-
-**Customer-value marketing.** Maximum utility relative to competitors. Connects directly to $V = B/P$ from Chapter 2. Customer-value doesn't mean low price — **Tiffany & Co.** creates value through luxury positioning at premium prices, intentionally targeting customers who perceive value in the luxury experience.
-
-**Innovative marketing.** Media as an instrument for engaging audiences. **The Shedd Aquarium in Chicago took its penguins on a virtual field trip in 2020** to meet aquatic neighbors during COVID lockdowns — broadcasting on social media and delighting animal lovers worldwide. Innovative marketing meets audiences in formats they'll engage with.
-
-**Mission-driven marketing.** Purpose at the center; brand follows mission. **Charity: Water**, founded by **Scott Harrison**, has raised **more than $640 million** and funded **more than 91,000 water projects in 29 countries**. Harrison's personal story — his transformation from nightclub promoter to mission-driven nonprofit founder — anchors the brand's storytelling. The mission isn't decoration; it's the organizing principle the brand exists to advance.
-
-**Societal marketing.** Sustainability strategies meeting customer needs while fulfilling social-responsibility obligations. **Athleta** (a Gap company) sells premium-priced performance apparel to female athletes. Its **Power of She** campaign celebrates women's diversity. **Approximately 70 percent of Athleta's apparel is manufactured from recycled and sustainable materials.** The product, the campaign, and the supply chain all express the same mission.
-
-The Blue Zones Project operates on all five principles simultaneously. Consumer-oriented (each community partnership starts with assessing the community's needs). Customer-value (the partnership produces measurable wellness improvements). Innovative (the framework was built from research no one else had compiled). Mission-driven (Buettner's organization exists to spread the Blue Zones lifestyle). Societal (the entire model is sustainability marketing applied to community health).
-
-### The mechanism — brand purpose
-
-**Accenture's global survey of 30,000 consumers** about brand purpose found that **62 percent of consumers want companies to take a stand on issues such as sustainability, transparency, or fair working conditions**. The percentage rises with younger generations.
-
-Brand purpose, however, only works when it's **authentic**. People expect brands to connect to deep purpose; they are intolerant of brands that do so inauthentically.
-
-The **Walmart Juneteenth ice cream backlash in May 2022** illustrates inauthenticity. Walmart launched an ice cream flavor for the Juneteenth holiday — a holiday commemorating the end of slavery in the United States. Consumers immediately criticized the launch as performative — Walmart appeared to be selling a product rather than honoring a historically significant day. The company apologized; the damage was real; the lesson was that purpose has to be in the brand's DNA, not retrofitted to seasonal merchandising.
-
-**Bombas** illustrates authentic purpose. The brand built its business around donating **socks and underwear to homeless shelters with each purchase** — *you buy socks, they give socks*. As of writing, Bombas has **donated over 5 million items with 3,500 impact partners in every state**. The simplicity of the model — buy one, give one — and the consistency of execution make the purpose credible. Customers buying Bombas know exactly what their purchase contributes to.
-
-**Dove's Campaign for Real Beauty** is a multi-decade case of brand purpose. Dove's research found young girls were impacted by media's narrow standards of beauty. The brand's response: a campaign celebrating diverse types of beauty — *Real Beauty Sketches*, *Evolution*, *Reverse Selfie*, others — that reframed the entire category. The campaign worked because it served Dove's customers (women buying personal-care products) while addressing a real societal harm. Brand purpose lived in product design, advertising, and ongoing commitment over decades.
-
-**Procter & Gamble** weaves inclusion across hiring practices, paid media partnerships, and product development. The "Widen the Screen" campaign from Chapter 10 was one expression. The pattern across the company is consistent enough to be credible.
-
-### The trade-off — purpose authenticity vs. campaign agility
-
-Brands face structural tension between authentic purpose and campaign agility. Authentic purpose requires consistency over years; campaign agility requires responsiveness to current events.
-
-The trade-off resolves through **purpose-DNA infrastructure**. Brands with deep, well-established purpose can launch agile campaigns that authentically extend the purpose. Brands without deep purpose that try to launch agile purpose campaigns get caught — Walmart's Juneteenth ice cream is the textbook failure mode.
-
-The discipline: **build purpose deep, express it consistently, extend it agilely**. Skipping the first step makes the third step impossible.
-
-### Common misconceptions
-
-**"Brand purpose is messaging."** Brand purpose is operational. Bombas's purpose lives in donation logistics, not in advertising. Dove's purpose lives in product development decisions, not in commercials.
-
-**"Authentic purpose can't be commercial."** Patagonia, Bombas, Dove, Tesla, Costco, Charity: Water, the Blue Zones Project — all run commercial businesses with authentic purpose. The mistake is believing the two conflict; the reality is that they reinforce each other when done well.
+Blue Zones operates all five simultaneously. Consumer-oriented (each community partnership starts with assessing the specific community's needs). Customer-value (the framework produces measurable wellness improvements). Innovative (the research platform hadn't existed before Buettner built it). Mission-driven (the organization exists to spread the Blue Zones lifestyle). Societal (the whole model is sustainable marketing applied to community health). The fact that it's commercially successful alongside all of that is not incidental — it's what makes the model replicable.
 
 ---
 
-## Integration — Sustainable Marketing as the Synthesis of This Book
+## Brand Purpose: Authentic or Performative
 
-This chapter — and this book — closes with a synthesis.
+An Accenture global survey of 30,000 consumers found that 62 percent want companies to take a stand on issues like sustainability, transparency, or fair working conditions. The percentage rises with younger generations.
 
-### The integration with $V = B/P$
+Brand purpose works — when it's authentic.
 
-Chapter 2 introduced $V = B/P$ as the central model: customer value is benefits perceived relative to price paid. Every chapter since has unpacked some aspect of moving this ratio: how customers perceive benefits (Chapter 5), what segments perceive different benefits (Chapter 7), how products carry benefits (Chapter 12), how prices interact with perception (Chapter 15), how promotion shapes the perception (Chapters 16–19), how distribution makes the offer accessible (Chapters 20–21).
+Bombas illustrates authentic purpose. The brand built its business around donating socks and underwear to homeless shelters with each purchase — you buy socks, they give socks. As of writing, Bombas has donated over 5 million items with 3,500 impact partners in every state. The simplicity of the model and the consistency of execution over years make the purpose credible. Customers buying Bombas know exactly what their purchase contributes to. The purpose isn't in the advertising; it's in the donation logistics.
 
-Sustainable marketing adds a layer to $B$ that traditional marketing largely ignored: **the customer's perception of the firm's broader societal impact**. For the **57% of consumers** willing to alter consumption habits for environmental reasons, for the **62% who want companies to take stands**, for the **74% who consider ethics a reason to support a brand** — sustainability is part of what they're buying when they buy a product.
+Dove's Campaign for Real Beauty is a multi-decade case. Dove's research found young girls were impacted by media's narrow standards of beauty. The brand's response — celebrating diverse types of beauty across years of campaigns: *Real Beauty Sketches*, *Evolution*, *Reverse Selfie*, others — reframed the entire category. The campaign worked because it served Dove's customers while addressing a real societal harm. Brand purpose was expressed in product development, advertising, and ongoing commitment over decades, not as a seasonal campaign.
+
+The Walmart Juneteenth ice cream backlash illustrates the failure mode. In May 2022, Walmart launched an ice cream flavor for Juneteenth — the holiday commemorating the end of slavery in the United States. Consumers immediately read the launch as performative: Walmart appeared to be selling a product rather than honoring a historically significant day. The company apologized. The damage was real. The lesson: purpose has to be in the brand's DNA, not retrofitted to seasonal merchandising. Brands that attempt agile purpose campaigns without deep purpose infrastructure produce the Juneteenth result.
+
+The test for authentic versus performative purpose is practical: what would the brand do that would refute its own purpose statement? If the purpose statement could equally describe a competitor, it's not specific enough. If the brand's recent behavior contradicts the stated purpose, the purpose is performative. Bombas passes both tests. The Walmart Juneteenth ice cream failed both.
+
+---
+
+## The Synthesis
+
+This book has taught marketing as a discipline for moving the customer's value ratio in the firm's favor. This chapter adds the layer the rest of the book deferred.
+
+For the 57 percent of consumers willing to alter consumption habits for environmental reasons, for the 62 percent who want companies to take stands on societal issues, for the 74 percent who consider ethics an important reason to support a company — sustainability is part of what they're buying when they buy a product. It belongs in $B$.
 
 A brand without sustainability commitments can still serve the segment of customers who don't factor sustainability into their value calculation. That segment exists and will continue to exist. But the segment that *does* factor sustainability is large, growing, and increasingly the most profitable to serve.
 
-### The integration across the 4Ps
+Sustainable marketing reshapes each of the four Ps. Products designed for repair, recycling, and durability carry different $B$ than products designed for planned obsolescence. Prices that reflect true costs — including environmental and social costs — hold premium positioning over time rather than eroding under competitive pressure. Distribution channels chosen for environmental impact (sustainable sourcing, lower-carbon logistics) produce different supply-chain risks than channels chosen purely on cost. Promotion that communicates authentic purpose builds $B$ across the growing sustainability-oriented segment rather than eroding it through greenwashing backlash.
 
-Sustainable marketing reshapes every P:
+The coupling rule from Chapter 2 applies with particular force to sustainability: all four levers must lean the same direction. A brand promoting environmental commitment with high-emission distribution is incoherent. A brand promoting social purpose with poor employee treatment is incoherent. The customer notices the contradiction — and the gap between claim and practice is now visible in ways it wasn't 20 years ago.
 
-**Product.** Designed for repair, recycling, durability. The product itself embeds the sustainability commitment (Patagonia's repair program; Athleta's 70% recycled materials).
+---
 
-**Price.** Reflects true cost including environmental and social impact. Premium pricing supported by genuine sustainability investment, not greenwashing.
+## The Closing Argument
 
-**Place.** Distribution channels chosen for environmental impact. Sustainable sourcing (Chapter 20). Local-first when feasible.
+The frameworks of this book are tools. The value ratio, the four Ps, segmentation and targeting, consumer behavior models, the buying center, research methodology, service quality, distribution design, IMC — all tools. They describe underlying mechanisms: how customers perceive value, how firms create it, how segments respond to different signals, how distribution shapes access, how promotion shapes perception. The mechanisms outlive any specific platform or technology.
 
-**Promotion.** Authentic purpose communication. Brand purpose lived rather than performed (Bombas, Dove). Avoiding the Walmart Juneteenth failure mode.
+Use them deliberately. Notice when they fail. Update them when the mechanism beneath them shifts.
 
-The 4P coupling rule from Chapter 2 — *all four levers must lean the same direction* — applies with particular force to sustainability. A brand promoting environmental commitment with high-emission distribution is incoherent. A brand promoting social purpose with poor employee treatment is incoherent. The customer notices.
+And take seriously the question this chapter asks. The firms that get marketing right over the next 25 years will learn to ask not just *how do we move the value ratio in our favor* but also *for how long, serving whom, at whose expense?* The two questions answered together produce better marketing than either answered alone.
 
-### The integration with strategic planning
+That is what Dan Buettner demonstrated — not from a business school, but from a bicycle, crossing the world. He found something real. He built something durable from it. He served his customers and the communities that partnered with him and the population health agenda and the commercial mission of the organization simultaneously.
 
-Chapter 3's strategic planning chain (vision → mission → gap analysis → objectives → monitor) now extends to include stakeholder considerations alongside customer considerations. SMART objectives include sustainability KPIs alongside revenue KPIs. SWOT analysis includes environmental and social dimensions alongside competitive dimensions.
-
-The strategic planning loop and the sustainability loop reinforce each other when done well. They contradict each other when done poorly — usually because sustainability was added to the strategic plan as decoration rather than incorporated as a real constraint.
-
-### The closing argument
-
-This book has taught marketing as a discipline for moving the customer's value ratio in the firm's favor. Sustainable marketing extends the discipline to the additional question: *for how long, at whose expense, and serving whom?*
-
-The two questions are not in tension. Marketing that produces customer value while sustaining the systems that customer value depends on — environmental, social, economic — produces both customer value and societal value simultaneously.
-
-**A 2021 Blue Beyond Consulting workplace study** found **8 in 10 employees** say their employer's values aligning with their own is important; **more than 75 percent** expect their employer and business to be a force for good. The expectation comes from employees, customers, investors, regulators, communities — every stakeholder in the marketing system.
-
-The frameworks of this book, applied with the sustainability lens this chapter adds, give you the tools to meet that expectation — and to recognize when other firms are meeting it, when they're failing to, and when they're performing it.
-
-That is the discipline of marketing in the second quarter of the 21st century. It is the marketing the next 25 years will reward.
+That is the marketing the next 25 years will reward.
 
 ---
 
@@ -274,109 +136,69 @@ That is the discipline of marketing in the second quarter of the 21st century. I
 
 ### Warm-up
 
-**1. Identify the pillar.** For each, identify which sustainability pillar (environmental / social / economic-governance):
+**1. Identify the pillar.** For each of the following corporate actions, identify which sustainability pillar is most directly expressed — environmental, social, or economic/governance — and explain in one sentence why the other two pillars aren't the primary one.
 
-- A firm reducing carbon emissions by 30% by 2030.
-- A firm publishing diverse-leadership statistics.
-- A firm donating school supplies for each product sold.
-- A firm with above-market employee wages.
+- A manufacturer committing to 100 percent renewable energy by 2030.
+- A company publishing salary equity data broken down by race and gender.
+- A CEO disclosing personal stock trades within 48 hours of execution.
+- A brewery co-founding a glass recycling coalition.
+- A firm achieving zero-landfill manufacturing status.
 
-*Tests: Objective 2.*
+*Tests: Objective 2. Difficulty: Low.*
 
-**2. Match the principle.** For each scenario, identify which of the five sustainable marketing principles applies:
+**2. Match the principle.** For each scenario, identify which of the five sustainable marketing principles it most directly expresses.
 
-- Zappos investing heavily in customer service.
-- The Shedd Aquarium's virtual penguin field trip.
-- Charity: Water funding water projects in 29 countries.
-- Athleta sourcing 70% of products from recycled materials.
+- A brand conducting annual customer research to identify unmet needs before designing new products.
+- A nonprofit using a buy-one-give-one model as the organizing principle of its entire business.
+- A clothing brand sourcing 70 percent of materials from recycled fibers.
+- A museum broadcasting virtual animal encounters to social media during a pandemic.
+- A luxury brand maintaining premium pricing to honor the genuine value its customers perceive.
 
-*Tests: Objective 6.*
+*Tests: Objective 6. Difficulty: Low.*
 
-**3. Distinguish authentic from performative purpose.** For each, identify whether it's likely authentic or performative:
+**3. Authentic or performative?** For each of the following, assess whether the brand purpose appears authentic or performative, and name the single piece of evidence from the chapter (or your own knowledge) that most supports your assessment.
 
-- Bombas's "buy one, give one" sock model since founding.
-- Walmart's Juneteenth ice cream launch.
-- Dove's multi-decade Real Beauty Campaign.
-- A firm announcing sustainability initiatives one quarter before quarterly results.
+- Bombas's "buy one, give one" socks model.
+- Walmart's Juneteenth-themed ice cream, launched weeks before the holiday.
+- Dove's multi-decade Real Beauty campaign.
+- A fast-fashion brand releasing a "conscious collection" capsule while continuing standard production unchanged.
 
-*Tests: Objective 7.*
+*Tests: Objective 7. Difficulty: Low.*
 
 ### Application
 
-**4. Audit a brand.** Pick a brand. Walk all three pillars (environmental, social, economic-governance). Identify the brand's strongest pillar and weakest. Recommend one specific change.
+**4. Audit a brand's three pillars.** Pick a brand you can research with publicly available information. Evaluate it across all three pillars: (a) what environmental commitments has it made, and what evidence exists that it's meeting them, (b) what social commitments — to employees, communities, or underrepresented groups — does it make, and what evidence supports them, (c) what governance practices are documented — board composition, executive pay transparency, ethics reporting? Identify the strongest pillar and the weakest. Recommend one specific, verifiable action that would most improve the weakest pillar.
 
-*Tests: Objectives 1, 2.*
+*Tests: Objectives 1, 2. Difficulty: Medium.*
 
-**5. Run the benefit framework.** Pick a sustainability initiative at a real firm. Identify which of the six benefits (enhanced brand recognition, reduced costs, improved effectiveness, easier regulatory compliance, waste minimization, enhanced ROI) the initiative produces.
+**5. Apply the falsifiability test.** Find a brand with a published purpose statement — it can be a large corporation or a small firm. Apply the falsifiability test from the chapter: (a) would this purpose statement equally describe a competitor? If so, it's not specific enough — rewrite it to be falsifiable, (b) what behavior by the brand would refute its own purpose statement — name one specific action, (c) has the brand done anything in the last two years that contradicts the stated purpose? If yes, is the contradiction acknowledged and addressed, or ignored? Conclude with a verdict: authentic or performative, with the evidence that would change your verdict.
 
-*Tests: Objective 5.*
+*Tests: Objective 7. Difficulty: Medium.*
 
-**6. Apply the five principles.** Pick a real organization. Apply each of the five principles (consumer-oriented, customer-value, innovative, mission-driven, societal). Identify which principles dominate.
+**6. Connect sustainability to the value ratio.** The chapter argues that sustainability belongs in $B$ for a large and growing segment of consumers. Pick a specific product category — apparel, food, personal care, financial services, automotive, anything with documented consumer sustainability preferences. Identify: (a) what percentage of buyers in this category report that sustainability factors into their purchase decision (use publicly available research or surveys), (b) how a brand's sustainability commitments — across at least two pillars — would specifically raise $B$ for that segment, (c) what the brand would have to charge (as a premium relative to competitors) to fully capture the additional $B$, and (d) whether the current market leader is capturing this premium or leaving it on the table.
 
-*Tests: Objective 6.*
+*Tests: Objectives 1, 2, 4. Difficulty: Medium.*
 
 ### Synthesis
 
-**7. Run the Blue Zones case through the chapter.** Apply Concepts 1, 2, and 3 to the Blue Zones Project. Identify which sustainability pillars it operates across, which marketing benefits it produces, and which of the five principles it embodies.
+**7. Run Blue Zones through all three concepts.** The chapter uses Blue Zones as the synthesis case. Apply every major framework from the chapter to the Blue Zones Project: (a) which of the three sustainability pillars does it operate across and how, (b) which of the six benefits of sustainable marketing does it generate — be specific about the mechanism for each benefit, (c) which of the five principles does it embody and where in its operations, (d) how would you apply the falsifiability test to the Blue Zones Project's purpose statement? What behavior would refute it?
 
-*Tests: Objectives 2, 5, 6.*
+*Tests: Objectives 2, 5, 6, 7. Difficulty: Medium-high.*
 
-**8. Compare traditional and sustainable marketing.** For a real firm, contrast what its marketing strategy looks like under traditional marketing assumptions vs. sustainable marketing assumptions. Specify what changes.
+**8. Compare traditional and sustainable marketing for the same firm.** Pick a brand that has made a visible shift toward sustainable marketing in the last five years — a firm that changed its sourcing, changed its employment practices, launched a purpose-driven campaign with operational backing, or publicly aligned with ESG standards. For the same firm, describe: (a) what its marketing strategy looked like before the shift under a traditional marketing lens, (b) what it looks like now under a sustainable marketing lens, (c) which stakeholders beyond customers are now explicitly considered, (d) whether the shift has produced measurable business outcomes — revenue, brand equity, talent acquisition, investor interest. Use publicly available evidence; label inferences.
 
-*Tests: Objectives 1, 4.*
+*Tests: Objectives 1, 4, 5. Difficulty: Medium-high.*
 
 ### Challenge
 
-**9. Design a sustainable marketing strategy.** For a hypothetical mid-sized firm, design a complete sustainable marketing strategy. Specify (a) the three-pillar position, (b) the five-principle implementation, (c) the brand purpose statement, (d) the metrics tracked, (e) the stakeholders served beyond customers.
+**9. The full synthesis exercise.** This is the book's closing exercise. Pick a real marketing decision a firm has made or is making — a product launch, a pricing change, a channel expansion, a campaign. Evaluate it using frameworks from at least six prior chapters (the value ratio, the four Ps, segmentation and positioning, consumer behavior, the environment scan, IMC, or any others relevant) and then add the sustainable marketing lens from this chapter.
 
-*Tests: Objectives 1, 2, 6, 7.*
+Specifically: how does the decision look when you add the question *at whose expense, and for how long?* Does the decision look different? Does adding the sustainability lens surface a risk or an opportunity the traditional analysis missed? What would the firm have to change in its decision if it were operating under the three-pillar standard rather than the shareholder-only standard?
 
-**10. The synthesis exercise.** Take a real marketing decision a firm has made (a product launch, pricing change, channel expansion, campaign). Evaluate it using the frameworks from every preceding chapter (the value ratio, the 4Ps, segmentation, targeting, positioning, environment scan, strategic planning) plus the sustainable-marketing frameworks from this chapter. Identify what changes when sustainability is added to the analysis.
+Write 500–600 words. No fabrication — use documented evidence and label inferences explicitly.
 
-*Tests: Objective 8.*
+*Tests: Objective 8. Difficulty: High.*
 
----
-
-## Chapter Summary
-
-**What you can do now that you could not do before this chapter:**
-
-You can take any marketing decision and evaluate it on two simultaneous criteria: customer value (the rest of this book) and societal sustainability (this chapter). You can recognize authentic brand purpose vs. performative campaigns. You can apply the three pillars and five principles to real organizations. You can integrate sustainability across all four Ps without losing coherence.
-
-**The one idea that matters most from this chapter — and the book:**
-
-Marketing that produces customer value while sustaining the systems customer value depends on produces both customer value and societal value. The frameworks aren't in tension; they reinforce each other when done well.
-
-**The common mistake to watch for:**
-
-Treating sustainability as a campaign rather than a discipline. The firms that get this right build sustainability into their DNA — the products they design, the prices they charge, the channels they choose, the messages they communicate, the stakeholders they serve. The firms that get it wrong launch Pride Month rainbow logos in June and Juneteenth ice cream in June without changing how they operate the rest of the year.
-
-**The Feynman test:**
-
-Close the book. Pick any firm. In two minutes, can you describe (a) which segments it targets, (b) what value proposition it makes, (c) how its 4Ps coordinate, (d) which sustainability pillars it operates across, and (e) whether its brand purpose is authentic or performative? If yes, you have internalized this book.
-
----
-
-## Connections — to the rest of your career
-
-This is the final chapter. There is no "next chapter" to point you toward.
-
-But there is the rest of your work in marketing — whether you go on to a career in marketing specifically or whether you carry the frameworks of this book into engineering, finance, operations, or any other field where decisions touch a customer.
-
-The frameworks of this book — the value ratio, the 4Ps, the segmentation methods, the strategic planning chain, the consumer behavior models, the digital tools, the distribution choices, and the sustainability synthesis of this final chapter — are not the answers. They are the tools that let you ask the right questions when the answers don't yet exist.
-
-Marketing as a discipline is changing fast. The platforms shift. The technologies evolve. The customer expectations rise. The frameworks here have lasted because they describe underlying mechanisms — how customers perceive value, how firms create it, how segments respond to different signals, how distribution shapes access, how promotion shapes perception. The mechanisms outlive any specific platform or technology.
-
-Use the tools deliberately. Notice when they fail. Update them when the mechanism beneath them shifts.
-
-And take seriously the sustainability question this final chapter asks. The firms that get marketing right over the next 25 years will be the ones that learn to ask not just *how do we move the value ratio in our favor* but also *for how long, serving whom, at whose expense*. The two questions answered together produce better marketing than either question answered alone.
-
-That is the closing argument of this book.
-
----
-
-*Voice anchor: Feynman × MKBHD hybrid. See `style/VOICE.md`.*
-*Source: OpenStax modules m00136, m00124, m00132–m00135. The Blue Zones case (originally deferred from Chapter 3 — Dan Buettner's research, the five original Blue Zones, the Albert Lea Minnesota implementation, Lois Ahern's quote) is integrated here as the Concept 3 motivating puzzle, completing the longest deferral chain in the book. All statistics, brand examples, and historical claims drawn from source.*
 ---
 
 ## LLM Exercise — Chapter 22: Sustainable Marketing — The New Paradigm
@@ -500,12 +322,11 @@ limits proactively.
 
 **Preview of next chapter:** There is no next chapter — this is the close. What's next is the deployed assistant, the user manual, and a real test in production. Use the assistant for an actual marketing question that matters to you. Notice where it earns its keep and where you need to override it. Refine the system prompt accordingly.
 
-
 ---
 
 ## AI Wayback Machine
 
-**Donella Meadows** was lead author of The Limits to Growth (1972) — the founding work of sustainability thinking in business.
+**Donella Meadows** was lead author of *The Limits to Growth* (1972) — the founding work of sustainability thinking in business.
 
 **Run this:**
 
