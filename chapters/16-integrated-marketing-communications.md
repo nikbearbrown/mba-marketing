@@ -2,193 +2,176 @@
 
 *A campaign that says one thing through one channel reaches some customers. A campaign that says the same thing through six channels reaches all of them. The discipline that coordinates the six is integrated marketing communications.*
 
-## Learning Objectives
+Here is a marketing story with an unusual shape.
 
-By the end of this chapter, you will be able to:
+In 2019, Peloton released a holiday commercial featuring a young mother — "Grace from Boston" — documenting her year-long Peloton journey as a Christmas gift from her husband. Within hours of the ad's release, social media erupted. Critics accused the brand of body-shaming, economic privilege, and outdated marital norms. The story ran everywhere. Peloton became part of the cultural conversation, involuntarily.
 
-1. Define the promotion mix and identify its six standard elements (advertising, public relations, sales promotion, personal selling, direct marketing, digital/social).
-2. Walk the communication process — sender, encoding, message, media, receiver, decoding, feedback — and identify which elements are in the marketer's control vs. outside it.
-3. Define integrated marketing communications (IMC) and explain why coordination across channels improves outcomes.
-4. Walk the IMC planning process from target audience identification through measurement.
-5. Apply the 5A customer-journey framework (Aware → Appeal → Ask → Act → Advocate) to design a campaign.
-6. Evaluate a marketing communication for compliance with the major US regulatory frameworks (FTC, FCC, FDA, CAN-SPAM Act) and ethical standards.
+Then the COVID-19 pandemic hit. In-home exercise demand surged. Peloton was already famous. Sales rose 172 percent in 2020–2021.
 
-## Prerequisites
+The marketing lesson isn't that controversy is good strategy. The lesson is that *awareness at scale, however acquired, converts when the market environment shifts*. The ad produced awareness through a combination of paid advertising (the TV buy) and earned media (the avalanche of press coverage). Neither alone would have produced the same effect. Together they saturated the culture.
 
-You should be familiar with the **Product** and **Price** Ps from Chapters 12–15. This chapter opens the **Promotion** P, which Chapters 17–19 then unpack in detail (advertising and PR; personal selling and sales promotion; digital and social).
-
-## Why This Chapter Matters
-
-Most consumers see thousands of marketing messages per day. The average digitally-connected person, according to Yankelovich, is exposed to **roughly 5,000 ads per day**. Most are screened out. The few that get through have to compete for attention, get encoded correctly by the sender, decoded correctly by the receiver, survive noise, and produce action — all while coordinating with every other message the same firm sends.
-
-This chapter teaches the coordination discipline. By the end, you'll be able to read any marketing campaign and assess (a) which promotion mix elements are involved, (b) where in the communication process it might break, (c) whether the campaign is integrated or fragmented, and (d) which regulatory frameworks apply.
+That combination — multiple channels, coordinating around a single brand — is what this chapter is about.
 
 ---
 
-## Concept 1 — The Promotion Mix
+## Six Tools, One Job
 
-### The motivating puzzle
+The promotion mix is the set of communication tools firms use to reach customers. Six elements, each with a different cost structure, reach, and depth:
 
-In **2019**, **Peloton** released a holiday television commercial featuring "Grace from Boston" — a young mother documenting her year-long Peloton journey as a Christmas gift from her husband. Within hours of the ad's release, social media erupted. Critics accused Peloton of body-shaming, economic privilege, and outdated marital relationship norms.
+**Advertising** is paid, non-personal communication through mass media. TV, radio, magazines, billboards, online display, search ads. Broad reach, limited per-person depth, high cost for premium placements.
 
-The controversy looked like a marketing disaster. It produced something else: **massive brand awareness**. Peloton was widely publicized in the media. The brand became part of the cultural conversation. When the **COVID-19 pandemic** triggered demand for in-home exercise in 2020, Peloton was already culturally famous. **Sales rose 172% in 2020-2021.**
+**Public relations** is earned media — press coverage, interviews, editorial mentions, third-party endorsements. Not paid for directly but cultivated through PR work: press releases, journalist relationships, brand events, spokesperson strategy. The Peloton controversy was a PR event. Unintended, but real.
 
-(The story has a complicated coda: management issues followed, **a 73% stock drop in February 2022**, and the **ousting of founder/CEO John Foley**. But the marketing lesson stands — controversial communication can produce awareness, and the awareness can convert when the market environment shifts.)
+**Sales promotion** uses short-term incentives to accelerate purchase — coupons, contests, samples, rebates, point-of-purchase displays. It moves goods fast; it doesn't build brands. A brand that lives on sales promotion trains customers to wait for the next discount rather than pay full price.
 
-The puzzle: how do firms coordinate the many channels that produce — or destroy — brand awareness?
+**Personal selling** is one-on-one customer interaction. Sales representatives, account executives, retail floor staff. Highest depth of any channel; lowest reach per dollar. Essential for high-consideration purchases where the customer needs to ask questions and the firm needs to understand the specific situation.
 
-### The mechanism — six promotion mix elements
+**Direct marketing** communicates individually with customers — email, direct mail, telemarketing. Can be both broad (mass email to a list) and targeted (personalized product recommendations based on purchase history).
 
-The **promotion mix** is the set of communication tools firms use to reach customers:
+**Digital and social media marketing** covers websites, social platforms, search, mobile, video — the channels that now dominate how consumers encounter brands. Often blended with all five of the above.
 
-**Advertising.** Paid, non-personal communication through mass media. TV commercials, magazine ads, billboards, online display, search ads.
-
-**Public Relations (PR).** Earned media — press coverage, interviews, third-party endorsements. Generally not paid for directly but cultivated through PR work.
-
-**Sales Promotion.** Short-term incentives to buy — coupons, contests, samples, rebates, point-of-purchase displays.
-
-**Personal Selling.** One-on-one customer interaction. Sales reps, account executives, retail floor staff.
-
-**Direct Marketing.** Direct communication with individual customers — email, direct mail, telemarketing.
-
-**Digital/Social Media Marketing.** Communication through digital channels — websites, social media, search, mobile, video platforms.
-
-Each element has its own cost structure, reach, and effectiveness. Most firms combine several.
-
-### The trade-off — broad reach vs. targeted depth
-
-Each promotion mix element trades off reach against depth.
-
-**Advertising and PR** reach many people but with limited per-person depth. **Personal selling** has high depth but limited reach. **Direct marketing and digital** sit in the middle, with the ability to be both broad (mass email) and targeted (personalized recommendations).
-
-The right combination depends on the product, segment, and budget. High-consideration products (cars, software, homes) need depth; low-consideration products (snacks, paper towels) need reach. Most successful campaigns use multiple elements to combine reach and depth.
-
-### Common misconceptions
-
-**"Advertising is marketing."** Advertising is one of six promotion mix elements. The others often do more work, especially for B2B and high-consideration products.
-
-**"PR is free."** Earned media isn't paid for directly, but cultivating it requires significant investment in PR teams, press relationships, and content production.
+Each element makes different trade-offs. Advertising buys reach but not depth. Personal selling buys depth but not reach. Direct and digital can vary across both dimensions. The right combination depends on the product (high or low consideration), the segment (B2C or B2B, what channels they use), and the budget.
 
 ---
 
-## Concept 2 — The Communication Process
+## Seven Elements, Four Under Your Control
 
-### The motivating puzzle
+Here is the frustrating truth about marketing communication: most of the process is outside the firm's control.
 
-A firm sends a message. The customer receives a different message. Sometimes the difference is small; sometimes the gap is enormous. Why?
+A firm sends a message. The customer receives a different message. Sometimes the gap is small. Sometimes — as Peloton discovered — it's enormous. The reason lies in how communication actually works.
 
-The communication process is more complex than "firm speaks → customer hears." Seven elements sit between intent and reception, and all but four are outside the firm's direct control.
+The communication process has seven elements:
 
-### The mechanism — the seven-element communication process
+1. **Sender.** The source — the firm, the marketer, the spokesperson. PepsiCo signed Beyoncé as a brand ambassador to make her the credible sender of Pepsi's messaging. The sender's credibility shapes how the message is received.
 
-1. **Sender.** The source — firm, marketer, hired talent. **PepsiCo signed a multi-year contract with Beyoncé** to make her a brand ambassador (sender of PepsiCo's messaging).
-2. **Encoding.** Translating intent into communicable form — words, symbols, ad copy, jingle, brand symbol. The marketer's creative process.
-3. **Message.** The encoded content itself — the ad, press release, email, social post.
-4. **Media (channel).** How the message travels — TV, radio, magazine, social platform, email, in-person.
-5. **Receiver.** The intended audience — customer, prospect, segment.
-6. **Decoding.** The receiver's interpretation. Often differs from the encoder's intent.
-7. **Feedback.** The receiver's response — purchase, social engagement, ignore, complaint.
+2. **Encoding.** Translating intent into communicable form — words, images, symbols, a jingle, a brand visual. This is where the creative process lives. What the firm actually produces.
 
-**Plus noise.** Anything interfering with the message — competitor messages, distraction, ambiguity, technical glitches. Noise is constant and uncontrollable.
+3. **Message.** The encoded content: the ad, the press release, the email, the social post.
 
-The marketer controls the first four elements (sender, encoding, message, media). The other three (receiver, decoding, feedback) and noise are outside the firm's direct control.
+4. **Media (channel).** How the message travels. Television. Radio. Instagram. A sales call. An email. The media choice shapes who sees the message and what context they see it in.
+
+5. **Receiver.** The intended audience.
+
+6. **Decoding.** The receiver's interpretation of the message. Often different from the encoder's intent.
+
+7. **Feedback.** The receiver's response — a purchase, a social share, a complaint, an ignore.
+
+Plus **noise** — anything interfering with the message along the way. Competitor messages, distraction, ambiguity, technical delivery failures. Noise is constant and uncontrollable.
 
 <!-- → DIAGRAM: Communication process flow with seven elements + noise. Sender → Encoding → Message → Media → Receiver → Decoding → Feedback. Noise depicted as interference throughout. The student should see which elements the firm controls and which it doesn't. -->
 
-### The trade-off — message tightness vs. audience flexibility
+The firm controls the first four: sender, encoding, message, media. Everything after the message leaves the firm's hands — receiver, decoding, feedback — is outside direct control. All a firm can do is encode carefully enough that the target audience decodes approximately what was intended, and choose media that reach the right people with minimal noise.
 
-A tightly-encoded message minimizes decoding errors but feels rigid and may not resonate with diverse audiences. A loosely-encoded message allows multiple interpretations — some intended, some not.
+The Peloton ad illustrates the gap between encoding and decoding. The brand encoded a personal transformation story. The primary audience — fitness enthusiasts who aspired to what Grace achieved — decoded it that way. A secondary audience decoded the same encoded message as surveillance of a woman's body by a husband who found her unacceptable. Both decodings were supported by the same encoding. The encoding was loose enough — ambiguous enough — to sustain both.
 
-The trade-off appears every time a firm makes a creative decision. The Peloton "Grace from Boston" ad encoded a journey of personal transformation. Some audiences decoded it as such. Other audiences decoded it as body-shaming. Both decodings were valid given the encoded message — the encoding was loose enough to support multiple decodings.
-
-The discipline: encode with the primary audience in mind, but anticipate how secondary audiences will decode the same message. A campaign that produces uniformly positive decoding is rare; a campaign that produces unmanageable negative decoding is a failure.
-
-### Common misconceptions
-
-**"Good communication eliminates noise."** Noise is constant. Good communication accounts for noise — repetition, multiple channels, clear messages — rather than eliminating it.
-
-**"The message is what the firm says."** The message is what the customer decodes. A firm intending one message and producing another has miscommunicated, regardless of intent.
+The discipline is to encode with the primary audience in mind while anticipating how secondary audiences will interpret the same message. Not every negative decoding is a failure. But a decoding that dominates the public conversation at the expense of the primary message is a strategic loss, regardless of the awareness it generates.
 
 ---
 
-## Concept 3 — IMC and the Planning Process
+## Why Coordination Matters
 
-### The motivating puzzle
+Taco Bell wants consumers to know the Grilled Steak Burrito is available for a limited time. So the firm uses television, radio, email, Instagram with photo and reminder copy, billboards on commute routes, push notifications via apps like RetailMeNot when a customer passes a Taco Bell location, in-store signage, and point-of-purchase displays.
 
-**Taco Bell** wants to tell consumers that the **Grilled Steak Burrito** is available for a limited time. The firm uses many channels: television, radio, email, Instagram (with photo + reminder), billboards on commute routes, push notifications via apps like RetailMeNot when customers pass a Taco Bell location, in-store signage, point-of-purchase displays.
+Why so many channels? Because no single channel reaches all customers. Some customers see the TV ad; others see the billboard; others get the push notification at the right moment. Across all channels, more customers receive the message at least once than any single channel could reach. The channels fill each other's gaps.
 
-Why so many channels? Because consumers don't see every channel. Some customers see the TV ad; others see the billboard; others get the push notification. Across all channels, more customers receive the message at least once than any single channel could reach.
+That's the simple version of **integrated marketing communications (IMC)**: coordinating multiple promotion elements to deliver a consistent message across all touchpoints.
 
-That's IMC.
+The harder version is what happens when coordination fails. A firm runs a premium brand-image campaign on television while simultaneously running a price-focused promotional campaign in email. The TV customer builds one brand impression; the email customer builds a contradictory one. The customer who encounters both is confused about what the brand stands for. Confusion doesn't convert. The 4P coupling rule from Chapter 2 applies here: pulling one promotion lever without coordinating the others produces mixed signals, and mixed signals are worse than silence.
 
-### The mechanism — what IMC is
+IMC's benefits follow directly from coordination:
 
-**Integrated marketing communications (IMC)** is the discipline of coordinating multiple promotion mix elements to deliver a consistent message across all touchpoints. The same campaign reaches customers through advertising, PR, sales promotion, personal selling, direct marketing, and digital/social — and the message is consistent across all of them.
+Better results — consistent messaging across channels reinforces awareness and conversion more effectively than any single channel.
 
-IMC's benefits:
+Increased efficiency — a single campaign creative amortized across multiple channels costs less per impression than building separate campaigns per channel.
 
-- **Better results.** Consistent messaging across channels reinforces awareness and conversion.
-- **Increased efficiency.** Coordinated messages amortize creative costs across channels.
-- **Stronger brand.** Customers form a unified brand impression rather than a fragmented one.
-- **Reduced waste.** Channels are coordinated to fill gaps rather than overlap inefficiently.
+Stronger brand — customers who encounter the brand across multiple channels form a unified impression rather than a fragmented one.
 
-The opposite of IMC — fragmented messaging across channels — confuses customers about what the brand stands for. The 4P coupling rule from Chapter 2 applies to promotion: pulling one promotion lever without coordinating the others produces mixed signals.
+Reduced waste — coordinated channels fill gaps; uncoordinated channels overlap.
 
-### The mechanism — the IMC planning process
+---
 
-Six steps:
+## The Planning Process
 
-**Step 1 — Identify the target audience.** Same audience-research discipline from Chapter 8.
+IMC doesn't happen by accident. Six steps, in sequence:
 
-**Step 2 — Determine marketing communications objectives.** SMART objectives (from Chapter 3) — what specifically should the campaign achieve? Awareness lift? Trial? Conversion? Loyalty?
+**Step 1 — Identify the target audience.** The same audience-research discipline from Chapter 8. Who specifically is this campaign for? Segmented precisely enough that message and channel choices can be calibrated.
 
-**Step 3 — Design the message.** What specifically should be communicated? Encode for the primary audience.
+**Step 2 — Determine communications objectives.** What should the campaign achieve? SMART objectives from Chapter 3 — awareness lift, trial, conversion, loyalty. A campaign without a specific objective can't be measured. A campaign that can't be measured can't be improved.
 
-**Step 4 — Select the channels.** Which promotion mix elements? Which media within each element? The reach-and-depth trade-off resolved for this specific campaign.
+**Step 3 — Design the message.** What specifically should be communicated? This is the encoding step: translating strategy into creative. The message should be consistent enough to run across all channels without contradiction.
 
-**Step 5 — Determine the budget.** What can be spent? Allocate across channels.
+**Step 4 — Select the channels.** Which promotion mix elements? Which media within each element? The reach-depth trade-off resolved for this specific campaign and this specific audience.
 
-**Step 6 — Measure results.** Did the campaign hit objectives? What worked? What didn't?
+**Step 5 — Determine the budget.** What can be spent? Four budget methods:
+
+- *Percentage of sales*: set the budget as a percentage of revenue. Widely used; intellectually weak — it makes marketing a consequence of sales rather than a driver.
+- *Objective and task*: specify what the campaign needs to achieve, then cost out the activities required. Justified; expensive to do well.
+- *Competitive parity*: match competitor spending. Convenient; assumes your competitors' budgets are correct, which is rarely verified.
+- *Affordable*: spend what the firm can afford after other costs. Honest about its constraint; often results in chronic underinvestment.
+
+**Step 6 — Measure results.** Did the campaign hit objectives? Leading indicators (what you measure during the campaign — click-through rates, awareness survey scores) and lagging indicators (what you measure after — sales lift, repeat purchase, customer acquisition cost).
 
 <!-- → DIAGRAM: Six-step IMC planning process as a horizontal flow. Step 6 (measure) feeds back to Step 1 of the next campaign cycle. -->
 
-### The mechanism — the 5A customer journey framework
+---
 
-**The 5A framework** maps the customer's journey through a campaign:
+## The 5A Customer Journey
 
-1. **Aware** — customer learns the product exists.
-2. **Appeal** — customer perceives the product's relevance to them.
-3. **Ask** — customer seeks more information.
-4. **Act** — customer purchases.
-5. **Advocate** — customer recommends to others.
+A second framework for thinking about what a campaign is trying to do: the 5A model maps the customer's journey through any marketing campaign.
 
-Each stage requires different communication. Awareness uses broad-reach channels (advertising, PR). Appeal uses content that demonstrates relevance. Ask uses information-rich channels (websites, sales reps). Act uses persuasive close communication. Advocate uses post-purchase engagement and community.
+**Aware** — the customer learns the product exists. Broad-reach channels do this work: advertising, PR, social media. The Taco Bell billboard and TV spot operate here.
 
-**Angel Johnson's ICONI activewear** illustrates the framework. As a Black woman-owned business competing against larger activewear brands, ICONI used Amazon ads to drive **awareness** — Amazon was where her target customers shopped. The campaigns moved customers into **appeal** by surfacing the brand's distinct positioning, then into **ask** through Amazon's product detail pages, **act** through Amazon's purchase flow, and **advocate** through Amazon reviews and social sharing.
+**Appeal** — the customer perceives the product's relevance to them. The message moves from generic awareness to personal connection. Content that shows how the product fits their life, their problem, their identity.
 
-### Common misconceptions
+**Ask** — the customer seeks more information. They visit the website, read reviews, ask a salesperson, search the product. Information-rich channels (websites, personal selling) serve this stage.
 
-**"IMC is about using more channels."** It's about coordinating channels around a consistent message. A firm using two well-coordinated channels often outperforms a firm using six fragmented ones.
+**Act** — the customer purchases. Persuasive close communication — promotions, clear calls to action, a smooth purchase process. Sales promotion lives here.
 
-**"The 5A framework is sequential."** Customers can enter at any stage and skip stages. A customer who hears about a product from a friend may go directly from Aware to Act, skipping Appeal and Ask.
+**Advocate** — the customer recommends to others. Post-purchase engagement, community building, referral programs. The customer who becomes an advocate multiplies the firm's effective reach at no additional acquisition cost.
+
+Angel Johnson's ICONI activewear — a Black woman-owned brand competing against established players with much larger budgets — used Amazon ads to drive **aware** among customers who were already shopping for activewear. Amazon product pages and reviews handled **appeal** and **ask**. Amazon's purchase flow handled **act**. Customer reviews and social sharing handled **advocate**. Every stage was covered; no stage was left to chance.
+
+The 5A model is not strictly sequential. Customers can enter at any stage. A customer who hears about a brand from a trusted friend may jump from aware directly to act, skipping appeal and ask entirely. A customer who starts in appeal (they encounter a brand ad and find it interesting) may circle back to ask before acting. The framework's value is diagnostic — it identifies which stages a campaign is currently serving and which it's leaving uncovered.
 
 ---
 
-## Integration — Regulation and Ethics
+## The Regulatory and Ethics Floor
 
-Marketing communications operate inside a regulatory framework. Four key US federal agencies and laws:
+Marketing communications operate inside a regulatory framework. Four primary US federal agencies and laws set the floor:
 
-**Federal Trade Commission (FTC).** Oversees commercial speech, unfair methods of competition, deceptive advertising. The same agency from Chapter 6 (price fixing) and Chapter 15 (deceptive pricing) regulates communication content.
+**The Federal Trade Commission** oversees commercial speech — unfair methods of competition, deceptive advertising, endorsement disclosure. If an influencer is paid to promote a product, the FTC requires that payment to be disclosed. If a comparative claim isn't substantiated, the FTC can act.
 
-**Federal Communications Commission (FCC).** Regulates broadcast — radio, television, telephone.
+**The Federal Communications Commission** regulates broadcast — radio, television, telephone. Decency standards, political advertising rules, telephone solicitation restrictions.
 
-**Food and Drug Administration (FDA).** Authority over labeling, packaging, branding, ingredients lists, advertising of packaged foods, pharmaceutical products, cosmetics.
+**The Food and Drug Administration** has authority over labeling, packaging, ingredients, and advertising of packaged foods, pharmaceuticals, and cosmetics. Health claims in marketing are subject to FDA standards that go beyond FTC rules.
 
-**CAN-SPAM Act.** Regulates commercial email — unsubscribe requirements, accurate sender information, prohibition of deceptive subject lines.
+**The CAN-SPAM Act** regulates commercial email: accurate sender information, clear identification as advertising, functional unsubscribe mechanism, prohibition of deceptive subject lines.
 
-The **American Marketing Association (AMA) Code of Ethics** establishes professional standards beyond legal minimums. Self-regulation is the marketer's first line; trade-association regulation second; federal regulation third.
+Above the regulatory floor sits the **American Marketing Association Code of Ethics** — professional standards that go further than the law requires. Self-regulation is the marketer's first line; trade-association regulation second; federal enforcement third.
 
-The integration with $V = B/P$ from Chapter 2 is direct. **Subaru's "Share the Love" event**, marking 14 years of social-responsibility marketing, supports the **ASPCA, Make-A-Wish Foundation, Meals on Wheels America, the National Park Foundation, and Feeding America**. The campaign positions Subaru as a values-aligned brand — moving $B$ in the value ratio for customers who care about social responsibility. Customers who care reward the brand with loyalty; customers who don't care cost nothing for the campaign to reach because it's amortized across other promotions.
+The connection to $V = B/P$ is direct. Subaru's "Share the Love" event — in its 14th year, supporting the ASPCA, Make-A-Wish Foundation, Meals on Wheels America, the National Park Foundation, and Feeding America — positions Subaru as a values-aligned brand. For customers who care about social responsibility, the campaign adds to $B$ in the value ratio. Ethical communication isn't separate from marketing strategy. It is the foundation that makes the brand promise credible over time. A firm that communicates deceptively erodes trust — and trust, once lost, reduces $B$ in ways that outlast any individual campaign.
+
+---
+
+## What the Chapter Leaves You With
+
+Here is the discipline in one move.
+
+Take any marketing campaign — real or hypothetical. Ask six questions.
+
+What are the promotion mix elements? Which of the six channels is the firm using, and what trade-offs does each make between reach and depth?
+
+Where in the communication process could the message break? What noise is likely? What secondary decoding is possible that the firm might not intend?
+
+Is this IMC or fragmented? Are the channels coordinating around a consistent message, or are they pulling in different directions?
+
+What objective is this campaign serving? Which of the six IMC planning steps has the firm done well, and which is underdeveloped?
+
+Where in the 5A journey does this campaign operate? Which stages are served, and which stages are left uncovered?
+
+Does this campaign comply with FTC, FCC, FDA, and CAN-SPAM requirements? And beyond compliance, does it meet the ethical standard the brand's $B$ depends on?
+
+If you can answer those six questions about any campaign in the time it takes to watch the ad, you have internalized this chapter.
 
 ---
 
@@ -196,90 +179,61 @@ The integration with $V = B/P$ from Chapter 2 is direct. **Subaru's "Share the L
 
 ### Warm-up
 
-**1. Identify the promotion mix element.** For each, identify which of the six elements:
+**1. Identify the promotion mix element.** For each of the following, name which of the six promotion mix elements is being used, and in one sentence explain the primary trade-off that element makes between reach and depth.
 
 - A 30-second Super Bowl commercial.
-- A press release picked up by major news outlets.
-- A buy-one-get-one coupon.
-- A sales rep visiting a customer's office.
-- An email newsletter to subscribers.
-- A sponsored Instagram post.
+- A press release picked up by the Associated Press.
+- A buy-one-get-one coupon distributed via in-store display.
+- A sales representative visiting a procurement officer's office.
+- An email newsletter to 50,000 subscribers.
+- A sponsored Instagram post from a brand-paid influencer.
 
-*Tests: Objective 1.*
+*Tests: Objective 1. Difficulty: Low.*
 
-**2. Map the communication process.** For a TV commercial you remember, identify the seven elements (sender, encoding, message, media, receiver, decoding, feedback) plus the most likely sources of noise.
+**2. Map the communication process.** Think of a TV commercial, social media ad, or print ad you have encountered recently. Walk the seven-element communication process for that ad: sender, encoding, message, media, receiver, decoding, feedback. Identify at least two specific sources of noise that might have interfered with the message as intended, and explain what each would have done to the decoding.
 
-*Tests: Objective 2.*
+*Tests: Objective 2. Difficulty: Low.*
 
-**3. Match to the 5A stage.** For each campaign tactic, identify which 5A stage it primarily targets:
+**3. Assign to the 5A stage.** For each of the following campaign tactics, identify which 5A stage it primarily serves — Aware, Appeal, Ask, Act, or Advocate — and explain why in one sentence.
 
-- A first-touch awareness ad on YouTube.
-- A product-comparison page on the firm's website.
-- A "20% off your first purchase" promo code.
-- A post-purchase email asking for a review.
+- A first-touch YouTube pre-roll ad for a brand the viewer has never heard of.
+- A product comparison page on the firm's website, accessible only after clicking from an ad.
+- A "20% off your first purchase" email sent one hour after a customer adds an item to their cart without purchasing.
+- A post-purchase email asking customers to leave a review.
+- A referral program that gives existing customers $15 credit for each friend who signs up.
 
-*Tests: Objective 5.*
+*Tests: Objective 5. Difficulty: Low.*
 
 ### Application
 
-**4. Audit an IMC campaign.** Pick a campaign you can investigate across multiple channels. Identify the promotion mix elements used, the consistency of the message across channels, and the 5A stages addressed.
+**4. Diagnose a communication failure.** The chapter uses the Peloton "Grace from Boston" ad as its encoding-decoding example. Find a second real campaign that produced significant unintended decoding — a different brand, a different failure mode. Identify: (a) what the sender intended to encode, (b) what the primary audience decoded, (c) what a secondary audience decoded instead, (d) which element of the communication process broke down, and (e) what specific change to the encoding would have reduced the unintended decoding without abandoning the primary message.
 
-*Tests: Objectives 3, 5.*
+*Tests: Objective 2. Difficulty: Medium.*
 
-**5. Walk the IMC planning process.** Design an IMC campaign for a hypothetical product launch. Specify all six steps with concrete content.
+**5. Audit a campaign for IMC.** Find a campaign from a major brand that you can investigate across at least three channels — look for TV ads, social media, email, in-store, PR coverage, or any combination. Assess: (a) what promotion mix elements the brand is using, (b) whether the core message is consistent across channels or fragmented, (c) which 5A stages the campaign covers and which it leaves unaddressed, (d) which of the six IMC planning steps appears strongest and which appears weakest.
 
-*Tests: Objective 4.*
+*Tests: Objectives 1, 3, 4, 5. Difficulty: Medium.*
 
-**6. Diagnose communication failure.** Pick a campaign that produced unintended decoding (Peloton "Grace from Boston" or another). Identify which element of the communication process failed and how.
+**6. Choose and justify a budget method.** A regional coffee chain with $8 million in annual revenue wants to launch a campaign to grow awareness in two new cities. They have no prior campaign data. Walk through all four budget methods — percentage of sales, objective and task, competitive parity, and affordable — and for each one, (a) apply it to this specific situation with a number or range, (b) name the specific weakness of that method for this situation. Then make a recommendation: which method is most defensible for this brand at this moment, and why?
 
-*Tests: Objective 2.*
+*Tests: Objective 4. Difficulty: Medium.*
 
 ### Synthesis
 
-**7. Connect IMC to value.** For a brand you know well, walk how the brand's IMC strategy moves $B$ and $P$ in the value ratio. Identify the promotion mix elements doing the most work for $B$.
+**7. Design a 5A-mapped campaign.** Pick a real or hypothetical product launch for a brand entering a category where it has no existing awareness. Design a campaign that explicitly addresses all five stages of the 5A framework. For each stage, specify: (a) which promotion mix element(s) you'll use, (b) the specific message or creative direction, (c) how you'll know if the stage is working (one leading indicator per stage). Show that your channel choices are coordinated around a single consistent message — write that message as one sentence.
 
-*Tests: Objectives 1, 3.*
+*Tests: Objectives 1, 3, 4, 5. Difficulty: Medium-high.*
 
-**8. Build a 5A campaign.** For a real or hypothetical product, design specific tactics for each of the 5 stages. Specify which promotion mix elements you'll use at each stage.
+**8. Apply the six-question test to a full campaign.** The chapter closes with six questions to apply to any campaign: promotion mix elements and trade-offs, communication process failure points, IMC vs. fragmented, campaign objective and planning completeness, 5A stage coverage, and regulatory/ethics compliance. Pick a real campaign — one you admire, one you think failed, or one that's been publicly debated. Apply all six questions. Write 400–500 words. For any question where the public information is insufficient to answer confidently, say so explicitly rather than inferring.
 
-*Tests: Objective 5.*
+*Tests: Objectives 1–6. Difficulty: Medium-high.*
 
 ### Challenge
 
-**9. Regulatory audit.** Pick a campaign you suspect may have regulatory issues. Audit using FTC / FCC / FDA / CAN-SPAM frameworks. Identify any real risks.
+**9. The regulatory audit.** The chapter covers four regulatory frameworks: FTC (deceptive advertising, endorsement disclosure), FCC (broadcast), FDA (food and drug marketing claims), and CAN-SPAM (commercial email). Find a real campaign — or a specific ad — that you believe may have regulatory exposure under one or more of these frameworks. Identify: (a) which framework applies and why, (b) the specific claim or practice that creates exposure, (c) what the agency's standard is for a violation, (d) whether the brand is likely aware of the risk, and (e) what specific change to the campaign would eliminate the exposure without abandoning the marketing goal. Use verifiable public information; label inferences explicitly.
 
-*Tests: Objective 6.*
+*Tests: Objective 6. Difficulty: High.*
 
-**10. Design an integrated campaign for sustainable marketing.** Following the Subaru Share the Love model, design a comprehensive IMC campaign for a brand whose social-responsibility positioning matters. Specify all promotion mix elements, 5A stages, and ethical considerations.
-
-*Tests: Objectives 1, 5, 6.*
-
----
-
-## Chapter Summary
-
-**What you can do:** read any marketing campaign and assess its promotion mix, communication process, IMC integration, 5A stages, and regulatory compliance.
-
-**The one idea:** coordination beats volume. Six channels saying the same thing produces better results than any single channel saying many things.
-
-**The common mistake:** treating channels as independent. The 4P coupling rule from Chapter 2 applies to promotion — channels must coordinate around a consistent message.
-
-**The Feynman test:** pick a recent marketing campaign. In two minutes, can you describe its promotion mix, where it sits in the communication process, its IMC integration level, and the 5A stages it addresses? If yes, you have internalized the chapter.
-
----
-
-## Connections Forward
-
-**Chapter 17 — The Promotion Mix: Advertising and Public Relations** unpacks two of the six promotion elements in depth.
-
-**Chapter 18 — Personal Selling and Sales Promotion** unpacks two more.
-
-**Chapter 19 — Direct, Online, Social Media, and Mobile Marketing** unpacks digital marketing.
-
----
-
-*Voice anchor: Feynman × MKBHD hybrid. See `style/VOICE.md`.*
-*Source: OpenStax modules m00082–m00087. All statistics, brand examples, and historical claims drawn from source.*
 ---
 
 ## LLM Exercise — Chapter 16: Integrated Marketing Communications
@@ -361,12 +315,11 @@ If the message can't be one sentence, the IMC will fragment.
 
 **Preview of next chapter:** Chapter 17 deepens advertising and PR specifically. The assistant will be able to write an advertising brief that won't get diluted in production, choose push vs. pull, and design a 24-hour crisis-communications playbook.
 
-
 ---
 
 ## AI Wayback Machine
 
-**Don Schultz** was pioneered Integrated Marketing Communications (IMC) at Northwestern in the early 1990s.
+**Don Schultz** pioneered Integrated Marketing Communications (IMC) at Northwestern in the early 1990s.
 
 **Run this:**
 
