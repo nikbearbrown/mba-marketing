@@ -2,298 +2,250 @@
 
 *Two of the six promotion mix elements unpacked in detail. One is paid; one is earned. Both shape brand perception, but they work through different mechanisms and obey different rules.*
 
-## Learning Objectives
+---
 
-By the end of this chapter, you will be able to:
+In 2017, PepsiCo released a television commercial featuring Kendall Jenner at a protest, handing a can of Pepsi to a police officer. The visual language was unmistakably drawn from Black Lives Matter imagery — the signs, the march, the confrontation resolved by a soft drink.
 
-1. Define advertising and identify the major media channels for advertising delivery.
-2. Distinguish four types of advertising objectives — informative, persuasive, comparative, reminder — and pick the appropriate type for a given product life cycle stage.
-3. Walk the six-step advertising plan and explain push vs. pull strategies.
-4. Calculate impressions using the standard formula and interpret advertising KPIs (brand recognition, brand awareness, impressions, reach, frequency).
-5. Define public relations and distinguish PR from advertising on the paid-vs-earned dimension.
-6. Identify the major PR tools and apply them to a real organization.
-7. Compare advantages and disadvantages of advertising vs. PR for a given marketing objective.
-8. Evaluate an advertising or PR campaign for ethical and legal compliance — truth in advertising, advertising to children, advertising harmful products.
+Within twenty-four hours, the ad was condemned across social media, by civil rights activists, by journalists, and eventually by the family of Martin Luther King Jr. Bernice King posted a photo of her father being stopped by a police officer. "If only Daddy had known about the power of #Pepsi," she wrote.
 
-## Prerequisites
+Pepsi initially defended the ad. Then pulled it. Then issued a formal apology: "We did not intend to make light of any serious issue. We are removing the content and halting any further rollout."
 
-You should be familiar with the **promotion mix** from Chapter 16 (six elements) and the **communication process** (sender, encoding, message, media, receiver, decoding, feedback). This chapter unpacks the first two of those six elements.
-
-## Why This Chapter Matters
-
-Advertising and PR are the most visible promotion mix elements — they're what consumers most often encounter and what students most often imagine when they think of "marketing." This chapter makes the difference between them precise and shows how each works mechanically, what it costs, what it produces, and where the regulatory and ethical lines sit.
-
-By the end, you'll be able to read any campaign and assess (a) whether it's advertising or PR or both, (b) what objective it serves, (c) what KPIs would measure its success, (d) whether the regulatory framework permits it.
+The episode is usually discussed as an advertising failure. That's true but incomplete. The ad itself was an advertising decision — a paid, produced, controlled piece of communication. The seventy-two hours that followed were a public relations problem — uncontrolled, media-driven, credibility-destroying. The two disciplines are different, they work through different mechanisms, and they fail in different ways. Understanding both — and the gap between them — is what this chapter is for.
 
 ---
 
-## Concept 1 — What Advertising Is, Types, and KPIs
+## Advertising: Paid, Non-Personal, Controllable
 
-### The motivating puzzle
+Advertising is paid, non-personal communication that identifies a brand or organization and reaches a large number of recipients. Three attributes define it: the firm pays for it, no individual person delivers it (it reaches audiences at scale), and the firm controls the message.
 
-In **1935**, **Leo Burnett** — a former journalist for the *Peoria Times* — founded an advertising firm in Illinois. His insight: use models who looked like ordinary people instead of Hollywood stars. His motto: *"What helps people, helps business."*
+That last attribute — control — is advertising's most important property and its most important limitation. The Pepsi-Kendall-Jenner ad went through rounds of production, approval, and testing. Pepsi controlled every frame of it. And yet it still failed catastrophically, because the approval process didn't include the people whose cultural context would determine how the ad would be read. Control over the message is not the same as control over the interpretation.
 
-The strategy paid off. In **1952**, the agency created **Tony the Tiger** for Kellogg's Frosted Flakes — still the brand's icon decades later. The agency also produced the **Marlboro Man** for Philip Morris (now considered unethical given tobacco marketing's documented harms, but at the time enormously influential). Other Leo Burnett clients have included Procter & Gamble, McDonald's, and Fiat.
+The economics of advertising are structured around scale. A single thirty-second commercial during the 2021 Super Bowl cost approximately $6 million. 96.4 million people watched the game. That's roughly six cents per viewer — an enormous absolute expenditure that becomes reasonable, or even cheap, when divided across the audience it reaches. This is advertising's core advantage: it reaches vast numbers of people for a low per-person cost. Its core disadvantage is the inverse: it's non-personal, which means the message goes to everyone the same way, and "everyone" includes people for whom the message will misfire.
 
-The agency still operates globally. In **July 2021**, Leo Burnett London produced *"Fancy a McDonald's?"* — a TV commercial with no dialogue, just friends and family laughing together. The campaign succeeded by reaching customers through emotional resonance rather than information.
+The channels for delivering advertising have multiplied over the last thirty years. Television, radio, newspapers, magazines, and outdoor billboards are the legacy formats. Digital formats now include search advertising, display advertising, social media advertising, programmatic advertising, email, mobile, and influencer partnerships. Each channel reaches a different audience with different attention levels and different contextual associations.
 
-The puzzle: how does advertising work? Why does dialogue-free laughter sell hamburgers?
+---
 
-### The mechanism — what advertising is
+## Four Types of Advertising, and When to Use Each
 
-**Advertising** is paid, non-personal communication that identifies a brand or organization, intended to reach a large number of recipients.
+Not all advertising does the same thing. The right type depends primarily on where the product is in its life cycle and what the customer already knows.
 
-Major channels: newspapers, magazines, television, radio, internet, billboards, plus newer digital forms (mobile, social, programmatic).
+**Informative advertising** educates. It's used for new products entering the market, where customers don't yet know what the product is or why it matters. Apple's iPhone launches use minimal informative ads — the product photo, the date, a line of copy — because the brand has enough equity that curiosity does the work. A truly new product category needs more: what is this, what does it do, why does it exist?
 
-Cost economics: advertising is expensive in absolute terms but reaches massive audiences. A **single 30-second commercial during the 2021 Super Bowl cost approximately $6 million**. **96.4 million viewers** watched the game, putting cost-per-exposure at roughly **6 cents per viewer**. The total cost is enormous; the per-viewer cost is tiny.
+**Persuasive advertising** convinces purchase by emphasizing benefits. Most advertising in growth and maturity stages is persuasive — the customer knows the product category exists and the advertising is making the case that this particular version is the one to buy.
 
-Trade-offs: advertising is non-personal and at scale, so messages can be misinterpreted (the encoding-decoding gap from Chapter 16). It's also hard to change quickly when problems emerge.
+**Comparative advertising** explicitly names or implies a competitor and claims an advantage. "Tastes better than Brand X" is the template. Comparative advertising is most common in mature markets where differentiation is difficult and customers need a reason to switch — or a reason to stay. Wendy's "fresh, never frozen" campaign against McDonald's is comparative advertising at its most direct.
 
-### The mechanism — types of advertising
+**Reminder advertising** keeps an established brand in front of customers who already know it. A five-second Coca-Cola logo during a sports broadcast isn't informing anyone or persuading anyone — it's maintaining presence. The purchase trigger for a habitual product like a soft drink is often just recency of memory: you see the logo, the brand is salient when you get to the store, you buy it.
 
-**Product advertisements** promote a specific product within the firm's mix. Brand awareness or differentiation focused.
+The mapping to the product life cycle from Chapter 12:
 
-**Institutional advertisements** promote the firm itself rather than specific products. Brand-building, image management, reputation.
+- Introduction → informative
+- Growth → persuasive
+- Maturity → comparative or reminder
+- Decline → reminder or nothing
 
-By objective:
+<!-- → TABLE: Advertising types × product life cycle stage. Rows: four life cycle stages. Columns: Stage, Recommended ad type, What the customer already knows, What the ad needs to accomplish. Student should see why the type is a strategic decision derived from the customer's state of knowledge, not an aesthetic preference. -->
 
-- **Informative advertising** — used when products are new. Educates audiences. Apple's iPhone launches use minimalist informative ads (photo + date) because the brand is established.
-- **Persuasive advertising** — convinces purchase by emphasizing benefits. Often used for products in growth or maturity stages.
-- **Comparative advertising** — explicitly compares to competitors. Common in mature markets where differentiation is hard.
-- **Reminder advertising** — used in maturity. Keeps the brand top of mind without making new claims.
+A firm running informative advertising for a mature product is wasting money telling customers things they already know. A firm running reminder advertising for a new product is failing to explain why anyone should buy it. The type is a strategic decision, not an aesthetic one.
 
-The right type depends on the product life cycle stage (Chapter 12). Introduction → informative; Growth → persuasive; Maturity → comparative or reminder.
+---
 
-### The mechanism — advertising KPIs
+## Measuring Advertising: Impressions, Reach, Frequency
 
-Several measurable indicators:
+The advertising industry has developed a standard measurement vocabulary. Understanding it is necessary for evaluating whether an advertising investment is working.
 
-**Brand recognition.** Can the audience identify the brand from a logo or photo alone? Measured through tracking studies and software.
-
-**Brand awareness.** Can the audience recall information about the brand — the emotions, impressions, or associations the campaign has built?
-
-**Impressions (ad views).** How many times the ad is viewed. Formula:
+**Impressions** — the number of times an advertisement is viewed. The formula:
 
 $$\text{Impressions} = \text{Rating} \times \text{Target Population} \times \text{Number of Ads Run}$$
 
-**Worked example.** A TV ad runs 2 times this week. Target audience: 1 million people. Ad rating: 30% (0.30). Impressions:
+If an ad runs twice in a week, the target population is 1 million people, and the ad's rating is 30 percent (meaning 30 percent of the target audience sees it each time it runs):
 
 $$\text{Impressions} = 0.30 \times 1{,}000{,}000 \times 2 = 600{,}000$$
 
-The campaign produces 600,000 ad views.
+The campaign produces 600,000 ad views. Note that the same person may account for multiple impressions if they see the ad both times it runs.
 
-**Reach** — the percentage of target audience exposed at least once. **Frequency** — average number of times exposed. Reach × Frequency = Gross Rating Points (GRPs), the standard media-planning metric.
+**Reach** — the percentage of the target audience exposed to the ad at least once. If 400,000 distinct people out of the 1 million saw the ad, reach is 40 percent.
 
-### Common misconceptions
+**Frequency** — the average number of times an exposed person saw the ad. If 400,000 people account for 600,000 impressions, average frequency is 1.5.
 
-**"All advertising is persuasive."** Different objectives produce different ad types. An informative ad for a new product may not try to persuade — it informs. A reminder ad doesn't add new information.
+**Gross Rating Points (GRPs)** — reach multiplied by frequency. GRPs are the standard metric in traditional media planning. A campaign with 40 percent reach and 1.5 frequency delivers 60 GRPs.
 
-**"More frequency is better."** Beyond a point, additional frequency produces diminishing returns and audience fatigue. Optimal frequency varies by category and message.
+**Brand recognition** — can the audience identify the brand from a logo or image alone, without the brand name? Measured through tracking studies.
+
+**Brand awareness** — can the audience recall information about the brand, including the emotions, associations, and attributes the campaign is intended to build?
+
+These metrics describe exposure and recall. They don't directly measure sales — the link between advertising exposure and purchase is real but not one-to-one, and measuring it requires additional attribution work. The common mistake is treating impressions as a proxy for sales. Impressions tell you the campaign reached people; they don't tell you whether reaching them changed behavior.
 
 ---
 
-## Concept 2 — The Advertising Plan and Push vs. Pull
+## The Advertising Plan: Six Steps, Two Strategies
 
-### The motivating puzzle
+A firm with an advertising budget and a marketing objective needs a process for converting one into the other. The six-step advertising plan is that process.
 
-A consumer-products firm has a $50 million advertising budget. Across the year, they could spend it on national TV, on highly targeted digital, on retail in-store displays, on influencer partnerships, or on industry-trade publications. Different allocations produce different outcomes. How do they decide?
+**Step 1 — Establish advertising objectives.** SMART objectives (Chapter 3): what specifically should the advertising accomplish, for which audience, by when? "Build brand awareness" is not a SMART objective. "Increase unaided brand recall among women 25–34 in the Southeast from 12 percent to 18 percent by end of Q3" is.
 
-The advertising plan is the framework that turns budget into deliberate strategy.
+**Step 2 — Choose a push or pull strategy.** This decision determines where the advertising budget goes.
 
-### The mechanism — the six-step advertising plan
+A **push strategy** directs spending toward the distribution channel — wholesalers, retailers, trade partners. The manufacturer pushes the product through the channel by incentivizing intermediaries to stock, display, and sell it. The customer encounters the product because it's on the shelf, well-positioned, promoted by the retailer. Push strategies use trade promotions, in-store displays, retailer education, and co-op advertising.
 
-1. **Establish advertising objectives.** SMART objectives (Chapter 3). Awareness lift? Trial? Comparison preference?
-2. **Choose push or pull strategy.**
-3. **Establish budget.** Often percentage of sales, competitive parity, or objective-and-task method.
-4. **Develop strategy.** Message + media decisions.
-5. **Execute the program.** Production, media buying, launch.
-6. **Assess impact.** Measure KPIs, adjust.
-
-### Push vs. pull strategies
-
-**Push strategy.** The manufacturer pushes the product through the distribution channel — incentivizing wholesalers and retailers to stock and sell. Heavy use of trade promotions, in-store displays, retailer education. Common for products where customers don't pre-decide before walking into the store.
-
-**Pull strategy.** The manufacturer pulls customers through the channel via advertising directly to consumers. Customers ask for the product by name; retailers stock it because customers demand it. Common for branded consumer products where pre-purchase brand preference matters.
-
-Most firms use combinations. A new consumer product launch might use heavy push initially (get retailers to stock) then heavy pull (build consumer demand). The mix shifts over the product life cycle.
+A **pull strategy** directs spending toward the end consumer. The manufacturer creates demand among consumers, who then request the product; retailers stock it because consumers are asking for it. Pull strategies use mass advertising, consumer promotions, and social media.
 
 <!-- → DIAGRAM: Push vs. pull strategy with arrows. Manufacturer → Wholesaler → Retailer → Consumer (push direction). Consumer ← Retailer ← Wholesaler ← Manufacturer (pull direction). The student should see how budget allocation differs between strategies. -->
 
-### Common misconceptions
+The choice between them is a question of where the bottleneck is. If the problem is that customers don't know the product exists or don't want it, a push strategy won't solve it — retailers will stock the product and it won't sell. If the problem is that retailers won't carry the product, a pull strategy without distribution is useless — customers ask for it and the shelf is empty.
 
-**"Pull is always better."** Pull works only when the brand has enough equity and budget to drive consumer demand. New brands often need push first to get distribution.
+Most real campaigns use both. A new consumer product launch typically uses heavy push initially (get distribution) and then heavy pull (build consumer demand). The mix shifts as the distribution problem is solved.
 
-**"Push and pull are mutually exclusive."** Most successful campaigns combine them strategically.
+**Step 3 — Establish the budget.** Three common approaches: percentage-of-sales (allocate a fixed percentage of projected revenue), competitive-parity (match what competitors spend), and objective-and-task (calculate what it will actually cost to achieve the stated objective and budget that amount). The objective-and-task method is the most logically sound and the most difficult to execute, because it requires estimating costs before a campaign exists.
 
----
+**Step 4 — Develop the strategy.** Message and media decisions. What will the advertising say, and through which channels? These are not independent questions — the message that works on television is not the same message that works in a fifteen-second pre-roll video.
 
-## Concept 3 — Public Relations
+**Step 5 — Execute.** Production, media buying, trafficking (distributing creative to media partners), launch.
 
-### The motivating puzzle
-
-In **2017**, **PepsiCo** released a commercial featuring **Kendall Jenner** calming an angry crowd by handing a police officer a can of Pepsi — set against the visual language of Black Lives Matter protests. Within 24 hours, the ad was widely condemned as trivializing the protest movement. Pepsi initially defended the ad; public backlash continued; the company pulled the spot and apologized, saying it had "missed the mark."
-
-The episode is a public relations case in two senses. The ad itself was an advertising decision; the response to the backlash was a public relations decision. PR work includes both image-building (the "fun" side) and damage control (crisis communication).
-
-### The mechanism — what PR is
-
-**Public relations** is the discipline of creating and maintaining a favorable public image. Unlike advertising, PR is **earned media** — coverage produced by third parties (journalists, influencers, communities) rather than purchased directly. The output of PR is **publicity**.
-
-Two sides:
-
-**Building (the "fun" side).** Positive stories about the firm — product launches, charitable activities, sponsorships, achievements, leadership recognition.
-
-**Damage control / crisis communication.** Addressing negative events that could harm reputation — product recalls, leadership scandals, public controversies, the Pepsi-Kendall-Jenner type of incident.
-
-### The mechanism — PR tools
-
-- **Press releases** — formal statements distributed to media.
-- **Sponsorships** — firm-funded support of events, charities, sports.
-- **Events** — firm-hosted gatherings (product launches, conferences, community events).
-- **Charitable activities** — community engagement, foundation work.
-- **Spokespeople / brand ambassadors** — individuals representing the firm (Beyoncé as PepsiCo brand ambassador from Chapter 16).
-- **Crisis communication** — coordinated response to negative events.
-
-### The trade-off — credibility vs. control
-
-PR's main advantage over advertising is **credibility**. Consumers value news media coverage and third-party endorsements above paid ads. A favorable news story or a respected reviewer's endorsement carries more persuasion weight than equivalent paid advertising.
-
-The cost: **PR doesn't pay directly, but the firm doesn't control it either**. Journalists may write something positive — or something negative. The firm cultivates relationships, sends press releases, hosts events, but the published output reflects the journalists' editorial judgment.
-
-Advertising offers reverse trade-offs: complete control over message and timing, lower per-message credibility, direct cost.
-
-### Worked example — Campfire Treats
-
-**Campfire Treats**, a dog-treat brand, was among the first in its industry to embrace the **Better Chicken Commitment (BCC)** — an industry agreement on chicken welfare standards. The commitment generated industry press coverage and made Campfire popular with pet owners who care about animal welfare. The PR-driven awareness produced sales without proportional advertising spend.
-
-The mechanism: ethical commitment + media attention = credibility-driven brand growth. The firm couldn't have bought the same credibility through advertising, regardless of budget.
-
-### Common misconceptions
-
-**"PR is free."** The output (earned media) isn't paid for directly. The PR function (PR teams, press relationships, content production) costs significant money.
-
-**"PR can fix anything."** PR can manage a crisis but can't reverse fundamental product or ethical failures. The Pepsi-Kendall-Jenner ad couldn't be PR-rescued because the underlying decision was wrong; the only working response was to pull and apologize.
+**Step 6 — Assess impact.** Measure the KPIs from the objective. Adjust for the next flight.
 
 ---
 
-## Integration — Ethics in Advertising and PR
+## Public Relations: Earned, Uncontrolled, Credible
 
-Both disciplines operate inside ethical and legal frameworks.
+Public relations is the discipline of managing how an organization is perceived by its various publics — customers, journalists, investors, employees, policymakers, and communities. Unlike advertising, PR produces **earned media**: coverage generated by third parties rather than purchased directly.
 
-### Truth in advertising
+The distinction between advertising and PR is the credibility-control trade-off.
 
-**The Federal Trade Commission (FTC)** enforces laws against false advertising. **Truth in Advertising** is an independent watchdog organization.
+Advertising is **high control, lower credibility**. The firm decides every word, image, and placement. Consumers know it's paid for. Consumer psychology research (Chapter 5) on selective attention and selective distortion applies here: people who know they're being marketed to apply more skepticism.
 
-**Subway's "Eat Fresh" slogan** was challenged by the firm's own franchisees in **2021** on the grounds that the slogan was misleading — ingredients arrived stores days or weeks old, meat contained chemicals. The franchisee complaint pushed Subway to address ingredient sourcing.
+PR produces **low control, higher credibility**. A journalist writes a favorable review based on genuine evaluation. A community group endorses the brand's sustainability practices. A social media post about the brand goes viral because something genuinely interesting happened. The firm cultivated the conditions but doesn't control the output. And precisely because the firm doesn't control it, audiences trust it more.
 
-The standard: claims must be substantiated. "Eat Fresh" requires ingredients to actually be fresh; "doctor-recommended" requires actual doctor recommendation; "clinically proven" requires actual clinical evidence.
+<!-- → DIAGRAM: Advertising vs. PR trade-off matrix. Two axes: Control (low → high) and Credibility (low → high). Advertising sits in the high-control / lower-credibility quadrant. PR (earned media) sits in the low-control / higher-credibility quadrant. Paid influencer partnerships sit in the middle. The student should see that control and credibility trade off, and why the mix of both disciplines is usually stronger than either alone. -->
 
-### Advertising to children
+This isn't a new observation. Edward Bernays, who coined the phrase "public relations" in the 1920s, understood the mechanism explicitly. Paid advertising announcing that a product was trustworthy was less effective than independent endorsement of the same claim. The channel through which information arrives shapes how much the audience trusts it.
 
-**Children view more than 40,000 commercials per year.** Per the **APA** (referenced in Chapter 7), children under 7 or 8 cannot discern persuasive intent — they take advertising at face value. Marketing harmful or age-inappropriate products to children carries both ethical and regulatory risk.
+The Leo Burnett agency case from the source material illustrates how advertising and PR interact historically. Burnett's insight in 1935 — use models who look like ordinary people rather than Hollywood stars — was essentially a credibility strategy applied to advertising. The Marlboro Man was persuasive not because he looked like a paid spokesperson but because he looked like an actual person who might actually make this choice. The manufacturing of authenticity is what advertising borrows from PR; actual authenticity is what PR, at its best, provides.
 
-**Juul** in **2019** was accused of marketing its vaping products on **Nickelodeon, the Cartoon Network, and Seventeen** — sites directed toward youth. The company faced regulatory action; some products were ordered off the market in 2022 (referenced in Chapter 7).
+---
 
-### Advertising harmful products
+## PR Tools and the Two Sides of the Function
 
-Pharmaceutical advertising (covered in Chapter 9 — only US and New Zealand allow direct-to-consumer prescription drug advertising) is heavily regulated. Side-effect disclosures, indication restrictions, and FDA oversight all constrain what can be claimed.
+PR practitioners use a standard toolkit, and the function has two distinct modes of operation.
 
-Other categories with restrictions: tobacco, alcohol, gambling, weapons. The principle: advertising harmful products requires explicit disclosure of harm.
+**The building mode** — the work done when nothing is going wrong. Press releases distributed to media about product launches, partnerships, achievements, sustainability commitments. Sponsorships of events, sports teams, community organizations. Hosted events — conferences, press dinners, launch parties — that create context for journalists and influencers to engage with the brand on the firm's terms. Charitable activities that generate genuine goodwill and genuine press coverage. Brand ambassadors whose public personas align with the brand's positioning.
 
-The integration with $V = B/P$: ethical violations destroy $B$ permanently. The Subway "Eat Fresh" challenge, the Juul teen-marketing accusations, the Pepsi-Kendall-Jenner backlash — all reduced the brand equity built by years of prior marketing.
+Campfire Treats, a dog-treat brand, became one of the first in its category to adopt the Better Chicken Commitment (BCC), an industry standard on chicken welfare. The commitment generated category press coverage and built brand affinity among pet owners who care about animal welfare. The PR-driven awareness produced sales without proportional advertising spend — and the credibility of third-party endorsement (animal welfare organizations, industry press) was worth more than equivalent paid advertising could have bought.
+
+**The damage control mode** — crisis communication. A product recall. A leadership scandal. A customer-service incident that goes viral. An advertisement that, like Pepsi's, triggers public backlash.
+
+Crisis communication has a structure that works differently from the building mode. The immediate priority is to establish facts internally before communicating externally. The message structure that consistently works in crisis: *here is what we know, here is what we don't yet know, here is what we're doing*. This structure works because it's honest about uncertainty — which audiences respect — rather than claiming full knowledge before it exists, which erodes trust when the full picture eventually emerges.
+
+The Pepsi-Kendall-Jenner case is instructive on what doesn't work. Pepsi's initial defense ("we believe [the film] is a global message of unity, peace, and understanding") was not an honest accounting of uncertainty — it was a continuation of the original claim despite overwhelming evidence that the claim had failed. The apology that followed was more effective because it abandoned the defense and acknowledged the error.
+
+---
+
+## Ethics in Advertising and PR
+
+Both disciplines operate inside ethical and regulatory frameworks.
+
+**Truth in advertising** is enforced by the Federal Trade Commission in the United States. Claims must be substantiated. Subway's "Eat Fresh" slogan was challenged in 2021 by the firm's own franchisees on the grounds that ingredients were not actually fresh — they arrived days or weeks old, and some meat contained chemical additives. The challenge pushed Subway to address ingredient sourcing. The lesson: advertising claims create legal and ethical obligations the firm has to honor.
+
+**Advertising to children** carries particular obligations. Children under 7 or 8, per the American Psychological Association, cannot discern persuasive intent — they take advertising claims at face value. Children watch more than 40,000 commercials per year. Marketing harmful products to that audience is both ethically contested and, in some categories, illegal. Juul was accused in 2019 of advertising its vaping products on Nickelodeon, the Cartoon Network, and in *Seventeen* magazine — channels directed at youth. The company faced regulatory action; some products were ordered off the market in 2022. The harm wasn't incidental to the marketing strategy; the flavors (mint, crème, mango) and the form factor (USB drive design, easy to conceal) suggested a product designed for the people who couldn't legally buy it.
+
+**Advertising harmful products** — tobacco, alcohol, pharmaceuticals, gambling — is regulated differently in different jurisdictions. The United States and New Zealand are the only countries that permit direct-to-consumer prescription drug advertising. Every other country has concluded that the public health costs of allowing pharma companies to promote specific drugs directly to patients outweigh the benefits. A pharmaceutical firm's US marketing playbook is illegal in ninety-eight percent of the world.
+
+The integration with the value ratio: ethical violations in advertising or PR destroy $B$ — the perceived benefits a brand has built. Subway "Eat Fresh" loses credibility. Juul loses its license to market. Pepsi's brand is damaged more by the ad's cultural failure than the cost of the production. Trust is part of $B$, and it is expensive to rebuild once broken.
+
+---
+
+## Where This Chapter Fits
+
+Chapter 16 introduced the promotion mix as a six-element system and established the principle of integrated marketing communications — the idea that all promotional activities should tell one coherent story. This chapter unpacks the first two elements of that mix.
+
+Advertising and PR are connected by their shared goal (shaping brand perception) and distinguished by their mechanism. The advertising budget buys reach and control. The PR function builds credibility and manages reputation without direct control over what others say. Each compensates for the other's weakness: PR can't guarantee reach; advertising can't guarantee credibility.
+
+The targeting frameworks from Chapter 7 apply here. Advertising media choices are essentially targeting decisions — buying time on a channel that reaches a specific demographic at a specific cost per thousand. The buyer persona from Chapter 7 should determine which channels the firm uses, what it says on those channels, and how it measures whether the campaign is working.
+
+The consumer-behavior frameworks from Chapter 5 explain both why advertising works and where it fails. Selective attention means advertising only reaches people whose perceptual filter is set to the category. Selective distortion means messages that contradict existing beliefs get reframed. Selective retention means positive messages get remembered and negative messages get forgotten — which is why brand equity is so hard to build (takes years of consistent communication) and so easy to destroy (one Kendall-Jenner ad, twenty-four hours).
+
+Chapters 18 and 19 continue the promotion sequence with personal selling and sales promotion (Chapter 18) and digital, social, and mobile marketing (Chapter 19). The advertising and PR frameworks from this chapter continue to apply; the channels and mechanics change.
 
 ---
 
 ## Exercises
 
-### Warm-up
+### Warm-Up
 
-**1. Identify the advertising type.** For each, identify whether it's informative, persuasive, comparative, or reminder:
+**1. Identify the advertising type.** For each scenario, identify whether the ad is informative, persuasive, comparative, or reminder — and name the product life cycle stage it most likely corresponds to:
 
-- An ad for a newly-launched smartphone with technical specs.
-- An ad showing a new car outperforming a competitor's car.
-- A 5-second logo flash during a sports broadcast for an established brand.
-- An ad emphasizing the lifestyle benefits of a luxury watch.
+- An ad for a newly-launched electric scooter service explaining how the app works and where scooters can be found.
+- An ad showing that a brand of paper towel absorbs 30 percent more than the leading competitor.
+- A five-second logo flash during a major sporting event for an established soft drink brand.
+- An ad for a luxury travel brand emphasizing the emotional experience of its destinations rather than specific features or prices.
 
-*Tests: Objective 2.*
+*(Tests: Objective 2. Difficulty: Low.)*
 
-**2. Calculate impressions.** A campaign runs 4 ads in a market of 2 million people. The ad has a rating of 25%. Calculate impressions.
+**2. Calculate impressions and interpret the result.** A campaign runs 4 ads in a market of 2 million people. The ad has a rating of 25 percent. Calculate total impressions. Then calculate what reach and frequency would be if 700,000 distinct people saw at least one ad. What are the GRPs? If the campaign's objective was to reach 60 percent of the target population with at least 3 exposures, did it succeed?
 
-*Tests: Objective 4.*
+*(Tests: Objective 4. Difficulty: Low.)*
 
-**3. Distinguish advertising from PR.** For each scenario, identify advertising or PR:
+**3. Distinguish advertising from PR.** For each scenario, identify whether the activity is advertising, PR, or both — and explain in one sentence which defining attribute (paid/earned, controlled/uncontrolled) drives the classification:
 
-- A 30-second TV commercial.
-- A press release about a new sustainability initiative.
-- A sponsored Instagram post by a paid influencer.
-- A news article featuring the firm's CEO.
+- A 30-second television commercial.
+- A press release announcing the firm's new sustainability certification.
+- A sponsored Instagram post by a paid influencer who discloses the partnership.
+- A news article featuring the firm's CEO that the firm did not commission or pay for.
+- A "native advertising" piece that looks like editorial content but is labeled "sponsored."
 
-*Tests: Objectives 1, 5.*
+*(Tests: Objectives 1, 5. Difficulty: Low.)*
+
+<!-- → TABLE: Student answer scaffold for Exercise 3 — four columns: Activity, Advertising or PR, Paid or Earned, Controlled or Uncontrolled. Five rows. Forces the student to apply all three defining dimensions simultaneously, not just the paid/earned label. -->
 
 ### Application
 
-**4. Build an advertising plan.** For a hypothetical product, walk all six steps: objectives, push/pull, budget, strategy, execution, assessment.
+**4. Choose push or pull — and diagnose the bottleneck.** For each scenario, determine whether a push or pull strategy is more appropriate, identify the specific bottleneck the strategy addresses, and name one tactic that fits the strategy:
 
-*Tests: Objective 3.*
+- A new independent coffee brand trying to get shelf space in grocery stores when consumers don't yet know it exists.
+- An established national beer brand whose retail distribution is strong but whose awareness among 21–29-year-olds is declining.
+- A B2B software startup trying to get IT departments to evaluate their product against established vendors.
 
-**5. Audit a PR campaign.** Pick a real PR campaign. Identify which tools were used, what publicity it produced, and how it would be measured.
+*(Tests: Objective 3. Difficulty: Medium.)*
 
-*Tests: Objective 6.*
+**5. Build an advertising plan for a specific objective.** A regional fitness chain wants to increase trial memberships by 25 percent in the next 12 months among adults 28–45 in its markets. Walk all six steps of the advertising plan. For Step 2, choose push or pull and explain why. For Step 3, state which budget method you'd recommend and why.
 
-**6. Compare ad types across the life cycle.** Pick a product. Identify which advertising type would fit each life cycle stage (introduction, growth, maturity, decline) and why.
+*(Tests: Objective 3. Difficulty: Medium.)*
 
-*Tests: Objective 2.*
+**6. Audit a real PR campaign.** Find a real PR campaign from the last three years — a product launch, a sustainability commitment, a crisis response, or a brand-building initiative. Identify which PR tools were used, what earned media it generated, and how its effectiveness could be measured. Then evaluate: did the campaign produce credibility that advertising alone couldn't have bought? What evidence supports your claim?
+
+*(Tests: Objective 6. Difficulty: Medium.)*
 
 ### Synthesis
 
-**7. Evaluate the advertising/PR mix.** For a brand you know well, estimate the share of marketing budget going to advertising vs. PR. Recommend an adjustment with rationale.
+**7. Compare advertising and PR for a specific objective.** A consumer packaged goods brand is launching a new product with a genuine sustainability claim (organic ingredients, recyclable packaging). They have a $500,000 budget and a six-month timeline. Design two strategies: one advertising-dominant and one PR-dominant. For each, specify tactics, expected outcomes, and the primary KPIs. Then recommend one and explain the trade-off you're accepting.
 
-*Tests: Objective 7.*
+*(Tests: Objective 7. Difficulty: Medium-high.)*
 
-**8. Connect to IMC.** Walk a recent multichannel campaign (e.g., a Super Bowl ad campaign with PR support). Identify the advertising components and PR components, and how they integrate.
+**8. Diagnose the Pepsi-Kendall-Jenner failure.** Walk the ad through the chapter's frameworks: (a) which advertising type was it attempting to be, (b) what approval-process failure produced the cultural mismatch, (c) what the correct crisis communication structure would have looked like in the first 24 hours using the "what we know / what we don't know / what we're doing" template, (d) what long-term $B$ damage the episode caused and how a firm would measure that. Be specific at each step.
 
-*Tests: Objectives 1, 5.*
+*(Tests: Objectives 2, 5, 7, 8. Difficulty: Medium-high.)*
 
 ### Challenge
 
-**9. Ethics audit.** Pick a recent advertising or PR controversy. Audit using FTC, Truth in Advertising, and AMA Code of Ethics frameworks. Identify the violations, brand impact, and corrective actions.
+**9. Ethics audit.** Pick a real advertising or PR controversy from the last five years — a truth-in-advertising challenge, a campaign accused of targeting children, a native advertising disclosure failure, or a crisis communication that made things worse. Audit using the FTC framework, the APA children's advertising standards, and the credibility-control trade-off from this chapter. Name the specific violation, what evidence supports it, what penalty or consequence resulted, and what the $B$ cost was beyond any financial penalty. Then evaluate: what structural change to the approval process would have prevented it?
 
-*Tests: Objective 8.*
-
-**10. Crisis communication response design.** Design a crisis communication response for a hypothetical negative event affecting a brand. Specify the PR tools, message, channels, and measurement approach.
-
-*Tests: Objectives 5, 6.*
-
----
-
-## Chapter Summary
-
-**What you can do:** read any advertising or PR campaign, identify its type, calculate or estimate its KPIs, and assess its ethical compliance.
-
-**The one idea:** advertising buys reach; PR earns credibility. Both shape brand, but through different mechanisms. The firm chooses the mix based on objectives, budget, and the credibility-vs-control trade-off.
-
-**The common mistake:** assuming advertising and PR are interchangeable. They're not. PR can build credibility advertising can't buy; advertising can deliver scale PR can't reach.
-
-**The Feynman test:** pick a recent campaign. In two minutes, can you describe its advertising vs. PR mix, its objective, its likely KPIs, and one ethical line it had to navigate? If yes, you have internalized the chapter.
+*(Tests: Objective 8. Difficulty: High.)*
 
 ---
 
 ## Connections Forward
 
-**Chapter 18 — Personal Selling and Sales Promotion** unpacks the next two promotion mix elements.
+**Chapter 18 — Personal Selling and Sales Promotion** covers the two promotion mix elements closest to the individual customer — the sales conversation and the tactical incentive. Personal selling is the most expensive promotion element on a per-contact basis and the most effective for high-involvement B2B purchases.
 
-**Chapter 19 — Direct, Online, Social Media, and Mobile Marketing** unpacks the digital element.
+**Chapter 19 — Direct, Online, Social Media, and Mobile Marketing** covers the digital channels where much of the advertising budget has migrated — and where the measurement precision is dramatically higher than in traditional media.
 
----
-
-*Voice anchor: Feynman × MKBHD hybrid. See `style/VOICE.md`.*
-*Source: OpenStax modules m00088–m00094. All statistics, brand examples, and historical claims drawn from source.*
 ---
 
 ## LLM Exercise — Chapter 17: Promotion Mix — Advertising and Public Relations
 
 **Project:** AI Marketing Assistant.
-**What you're building this kapter:** advertising and PR capability — ad-brief drafting, KPI selection, push vs. pull decision, 24-hour crisis-comms playbook.
+**What you're building this chapter:** advertising and PR capability — ad-brief drafting, KPI selection, push vs. pull decision, 24-hour crisis-comms playbook.
 **Tool:** **Claude Project** "Marketing Assistant" — adds capability + drafts an actual ad brief and a crisis-comms playbook.
 
 ---
@@ -366,17 +318,19 @@ the brand survives the moment.
 
 **Preview of next chapter:** Chapter 18 adds personal selling and sales promotion. The assistant will be able to map a sales pipeline, design a sales-force structure, and structure sales promotions that don't train customers to wait for the next deal.
 
-
 ---
 
 ## AI Wayback Machine
 
-**Edward Bernays** was nephew of Sigmund Freud and "father of public relations" — pioneered using psychoanalysis to shape mass opinion.
+**Edward Bernays** was the nephew of Sigmund Freud and "father of public relations" — pioneered using psychoanalysis to shape mass opinion.
 
 **Run this:**
 
 ```
-Who is Edward Bernays, and how does their work connect to PR and advertising we covered in this chapter? Keep it to three paragraphs. End with the single most surprising thing about their career or ideas.
+Who is Edward Bernays, and how does their work connect to PR and
+advertising we covered in this chapter? Keep it to three
+paragraphs. End with the single most surprising thing about their
+career or ideas.
 ```
 
 → Search **"Edward Bernays"** on Wikipedia.
