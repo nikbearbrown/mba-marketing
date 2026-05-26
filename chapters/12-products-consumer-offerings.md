@@ -2,283 +2,168 @@
 
 *A product is more layered than the word suggests. Once you can take apart what you're actually selling, the marketing decisions about it get sharper.*
 
-## Learning Objectives
+Here is a puzzle that sounds simple.
 
-By the end of this chapter, you will be able to:
+Peloton sells a fitness bike for between $1,500 and $2,600. A reasonably good bike. Then they charge customers an additional $39 per month — forever, as long as the customer keeps using it. The CEO described the company as more like Apple, Tesla, or Nest than like a traditional equipment manufacturer: *"a consumer product that has a foundation of sexy hardware technology and sexy software technology."*
 
-1. Distinguish products from services, and locate any offering on the product-service continuum.
-2. Classify consumer products as convenience, shopping, specialty, or unsought, and explain why the classification changes the marketing approach.
-3. Distinguish product items, product lines, and product mixes, and explain product line length, depth, and mix width.
-4. Apply line filling and line stretching (downward, upward, both ways) to a real product portfolio.
-5. Identify the four stages of the product life cycle and the appropriate marketing strategy for each stage.
-6. Distinguish brand value from brand equity and apply Keller's brand equity model to a real brand.
-7. Categorize customers into four brand-loyalty types (switchers, shifting loyals, split loyals, hard-core loyals).
-8. Evaluate a packaging decision on functional, perceptual, sustainability, and ethical dimensions.
+What is Peloton selling?
 
-## Prerequisites
+The obvious answer is a bike. The correct answer is something harder to name: a community, a routine, a set of switching costs built not from proprietary hardware but from habits and social relationships that are expensive to rebuild elsewhere. The bike is the entry ticket. The $39 a month is the actual product. The charismatic instructors, the live leaderboard, the other riders you've ridden alongside for three years — that is what makes the purchase durable.
 
-You should be familiar with the value ratio from **Chapter 2** ($V = B/P$), the four Ps, and the segmentation/positioning frameworks from **Chapter 7**. This chapter unpacks the **Product** P in detail; the customer's value calculation underlies every product decision.
-
-## Why This Chapter Matters
-
-Most students starting this chapter would say a "product" is the thing in the box. By the end of the chapter, the answer will be more layered: a product is a bundle of tangible features, intangible attributes, services, brand meaning, and customer experience — each of which the firm can shape independently and each of which moves $B$ in the value ratio.
-
-The unit (Chapters 12–14) takes the Product P apart across three chapters. **This chapter** covers consumer products, product portfolios, life cycle, branding, and packaging. **Chapter 13** covers new product development and innovation diffusion — how products get created and adopted. **Chapter 14** covers services as a category — distinct from physical products, with their own marketing implications.
+The puzzle is not unique to Peloton. It applies to every offering. A product is a bundle. Understanding the bundle — all the layers of it — is what makes every other marketing decision sharper.
 
 ---
 
-## Concept 1 — What a Product Actually Is
+## What a Product Actually Is
 
-### The motivating puzzle
+Let's start with the formal distinction and then complicate it.
 
-**Peloton** sells fitness bikes for **$1,500–$2,600** and treadmills for **$3,500**. By traditional product-marketing logic, a customer who buys one of these wouldn't generate additional revenue for the firm for several years.
+**Products** are tangible items. They can be seen, touched, owned, stored. The laptop or tablet you are reading this on is a product. **Services** are intangible. They can't be touched, owned, or stored for later. A college marketing course is a service — you can't put the course on a shelf.
 
-But Peloton charges customers a **$39 monthly all-access fee** on top of the hardware. CEO John Foley described the company's positioning: *"we see ourself more akin to an Apple, a Tesla, or a Nest or a GoPro — where it's a consumer product that has a foundation of sexy hardware technology and sexy software technology."*
-
-The bundle works because Peloton customers aren't buying a one-time durable good. They're buying a **networked effect** — connection to fitness instructors and to other riders. The streaming workout classes, taught by charismatic instructors who become social media influencers, create habit and lifestyle dependencies. **Switching costs** for a loyal Peloton user are high not because the bike is hard to replace but because the *community and routine* are.
-
-The puzzle the Peloton case introduces: what is Peloton selling? A bike? A subscription service? A community? A status signal? The answer is *all four, bundled* — and the marketing is calibrated for the bundle, not for any single component.
-
-### The mechanism — product, service, and the continuum between them
-
-**Products** are tangible items in an exchange between buyer and seller. They can be seen, touched, owned, stored. The laptop or tablet you're reading this on is a product.
-
-**Services** are intangible solutions in an exchange between buyer and seller. They can't be touched, owned, or stored for later. A college course on marketing is a service. The customer is typically *part* of the service experience — a concert ticket only realizes its value when you attend the concert.
-
-Most actual offerings fall somewhere on the **product-service continuum**. A restaurant breakfast is product (eggs, bacon, coffee) + service (menu handed, order taken, food brought, dishes cleared, payment collected). Peloton is product (the bike) + service (the streaming subscription) + experience (the community).
+Most actual offerings fall somewhere between the two extremes. A restaurant breakfast is product (eggs, coffee) plus service (order taken, food brought, dishes cleared). Peloton is product (the bike) plus service (the streaming subscription) plus experience (the community). Almost nothing real sits at either pole.
 
 <!-- → DIAGRAM: Product-service continuum from "pure product" (raw materials) to "pure service" (legal advice) with examples plotted along the spectrum (laptop, restaurant meal, Peloton, hotel stay, marketing class). The student should see that almost no real offering sits at either extreme. -->
 
-### Customer experience (CX)
+**Customer experience (CX)** is the layer that surrounds both products and services — the overarching impression a customer has of a brand across every touchpoint. Apple's retail stores are an extreme version: products surrounded by working demonstrations, iPad-based check-in, staff who know the product, the unboxing experience after purchase. Netflix uses algorithmic personalization to remove friction from viewing — predicting what you want before you know you want it, making the brand feel like it knows you. Each touchpoint is an opportunity to raise $B$ or erode it.
 
-**Customer experience (CX)** is the overarching impression a customer has of a brand across every touchpoint. The Apple Store is the canonical example — products surrounded by working demonstrations, iPad-based check-in, knowledgeable staff, the unboxing experience after purchase. Each touchpoint reinforces the brand. **Netflix** uses algorithmic personalization to remove friction from viewing — predicting preferences, surfacing relevant titles, making the brand "an essential part" of users' lives.
-
-Strong CX produces customers who become brand advocates. Weak CX produces customers who churn at the first competitor offer.
-
-### The mechanism — consumer product classification
-
-Consumer products are classified into four types based on how customers shop for them:
-
-**Convenience products.** Frequent purchases, low effort, low price. Toilet paper, gum, snacks. Customers don't research; they grab the familiar brand. Marketing implication: shelf-space dominance, consistent packaging, frequent reminders.
-
-**Shopping products.** Less frequent, more deliberation, mid-to-high price. Furniture, appliances, electronics. Customers compare on price, quality, and features. Marketing implication: detailed product information, sales support, comparison content, post-purchase reassurance.
-
-**Specialty products.** Customers seek a specific brand and won't substitute. Luxury watches, designer apparel, performance vehicles. Marketing implication: exclusivity positioning, limited distribution, brand-experience investment.
-
-**Unsought products.** Customers don't know they need or don't want to think about. Insurance, funeral services, emergency repairs. Marketing implication: aggressive personal selling, fear-relief framing, education.
-
-Each classification implies different optimal pricing, distribution, and promotion. A convenience product strategy applied to a specialty product wastes the brand equity. A specialty strategy applied to a convenience product overspends on relationship-building that customers don't want for that purchase.
-
-### The mechanism — industrial product classification
-
-Business and industrial products are classified differently:
-
-- **Materials and parts** — raw materials, components, sub-assemblies (Chapter 6's producer category).
-- **Capital items** — major equipment that participates in production (factories, machinery, IT infrastructure).
-- **Supplies and services** — operating supplies, repair items, business services (Chapter 6's institutional buyer category).
-
-The split matters because the buying behavior differs (Chapter 6's eight-stage process applies more strongly to capital items than to supplies, for example).
-
-### The trade-off — bundling vs. unbundling
-
-The Peloton case illustrates the central product-strategy choice: **bundle multiple offerings together, or unbundle and sell each piece separately?**
-
-**Bundling** — Peloton's approach. Hardware + software + community packaged as one offering. Higher per-customer revenue (recurring + one-time). Higher switching costs. More opportunity for $B$-raising through community and content. Risk: customers who only want one component opt out.
-
-**Unbundling** — selling hardware separate from software. Lower friction for one-component buyers. Lower per-customer revenue. Easier comparison shopping. The fitness-bike-only manufacturers compete on price; the bundled offering competes on overall ratio.
-
-The trade-off favors bundling for firms that can deliver genuinely valuable services beyond the hardware. It favors unbundling for firms whose services would be a thin overlay.
-
-### Common misconceptions
-
-**"Product means physical thing."** Products are tangible; offerings are bundles that can include intangible services and experiences. Treating "product" as the physical thing alone misses most of what the firm actually delivers.
-
-**"Customer experience is a customer-service problem."** CX includes customer service but extends across every touchpoint — product design, packaging, in-store experience, post-purchase support, brand communication. Service is one of many CX components.
+The implication: when a firm makes decisions about its offering, it's not just deciding what goes in the box. It's deciding about the product, the service layer around it, and the experience that surrounds both. Customers compute $V = B/P$ on the whole bundle.
 
 ---
 
-## Concept 2 — Product Lines, Mixes, and the Product Life Cycle
+## How Customers Shop: Four Product Types
 
-### The motivating puzzle
+The single most useful product classification for marketing strategy is how customers behave when they buy.
 
-A coffee shop sells coffee. A successful coffee shop usually sells more than coffee — pastries, sandwiches, branded merchandise, gift cards. Why?
+**Convenience products** are purchased frequently, with low effort, at low prices. Toilet paper, gum, snacks. Customers don't research convenience products; they grab the familiar brand. The marketing implication follows directly: shelf-space dominance matters more than deep brand messaging, because the decision is made in three seconds at the shelf. Consistent packaging and frequent reminder advertising. A convenience product strategy applied to a specialty product wastes the brand's equity; a specialty strategy applied to a convenience product overspends on relationship-building that customers don't want for a $3 purchase.
 
-The answer is partly cross-selling (customers who buy coffee will also buy pastries), partly risk diversification (if coffee margins compress, sandwiches help), partly customer-experience deepening (a coffee shop with a pastry case feels more like a third place than a takeout window). The discipline that organizes these decisions is **product-portfolio strategy** — managing not a single product but a coordinated set of products.
+**Shopping products** invite more deliberation. Furniture, appliances, electronics — less frequent purchases at higher prices, where customers compare alternatives on price, quality, and features before deciding. The marketing implication: detailed product information, sales support, comparison content, post-purchase reassurance. The customer who just bought a $1,200 refrigerator wants confirmation that they made the right call.
 
-### The mechanism — product items, lines, and mixes
+**Specialty products** are the category where customers seek a specific brand and will not accept substitutes. Luxury watches, performance vehicles, designer apparel. The customer who wants a Patek Philippe is not comparison shopping. The marketing implication is exclusivity positioning, limited distribution, and brand-experience investment. The Patek Philippe retail store is not designed to move units efficiently — it is designed to reinforce that purchasing one is a significant event.
 
-A **product item** is a single specific product the firm sells. Domino's hand-tossed pizza is a product item.
+**Unsought products** are products customers don't know they need or actively avoid thinking about. Insurance, funeral services, emergency repairs. Marketing here is aggressive personal selling and fear-relief framing, because the customer's default behavior is to not engage with the purchase at all.
 
-A **product line** is a set of similar or complementary products. Domino's offers crunchy thin, handmade pan, Brooklyn style, gluten-free, and hand-tossed crusts — a five-item pizza product line.
+Each classification implies a different optimal approach across all four Ps. Treat a convenience product like a specialty product and you've built an expensive relationship for a low-engagement purchase. Treat a specialty product like a convenience product and you've commoditized what should be an exclusive experience.
 
-A **product mix** is everything the firm sells. Domino's product mix includes pizza, salads, sandwiches, appetizers, pasta, desserts, beverages — seven product lines.
+---
 
-**Product line depth** = number of items in a line. Domino's pizza line has five items, so the pizza line's depth is 5.
+## The Portfolio: Lines, Mixes, and How to Extend Them
 
-**Product mix width** = number of lines in the mix. Domino's mix width is 7.
+Single products are easy. Most firms don't have single products. They have portfolios — and managing a portfolio requires different tools than managing a single item.
 
-The portfolio approach has clear benefits: cross-selling within the mix (chocolate lava cake added to a pizza order); promotional efficiency (one campaign promotes the whole mix); supply economies (appetizers and desserts in the same packaging). It also has costs: product cannibalization (too many similar pizza variants steal sales from each other); inventory complexity; ingredient-stocking overhead.
+A **product item** is one specific offering. Domino's hand-tossed pizza is a product item. A **product line** is a set of similar or complementary items. Domino's pizza crusts — hand-tossed, thin, pan, Brooklyn style, gluten-free — form a product line. A **product mix** is everything the firm sells: pizza, salads, sandwiches, pasta, desserts, beverages — seven lines at different depths.
+
+**Product line depth** is the number of items in a line. **Product mix width** is the number of lines. The two numbers together describe the portfolio's shape.
+
+The portfolio approach creates genuine economics: a single delivery can include items from multiple lines, so cross-selling is frictionless. One campaign promotes the whole mix. Shared ingredients reduce sourcing overhead. The cost is real too: too many similar variants steal sales from each other (cannibalization), and inventory complexity rises faster than revenue.
 
 <!-- → DIAGRAM: Domino's product mix as a tree. Mix → 7 lines → varying depths. Highlight the pizza line (5 items, the chapter's running example). The student should see how depth and width compose into the full portfolio. -->
 
-### The mechanism — line filling vs. line stretching
+**Line filling** adds items within an existing line to leave less room for competitors — more topping combinations, more flavor variants, more size options. The new items don't expand the category; they close gaps competitors might otherwise occupy.
 
-A firm can extend its portfolio in two ways:
+**Line stretching** changes the price range of an existing line or adds new lines:
 
-**Line filling** — add items within an existing product line to leave less room for competitors. Domino's stocking many pizza topping combinations is line filling. The new items don't expand the category; they make sure no competitor can serve a niche the firm has missed.
+- *Stretching downward* adds a less expensive product. Tesla stretched from the Model S to the Model 3 — same brand, dramatically lower price, a different segment. The risk: the premium positioning built around the Model S could be diluted by a $35,000 car wearing the same badge.
+- *Stretching upward* adds a more expensive product. A mid-range firm adding a luxury line. The risk: customers who chose the brand for value may feel they're being pushed toward aspirational spending.
+- *Stretching both ways* does both simultaneously — high risk of incoherent brand signal to all segments.
 
-**Line stretching** — add new product lines or extend an existing line into a new price range:
+The stretch decision always involves a tension between segment reach and brand coherence. A brand that means "premium" cannot also mean "affordable" to the same customers. It can mean different things to different segments — but only if the segments don't overlap enough to confuse each other.
 
-- **Stretching downward** — add a less-expensive product. **Tesla** stretched downward from the Model S to the **Model 3**, opening a lower-price segment without abandoning the premium position.
-- **Stretching upward** — add a more-expensive product. A mid-range firm adding a luxury line.
-- **Stretching both ways** — simultaneously extending up and down.
+---
 
-Stretching always carries risk. Stretching down can dilute brand premium; stretching up can confuse customers about what the brand stands for. The decision depends on the firm's segments (Chapter 7) and its existing positioning.
+## Four Stages, Four Different Games
 
-### The mechanism — the product life cycle
+Every product eventually declines. The question is how long it takes and what happens on the way. Four stages govern the journey.
 
-Products move through four stages:
+**Introduction.** Awareness is low, sales grow slowly, marketing investment is high relative to revenue. The firm is spending to build a market that doesn't yet exist. Pricing strategy depends entirely on competitive landscape:
 
-**Introduction.** Awareness-building. Sales growing slowly. High marketing investment (advertising, sales promotion). Profitability low (launch costs not yet recovered). Pricing strategy depends on competitive landscape:
+- *Rapid skimming*: high price, heavy promotion. Used when competitors are expected to enter and the firm wants early margin before they do.
+- *Slow skimming*: high price, low promotion. Tesla's initial launch — a very expensive car sold with minimal traditional advertising — targeted early adopters who sought it out.
+- *Rapid penetration*: low price, heavy promotion. Old Navy launched in 1994 with $8 jeans and heavy promotion, betting that low prices plus volume would generate loyalty.
+- *Slow penetration*: low price, low promotion. Store-brand butter at everyday low price — no reason to advertise, just occupy the shelf at a price that doesn't require persuasion.
 
-- **Rapid skimming** — high price + heavy advertising + sales promotion. Used when competitors are expected. Tech innovations targeting early adopters often use this.
-- **Slow skimming** — high price + low promotion. Used when competitors are not expected. **Tesla's initial launch** used this — high-priced exclusive offering with limited promotion.
-- **Rapid penetration** — low price + heavy promotion. Used when fast share gain matters. **Old Navy launched in 1994 with $8 jeans** + heavy promotion to convert trial into loyalty.
-- **Slow penetration** — low price + low promotion. Used for low-brand-equity necessities (store-brand butter at everyday low price).
+**Growth.** Sales rise quickly. Competitors enter the category. Margins improve as fixed costs spread across more units. The marketing emphasis shifts from building awareness to building preference — telling the customer not just that the product exists but why it's better than the alternatives now competing with it. OXO's universal-design kitchenware differentiated on ergonomic handles; Home Run Inn Pizza moved from restaurant-only to grocery shelf. Distribution widens as the category proves itself.
 
-**Growth.** Sales rise rapidly; competitors enter; margins improve as scale absorbs fixed costs. Firms invest in product improvements (OXO's universal-design innovation in kitchenware), expand distribution (Home Run Inn Pizza moving from restaurant to grocery), and shift promotion from awareness to preference (TikTok's 2021 shift to preference-stage marketing).
+**Maturity.** The longest stage, often measured in decades. Sales growth slows; the category has reached most of the customers who want it; competitors have fully entered. Kraft Macaroni & Cheese has been a mature product for generations. Marketing at maturity is primarily defensive: remind consumers of brand benefits, fend off private-label encroachment, occasionally extend to new users or update the product formula. The margin is stable; the goal is to stay there as long as possible.
 
-**Maturity.** Sales growth slows; profitability stabilizes; competitors have entered. The longest stage, often years or decades. **Kraft Macaroni & Cheese** has been a mature product for generations. Marketing strategies shift toward defending share (market modification — extending to new customers; product modification — feature updates) and reminding consumers of brand benefits.
-
-**Decline.** Sales fall; profitability erodes. Causes vary: market shift (digital cameras displacing film), technology evolution, changing tastes, rising costs, intensified competition. **Apple's iPod entered decline** when the iPhone launched with music capability built in. Firms typically divest declining products or harvest the remaining margin.
-
-Not all products move linearly through all four stages. Some products go from introduction to decline without ever growing (failed launches). Fads compress the entire cycle into months.
+**Decline.** Sales fall. The cause varies — technology displacement (Apple's iPod entering decline the day the iPhone launched with music capability built in), shifting tastes, rising production costs, intensified competition. Firms at this stage either harvest the remaining margin while investing nothing, or exit the category cleanly.
 
 <!-- → DIAGRAM: Product life cycle curve. X-axis = time, Y-axis = sales. Four stages labeled with characteristic curve shapes (slow rise → steep growth → flat plateau → declining tail). Annotate with brand examples per stage and note that some products skip stages. -->
 
-### The trade-off — portfolio breadth vs. portfolio coherence
-
-A wide product mix captures more customer occasions and reduces firm risk. A wide mix also dilutes attention, increases operational complexity, and creates cannibalization risk.
-
-The trade-off resolves through deliberate portfolio decisions: what does each line *contribute*? A line that doesn't add meaningful new revenue, doesn't defend against competitors, and doesn't deepen customer relationship is overhead. A line that clearly serves one of the three is justified.
-
-### Common misconceptions
-
-**"More product variants is always better."** Often the opposite. Cannibalization, inventory complexity, and decision paralysis on shelves all rise with variant count. Beyond a point, simplifying the line increases sales.
-
-**"Mature products need cheaper marketing."** Mature products often need *defensive* marketing — reminding customers, fending off entrants, occasionally repositioning. The total spend may be lower than introduction, but the discipline is no easier.
+Not all products follow this arc linearly. Some go from introduction to decline without ever growing. Fads compress the entire cycle into months. The life-cycle model is most useful not as a prediction but as a diagnostic: if sales are falling and competitors are exiting, you're in decline, and the strategies that worked during maturity no longer apply.
 
 ---
 
-## Concept 3 — Branding, Loyalty, and Packaging
+## What a Brand Is and How It Accumulates
 
-### The motivating puzzle
+The Tide detergent on a supermarket shelf may be functionally indistinguishable from a store-brand alternative priced 30 percent lower. Many consumers pay the premium anyway. The name on the bottle is worth money. That money has a name: **brand equity**.
 
-The **Tide** detergent on the supermarket shelf may be functionally indistinguishable from store-brand alternatives priced 30% lower. Yet many consumers pay the premium. Why?
+A **brand** is the feeling associated with a product that gives it currency in the marketplace. Not the logo, not the name, not the product itself — the feeling, which is something the customer holds, not the firm. A firm can invest in building that feeling. It cannot directly manufacture it.
 
-The answer is **brand equity** — the additional value the Tide name commands above a functionally equivalent substitute. Brand equity is one of the most valuable assets a firm can build, and one of the hardest to measure.
+**Brand value** is the financial asset the brand represents — typically realized in mergers and acquisitions, when someone pays more for a company than the sum of its physical assets because the brand itself is worth something. **Brand equity** is narrower: the additional value the brand commands over a functionally equivalent substitute. Tide's price premium over store-brand detergent is its brand equity, expressed in dollars.
 
-### The mechanism — brand value, brand equity, and Keller's model
+Kevin Lane Keller's model describes how brands build equity through four levels, each depending on the previous:
 
-A **brand** is the feeling associated with a product or service that gives it currency in the marketplace. Brands can't be touched or placed on a balance sheet directly — but they have measurable financial impact.
+**Identity** — who are you, and what problem do you solve? The logo, the name, the distinguishing features. The entry level.
 
-**Brand value** is the financial asset a brand represents. Brand valuation typically happens in transactions (mergers, acquisitions); it's subjective, drawing on brand visibility, customer loyalty, perception, and revenue.
+**Meaning** — how well does the brand perform, and what social or psychological needs does it meet? Performance claims and brand associations.
 
-**Brand equity** is the additional value a brand carries over a substitute. Tide's price premium over store-brand detergent is its brand equity in dollar form.
+**Feelings and judgments** — what do consumers think and feel about the brand? The accumulated impressions from every product experience, every ad, every customer-service interaction.
 
-**Kevin Lane Keller's brand equity model** describes how brands build equity through four levels:
+**Resonance** — how much connection, engagement, and loyalty does the brand generate? The customers who tattoo the Harley-Davidson logo, who structure their leisure around brand-organized rides, who identify with the brand as part of their identity. Resonance is the top level; it cannot be purchased directly, only earned by building the three levels below it soundly.
 
-1. **Identity** — Who are you and how do you solve the consumer's needs? Logo, name, distinguishing features.
-2. **Meaning** — How well does the brand perform, and how does it meet social and psychological needs?
-3. **Feelings and judgments** — What do consumers think and feel about the brand?
-4. **Resonance** — How much connection, engagement, or loyalty does the brand have with consumers?
+Harley-Davidson has built each level deliberately over decades. Identity (the bar-and-shield logo, the sound of the V-twin engine — distinctive enough that the company once tried to trademark the sound). Meaning (freedom, individuality, American-made). Feelings (community, belonging, the ride as ritual). Resonance (riders who organize their lives around the brand). A firm that invests in promotion without building identity and meaning first is spending on resonance that has no foundation.
 
-Each level depends on the previous. A brand can't build resonance without first establishing meaning. Marketing investment that targets one level without supporting the others produces uneven equity.
+When firms add products to their portfolios, four brand strategies are available. A **line extension** uses the existing brand name for a new variant in the same category — Oreo's holiday flavors. A **brand extension** applies the existing brand to a new category — Starbucks-branded bottled coffee in grocery stores. **Multibrands** are multiple distinct brands within the same category from one parent company — Nabisco owning Oreo, Chips Ahoy, and Teddy Grahams separately. **New brands** create entirely new brand entities for new categories — Starbucks owning Ethos Water under a separate brand.
 
-**Harley-Davidson** is a brand that has built every level systematically. Identity (the bar-and-shield logo, the V-twin engine sound). Meaning (freedom, individuality, American-made). Feelings (community, identity, belonging). Resonance (riders who tattoo the logo, attend brand-organized rides, structure their lives around the brand).
+The choice depends on whether the existing brand's equity translates to the new context, and what risk the new product poses to the parent brand if it disappoints.
 
-### The mechanism — brand development strategies
+---
 
-When firms add new products to their portfolios, four strategies are available based on whether the brand and product category are new or existing:
+## Four Loyalty Types and What Each Requires
 
-| | **Existing brand** | **New brand** |
-|---|---|---|
-| **Existing product category** | Line extension | Multibrands |
-| **New product category** | Brand extension | New brands |
+Not all customers who buy the same brand are equally loyal. Four types:
 
-**Line extensions.** New variants within an existing brand and category. **Oreo's holiday flavors** are line extensions — same brand, same product category (cookies), additional variants. Low-risk for established brands but can fragment without generating new sales.
+**Switchers** change behavior continuously — motivated by price, convenience, or novelty. They buy whatever is on sale. Marketing to them is primarily price-based.
 
-**Brand extensions.** Existing brand applied to a new product category. **Starbucks** extended its brand to bottled coffees through retail stores — same brand, new category. The brand carries trust into the new category; the cost is risk to the parent brand if the new product disappoints.
+**Shifting loyals** are loyal to one brand for a period, then shift to another. The Toyota-to-Honda-back-to-Toyota buyer. Re-anchoring them requires a product improvement that gives them a reason to come back and stay.
 
-**Multibrands.** Multiple distinct brands within the same product category from one firm. **Nabisco** owns Chips Ahoy, Oreo, and Teddy Grahams — separate brands with separate equity, all cookies, all under Nabisco. Each brand can target a distinct segment without diluting the others.
+**Split loyals** rotate across two or three acceptable brands without strong preference. Gap, Banana Republic, J.Crew for workwear. Converting them to hard-core requires consistency and loyalty programs that make switching feel like a loss.
 
-**New brands.** Entirely new brand entity, often in a new category. **Starbucks owns Ethos Water** — distinct brand in a different category from Starbucks's primary offering. Useful when the new offering is meaningfully different, expensive when the brand has to be built from scratch.
-
-### The mechanism — four loyalty types
-
-Customers fall into four loyalty categories:
-
-**Switchers.** Continually change purchasing behavior, motivated by price, convenience, or novelty. Lowest brand loyalty.
-
-**Shifting loyals.** Loyal to one brand for a period, then shift to another. Move back and forth over time. **A Toyota → Honda → Toyota** purchase pattern is shifting loyalty.
-
-**Split loyals.** Have a consideration set of 2–3 brands they buy interchangeably without strong commitment to any. **Gap, Banana Republic, J.Crew** for workwear is split loyalty across the trio.
-
-**Hard-core loyals.** Buy only one brand in the category. The smallest segment, usually, but the most valuable per customer.
-
-The marketing implication: each loyalty type responds to different marketing. Switchers respond to price. Shifting loyals respond to product improvements that re-anchor preference. Split loyals can be converted to hard-core through consistency, loyalty programs, and relationship marketing. Hard-core loyals need maintenance — the firm has to keep delivering on the promise that built the loyalty.
+**Hard-core loyals** buy only one brand in the category. The smallest and most valuable segment — high lifetime value, often brand advocates. Maintaining them requires keeping the brand's promise intact. Hard-core loyalty is earned by everything the brand does; it is lost by one significant failure.
 
 <!-- → INFOGRAPHIC: Four-pyramid showing loyalty types from largest base (switchers) to narrowest top (hard-core loyals). Annotate each level with marketing strategy and one example brand-customer relationship. -->
 
-### The mechanism — packaging and labeling
-
-Packaging is "not one of the 4Ps" technically, but it's tightly bound to all four. Packaging functions:
-
-**Functional protection.** Foam and cardboard shielding products in transit. Tide Pods sold in child-locked containers.
-
-**Brand expression.** **Apple's** simple white design with metallic logos creates an unboxing experience. **LaCroix's** brightly-colored cans signal flavored sparkling water as a vibrant category. **Tiffany's "little blue box"** is a copyrighted blue color (part of Tiffany's intellectual property) that signals luxury before the box is even opened.
-
-**Convenience and safety.** Resealable packaging. Child-safety locks. Tamper-evident seals.
-
-**Usability.** Drinkable yogurt sold in small bottles becomes part of the product experience.
-
-**Compliance.** The **Federal Trade Commission Act of 1914** stipulates that *false, misleading, or deceptive labels or packaging may be upheld as unfair competition*. Packaging is a legal as well as a marketing instrument.
-
-**Differentiation.** Beautifully designed packages or functionally distinctive ones (potato chip bags filled with air to prevent crushing) signal the brand.
-
-### Sustainable packaging
-
-Consumer concern about packaging waste has risen substantially. **More than half of US consumers** (per a McKinsey study) are highly concerned about packaging's environmental impact. Consumers increasingly buy products with green packaging — recycled plastics, fiber-based substitutes.
-
-**Boxed Water Is Better** sells water in cardboard boxes that are **75% paper and 100% recyclable**, free of BPA, ethically sourced, and shipped flat to reduce shipping carbon footprint.
-
-**Cradle-to-cradle packaging design** removes waste from the package's lifecycle entirely — packages designed to be reused or 100% recycled, imitating natural regenerative processes.
-
-**E-commerce** introduces specific challenges: shipping single products to individual customers requires protection, efficiency, cost-control, and sustainability simultaneously. Return-ready packaging (the same package the product arrived in becomes the return package) addresses some of the friction.
-
-### Common misconceptions
-
-**"Brand value and brand equity are the same thing."** Brand value = the brand as a financial asset (often realized in M&A). Brand equity = the price premium the brand commands over substitutes. Related but distinct.
-
-**"Hard-core loyalty is the goal for every customer."** Often unrealistic and not always profitable. Some categories don't sustain hard-core loyalty (commoditized products); some customer segments aren't worth the marketing investment to convert to hard-core.
-
-**"Packaging matters because of aesthetics."** Aesthetics matter; so do functional protection, legal compliance, environmental impact, and the post-purchase experience. Treating packaging as just visual design misses most of its role.
+The marketing implication isn't to convert every switcher to hard-core loyal — that's expensive and often impossible in low-engagement categories. It's to understand which type predominates in the brand's customer base and calibrate investment accordingly. A loyalty program built on discounts trains discount-seeking, not loyalty. A loyalty program built on exclusive access, early product drops, and community trains genuine attachment.
 
 ---
 
-## Integration — Ethics in Product and Packaging Decisions
+## Packaging: Not Decoration, Part of the Product
 
-Product and packaging decisions are subject to ethical scrutiny in several dimensions.
+Packaging is technically not one of the four Ps, but it is tightly coupled to all four. It is not decoration — it is a functional, perceptual, regulatory, and ethical decision.
 
-**Misleading representation.** A package displaying a photo of a product that's larger or more substantial than the actual contents is misleading. A label claiming health benefits the product doesn't deliver is deceptive. The **FTC Act of 1914** treats these as unfair competition.
+**Functional protection.** Foam and cardboard shielding fragile items in transit. Tide Pods in child-locked containers. Tamper-evident seals on medications. If the product arrives damaged or the wrong customer accesses it, packaging failed its primary job.
 
-**Safety disclosures.** Packaging must communicate safety information. Choking-hazard warnings on small parts for children under 3. Allergen disclosures on food. Drug interaction warnings on medications.
+**Brand expression.** Apple's simple white packaging with metallic logos creates an unboxing experience that has been filmed millions of times voluntarily by customers who bought the product to film themselves opening it. LaCroix's brightly colored cans signal a vibrant category. Tiffany's blue box — the exact shade is copyrighted as intellectual property — signals luxury before the box is opened. In each case, packaging is doing $B$-raising work before the customer ever uses the product.
 
-**Sustainable packaging.** Increasingly a regulatory as well as a market expectation. Some experts predict ethical packaging will become a legal mandate in many jurisdictions.
+**Convenience and safety.** Resealable packaging. Drinkable yogurt in small portable bottles. The package as part of the use experience.
 
-**Truthful claims.** Health claims, performance claims, sourcing claims must all be substantiated. The **Mintel-style 56% boycott statistic** from Chapter 2 applies — consumers stop buying from brands they perceive as unethical, and packaging is one of the most visible places ethical claims are made or broken.
+**Sustainability.** More than half of US consumers are highly concerned about packaging's environmental impact, per a McKinsey study. Boxed Water Is Better sells water in cardboard boxes that are 75 percent paper and 100 percent recyclable, free of BPA, ethically sourced, and shipped flat to reduce carbon footprint. Cradle-to-cradle packaging design eliminates waste from the lifecycle entirely — packages designed to be reused or fully recycled. Consumer concern about packaging waste has risen substantially; for some categories it is now a meaningful $B$ variable in the purchase decision.
 
-The integration with $V = B/P$: ethical packaging claims that don't hold up reduce $B$ permanently when discovered. A short-term cost saving on greenwashing produces a long-term equity loss.
+**Legal compliance.** The Federal Trade Commission Act of 1914 treats false, misleading, or deceptive labels as unfair competition. Health claims, environmental claims, performance claims must all be substantiated. A package that claims what the product doesn't deliver is both an ethics failure and a legal risk.
+
+---
+
+## The Bundle, Reassembled
+
+Here is what this chapter leaves you with.
+
+A product is a bundle. The physical thing is the core. Around it sits the service layer — warranties, customer support, subscription content, training. Around that sits the experience layer — packaging, retail environment, unboxing, post-purchase relationship. Customers compute $V = B/P$ on the whole bundle, not just the core item.
+
+The marketing decisions in this chapter — how to classify the product, how to manage the portfolio, where the product sits in its life cycle, how the brand builds equity through Keller's four levels, which loyalty type predominates, how packaging extends the brand — are all decisions about layers of the bundle.
+
+Cutting service as a cost measure reduces $B$. Cheapening packaging to save margin reduces $B$. Failing to invest in the brand reduces $B$ slowly, invisibly, until a competitor whose $B$ has been growing takes the market.
+
+The Peloton question had a clear answer. They aren't selling bikes. They are selling a bundle in which the bike is the smallest part — the entry ticket to a community, a routine, and a set of switching costs that make the $39 monthly subscription feel like the cheapest part of leaving.
 
 ---
 
@@ -286,97 +171,63 @@ The integration with $V = B/P$: ethical packaging claims that don't hold up redu
 
 ### Warm-up
 
-**1. Locate offerings on the continuum.** For each, identify whether it's predominantly a product, predominantly a service, or somewhere in between, and explain why:
+**1. Locate offerings on the continuum.** For each of the following, place it on the product-service continuum (predominantly product, predominantly service, or meaningfully mixed) and explain the mix in one sentence. Where it's mixed, identify one component that is product and one that is service.
 
-- A new car
-- A haircut at a salon
-- A meal at a fast-food restaurant
-- A streaming subscription
-- A textbook
+- A new car purchased at a dealership.
+- A haircut at a salon.
+- A Peloton subscription with no hardware purchase.
+- A textbook with an access code for an online homework platform.
+- A fast-food meal eaten in the restaurant.
 
 *Tests: Objective 1. Difficulty: Low.*
 
-**2. Classify the product type.** For each consumer purchase, identify whether it's convenience, shopping, specialty, or unsought:
+**2. Classify the product type.** For each consumer purchase, identify whether it's convenience, shopping, specialty, or unsought. Then name the single most important marketing implication that follows from the classification.
 
-- Toothpaste at a grocery store
-- A new refrigerator
-- A custom luxury watch
-- Funeral insurance
+- Toothpaste grabbed off a shelf during a grocery run.
+- A new refrigerator researched across four brands before purchasing.
+- A custom luxury watch from a boutique that doesn't advertise price.
+- Life insurance purchased after a salesperson called.
 
 *Tests: Objective 2. Difficulty: Low.*
 
-**3. Map a portfolio.** Pick a quick-service restaurant chain. Identify (a) at least three product items, (b) at least two product lines, (c) the approximate width of the product mix.
+**3. Map a product portfolio.** Pick any fast-food chain or consumer-packaged-goods brand. Identify (a) two specific product items, (b) at least two distinct product lines, (c) the approximate mix width (number of lines), and (d) which line appears deepest. Name each component specifically — "beverages" is a line; "Diet Coke" is a product item.
 
 *Tests: Objective 3. Difficulty: Low.*
 
 ### Application
 
-**4. Diagnose the life cycle stage.** Pick a brand or product you can investigate. Determine which stage of the product life cycle it's in (introduction, growth, maturity, decline) and justify with at least three pieces of evidence. Identify which marketing strategy from Concept 2 best fits the stage.
+**4. Diagnose the life-cycle stage.** Pick a brand or product you can investigate with public information. Determine which stage of the product life cycle it currently occupies — introduction, growth, maturity, or decline — and support the diagnosis with at least three specific pieces of evidence (sales trends, competitive activity, marketing posture, distribution behavior). Then identify which pricing strategy from the chapter's introduction-stage options best describes how the product entered the market originally.
 
 *Tests: Objective 5. Difficulty: Medium.*
 
-**5. Apply Keller's model.** Choose a brand you know well. Walk all four levels of Keller's brand equity model — identity, meaning, feelings/judgments, resonance — and assess how strongly the brand has built each level. Identify the level where the brand is weakest and propose one specific action to strengthen it.
+**5. Apply Keller's model.** Choose a brand you know well. Walk all four levels of Keller's brand equity model: identity, meaning, feelings and judgments, resonance. For each level, give one specific piece of evidence — an actual logo, a documented association, a customer behavior — rather than a general description. Identify which level is the brand's weakest, explain why it's weak, and propose one concrete action that would strengthen it.
 
 *Tests: Objective 6. Difficulty: Medium.*
 
-**6. Audit a package.** Pick a product whose packaging you can examine in detail. Evaluate it on five dimensions: functional protection, brand expression, convenience and safety, sustainability, ethics. Score each dimension high/medium/low with a one-sentence rationale.
+**6. Evaluate a stretch decision.** Tesla stretched downward from the Model S (entry ~$80,000) to the Model 3 (entry ~$35,000 at launch). Apply the stretch-decision framework from the chapter: (a) what segment did the downward stretch target, (b) what was the risk to the Model S's positioning, (c) what evidence from the years since launch would tell you whether the stretch damaged the premium brand or successfully expanded the segment, (d) should Tesla now stretch further downward? Make a recommendation with specific reasoning.
 
-*Tests: Objective 8. Difficulty: Medium.*
+*Tests: Objective 4. Difficulty: Medium.*
 
 ### Synthesis
 
-**7. Run a stretch decision.** A mid-priced apparel brand is considering stretching downward into a value tier and stretching upward into premium simultaneously. List five risks of doing both moves at once, three benefits, and a recommendation with conditions.
+**7. Decompose Peloton's bundle.** The chapter opens and closes with the Peloton puzzle. Now decompose Peloton's offering across the chapter's frameworks: (a) locate it on the product-service continuum, (b) classify it as a consumer product type (convenience / shopping / specialty / unsought), (c) place the hardware and the subscription separately on the product life cycle as of today and justify both placements, (d) apply Keller's model to the Peloton brand and identify its strongest and weakest level, (e) identify which of the four loyalty types the $39-per-month subscription is specifically designed to create and why.
 
-*Tests: Objective 4. Difficulty: Medium-high.*
+*Tests: Objectives 1, 2, 5, 6, 7. Difficulty: Medium-high.*
 
-**8. Connect Peloton's strategy to the chapter.** Walk Peloton's bundle through every Concept 1 framework: product-service continuum location, consumer product classification, customer experience, the bundling vs. unbundling trade-off. Then move to Concept 3: which loyalty type does Peloton's pricing/community strategy target, and why?
+**8. Audit a loyalty program.** The chapter distinguishes loyalty programs that train genuine attachment from those that train discount-seeking. Find a real loyalty program from a brand you use or can research. Evaluate it on three dimensions: (a) does it reward purchase frequency (discount-seeking signal) or brand engagement (loyalty signal), (b) does it make switching feel like a loss in any specific way — name the mechanism if so, (c) which of the four loyalty types does it most effectively target? Conclude with a verdict: does this program build brand equity or erode it?
 
-*Tests: Objectives 1, 2, 7. Difficulty: Medium-high.*
+*Tests: Objective 7. Difficulty: Medium-high.*
 
 ### Challenge
 
-**9. The packaging-ethics audit.** Find a product whose packaging makes claims you suspect aren't substantiated (health benefits, environmental claims, "natural" labels, etc.). Investigate: (a) what specifically does the packaging claim, (b) what evidence supports the claims publicly, (c) what would constitute deceptive packaging under the FTC Act, (d) is the firm at risk.
+**9. The packaging ethics audit.** Find a product whose packaging makes claims you can examine — environmental claims ("sustainable," "eco-friendly," "green packaging"), health claims, origin or sourcing claims. Investigate: (a) what specifically does the packaging assert, (b) what publicly available evidence supports or contradicts each claim, (c) which claims would qualify as misleading under the FTC Act's standard for false, misleading, or deceptive labeling, (d) what would the firm need to change — in the product, the packaging, or both — to make the claims defensible. Label clearly what you found in public sources and what you are inferring.
 
 *Tests: Objective 8. Difficulty: High.*
 
-**10. Design a brand portfolio strategy.** A successful single-product startup is considering portfolio expansion. Recommend whether they should pursue line extensions, brand extensions, multibrands, or new brands first. Justify with reference to the firm's brand equity, the segments served, and the strategic risk profile.
+**10. Design a brand extension decision.** A successful single-product brand is considering a brand extension into a new product category. Pick a real brand and a proposed extension that would be plausible but contested — a brand known for one thing moving into an adjacent but different category. Evaluate: (a) how strong is the brand's equity in its current category (use Keller), (b) how well does that equity translate to the new category — specifically, which of Keller's levels translates and which doesn't, (c) what is the risk to the parent brand if the extension disappoints, (d) would a multibrand strategy be safer, and if so what would it cost? Make a recommendation with the conditions under which you would reverse it.
 
 *Tests: Objectives 3, 6. Difficulty: High.*
 
----
-
-## Chapter Summary
-
-**What you can do now that you could not do before this chapter:**
-
-You can take any offering and decompose it into product, service, and experience layers. You can classify consumer products and apply the appropriate marketing strategy to each class. You can diagnose where a product sits in its life cycle and predict the appropriate strategy for that stage. You can evaluate brand equity using Keller's model and recognize how packaging contributes to (or undermines) the brand.
-
-**The one idea that matters most:**
-
-A product is a bundle. The firm's job is to design the bundle deliberately — not just the physical thing but the surrounding service, the experience, the brand, the packaging. Customers compute $V = B/P$ on the entire bundle, not just the core item.
-
-**The common mistake:**
-
-Treating packaging, branding, and customer experience as decoration on top of the product. They aren't — they're part of the product, in the customer's perception. Cutting them as cost-saving measures usually destroys more $B$ than the savings recovers.
-
-**The Feynman test:**
-
-Pick a product you bought in the last week. In two minutes, can you describe its product-service classification, its life-cycle stage, its brand equity level (using Keller), the role of its packaging, and what would change if any of those were different? If yes, you have internalized the chapter.
-
----
-
-## Connections Forward
-
-**Chapter 13 — Maintaining a Competitive Edge with New Offerings** unpacks the *how* of new product creation — idea generation through commercialization, plus innovation diffusion and the five Rogers adopter categories.
-
-**Chapter 14 — Services: The Intangible Product** treats services as their own category, distinct from physical products, with their own marketing implications (intangibility, inseparability, variability, perishability).
-
-**Chapter 15 — Pricing Products and Services** addresses the **P** that pairs with this chapter's product decisions to set the value-ratio denominator.
-
----
-
-*Voice anchor: Feynman × MKBHD hybrid. See `style/VOICE.md`.*
-*Source: OpenStax modules m00053–m00062. All statistics, brand examples, and historical claims drawn from source.*
 ---
 
 ## LLM Exercise — Chapter 12: Products — Consumer Offerings
@@ -454,12 +305,11 @@ exercise.
 
 **Preview of next chapter:** Chapter 13 adds new-product-development capability. The assistant will be able to design an NPD process appropriate to risk and budget, identify which adopter category to target first, and assess IP risk.
 
-
 ---
 
 ## AI Wayback Machine
 
-**David Ogilvy** was founder of Ogilvy & Mather whose Confessions of an Advertising Man (1963) defined modern thinking about consumer-product positioning.
+**David Ogilvy** founded Ogilvy & Mather, whose *Confessions of an Advertising Man* (1963) defined modern thinking about consumer-product positioning.
 
 **Run this:**
 
