@@ -1,77 +1,64 @@
 # Introduction
 
-A professional opens a familiar task and notices that the work has changed shape. The old bottleneck was production: finding the information, drafting the document, calculating the answer, building the artifact. The new bottleneck is judgment. A machine can now produce something fluent enough to move through the workflow. The harder question is whether it should.
+A learner opens the first chapter of *Principles of Marketing: with LLMs* with a familiar problem: there is too much information and not enough structure. The terms are available. The examples are available. The missing thing is a route through the material that turns exposure into understanding.
 
-This book is about the gap between domain work as it used to be taught and domain work as it now has to be practiced with AI in the room.
+This book is about the gap between knowing the name of Principles of Marketing: with LLMs's subject and being able to use its ideas with judgment.
 
-The central argument is simple and contestable: the professional advantage in Principles of Marketing no longer comes from doing every step by hand. It comes from knowing what to delegate, what to verify, what to reject, and what human judgment must still own because the consequences attach to a person, a community, an institution, or a client.
+The central argument is that Principles of Marketing: with LLMs is best learned as a sequence of distinctions, practices, and recurring problems rather than as a list of topics. A reader who can name those distinctions can move through the field with more confidence than a reader who has only memorized definitions.
 
-This is a textbook for readers who want to use AI without surrendering the part of the work that makes them responsible. It is for learners, teachers, practitioners, and contributors who need a practical map rather than another list of tools.
+This is written for learners, teachers, practitioners, and builders who want a clear path through the material.
 
 ## What This Book Is
 
-Principles of Marketing: with LLMs is a guided course in the concepts, workflows, and judgment calls that define Principles of Marketing in the AI era. It teaches vocabulary, recurring patterns, practical exercises, and the discipline of checking machine output against human purpose.
-
-The book names the work that AI can accelerate and the work that still requires human interpretation. It treats AI as infrastructure: powerful, fast, useful, and incomplete. The point is not to become impressed by the machine. The point is to become more precise about what the human is for.
+This book is a structured introduction to Principles of Marketing: with LLMs. It teaches the vocabulary of the field, shows how the main ideas connect, and gives readers enough conceptual grip to continue with more specialized work. It is designed to be read as a book, used as a reference, and integrated into an intelligent textbook system.
 
 ## What This Book Is Not
 
-This book is not a promise that AI will solve Principles of Marketing. It is not a tool manual frozen to one product release. It is not legal, medical, financial, or professional advice for a specific jurisdiction or institution. When a chapter touches regulated practice, compliance, clinical care, finance, education policy, or public stakes, the reader should treat the material as a framework for judgment and seek qualified guidance where the decision requires it.
+This book is not a substitute for practice, mentorship, experimentation, or domain-specific judgment. It does not try to say everything. It tries to say enough, in the right order, so that the reader can recognize what matters next.
 
-The book assumes curiosity, basic literacy in the domain, and a willingness to test claims rather than merely repeat them. It does not assume that the reader is already an AI expert.
+## The Concept Running Through the Book
 
-## The Running Concept
-
-The running concept is the boundary between execution and judgment. AI systems are increasingly strong at execution-shaped work: generating, summarizing, transforming, classifying, drafting, coding, and searching. Human beings remain responsible for problem formulation, plausibility auditing, causal interpretation, ethical tradeoffs, social context, and accountability under stakes.
-
-A recurring danger is the fluency trap: the tendency to treat polished output as evidence that the underlying work has been done. Fluency is useful. It is not proof. Across the chapters, watch for the moment when a fluent artifact needs a human test.
-
+The recurring idea is transfer: the movement from explanation to usable understanding. Each chapter should help the reader carry an idea from the page into a problem, a classroom, a project, or a decision.
 
 ## How This Book Is Organized
 
-The chapters are arranged as a sequence of practical confrontations with the same larger problem: what changes when AI can do part of the work, but not own the consequences?
+- **Chapter 1: Chapter 1 — Setting the Stage.** *Marketing is not a department. It is a way of thinking about how products meet people.* Marketing has a reputation problem. Ask most people what marketers do and you get a story about advertising — persuasion by repetition, logos, slogans, the art...
+- **Chapter 2: Chapter 2 — Marketing and Customer Value.** *The ratio in your head, the levers in the firm's hands, and the room they both operate in.* Here is something that puzzled me for a long time. In the United States, one sports drink holds 67.7 percent of its market. Not...
+- **Chapter 3: Chapter 3 — Strategic Planning in Marketing.** *Strategy is the discipline of pointing the levers at something specific. Most plans fail not because the levers are wrong, but because they were never pointed.* Chapter 2 gave you the value ratio and four levers. This chapter asks the question Chapter...
+- **Chapter 4: Chapter 4 — Understanding the Marketplace.** *Before you can deliver value to a customer, you have to know who the customer is.* Here is a mistake I have watched students make, and I have probably made it myself. You learn a framework — the value ratio, the four...
+- **Chapter 5: Chapter 5 — Consumer Markets and Purchasing Behavior.** *Why people buy what they buy is a harder question than it looks. The answer lives in five categories of influence, a five-stage decision process, and a hierarchy of needs none of us can talk about clearly.* Marketers use the phrase "buyer's...
+- **Chapter 6: Chapter 6 — Business Markets and Purchasing Behavior.** *Selling to a business is not just selling to a bigger consumer. The decision logic is different, the people are different, the time scale is different, and the trade-offs are different.* Here is a comparison that sounds obvious until you actually think...
+- **Chapter 7: Chapter 5 — Consumer Markets and Purchasing Behavior.** *Why people buy what they buy is a harder question than it looks. The answer lives in five categories of influence, a five-stage decision process, and a hierarchy of needs none of us can talk about clearly.* Marketers use the phrase "buyer's...
+- **Chapter 8: Chapter 8 — Marketing Research and Market Intelligence.** *Marketing research is what turns "I think customers want X" into "we have evidence that customers in segment Y want X under conditions Z." Without it, every other framework in this book is a hypothesis.* Here is a result worth sitting with....
+- **Chapter 9: Chapter 9 — Marketing in a Global Environment.** *Crossing a border is not a translation problem. It is a marketing problem in a country where the firm has no instincts.* The question comes before everything. Firms expand internationally for five overlapping reasons, and the ones that get it right have...
+- **Chapter 10: Chapter 10 — Marketing in a Diverse Marketplace.** *A domestic market is not a single market. The discipline of marketing across cultural, ethnic, generational, and identity differences within one country is harder than international marketing in some ways — because the boundaries are invisible.* Here is a single-day disaster worth...
+- **Chapter 11: Chapter 11 — Product, Promotion, Price, and Place.** *The four levers from Chapter 2, taken apart and put back together across the rest of the book.* Chapter 2 introduced the four Ps as the levers that move the value ratio $V = B/P$. Product and promotion act primarily on $B$...
+- **Chapter 12: Chapter 12 — Products: Consumer Offerings.** *A product is more layered than the word suggests. Once you can take apart what you're actually selling, the marketing decisions about it get sharper.* Here is a puzzle that sounds simple. Peloton sells a fitness bike for between $1,500 and $2,600....
+- **Chapter 13: Chapter 13 — Maintaining a Competitive Edge with New Offerings.** *New products are how firms grow. The discipline of getting from idea to commercial launch — without losing too much money or stealing someone else's intellectual property — is most of the work.* The first thing to establish is that "new product"...
+- **Chapter 14: Chapter 14 — Services: The Intangible Product.** *A service is not a product the customer can take home. The marketing implications cascade from there.* Here is a contrast worth sitting with. A coffee shop in Tennessee opens near a fast-growing community. The owner, Lisa, builds something distinct from the...
+- **Chapter 15: Chapter 15 — Pricing Products and Services.** *Price is the only P that directly produces revenue. Every other P is a cost. Getting price wrong destroys value faster than any other marketing decision.* Price is the value exchanged between buyer and seller. The oldest known price records date to...
+- **Chapter 16: Chapter 16 — Integrated Marketing Communications.** *A campaign that says one thing through one channel reaches some customers. A campaign that says the same thing through six channels reaches all of them. The discipline that coordinates the six is integrated marketing communications.* Here is a marketing story with...
+- **Chapter 17: Chapter 17 — The Promotion Mix: Advertising and Public Relations.** *Two of the six promotion mix elements unpacked in detail. One is paid; one is earned. Both shape brand perception, but they work through different mechanisms and obey different rules.* Advertising is paid, non-personal communication that identifies a brand or organization and...
+- **Chapter 18: Chapter 18 — The Promotion Mix: Personal Selling and Sales Promotion.** *Two more promotion mix elements. Personal selling builds relationships one customer at a time. Sales promotion produces immediate purchase action.* Here is a sales story worth understanding mechanically. Hilton Grand Vacations offers loyal Hilton customers a discounted three-night, four-day hotel stay —...
+- **Chapter 19: Chapter 19 — Direct, Online, Social Media, and Mobile Marketing.** *The digital element of the promotion mix. Faster, cheaper, more measurable, and harder to do well than the legacy channels it's supposedly replacing.* Digital marketing is direct marketing with better measurement. That's not a demotion — it's a clarification that captures what's...
+- **Chapter 20: Chapter 20 — Distribution: Delivering Customer Value.** *The Place P. Whatever else the firm does to its product, price, and promotion, the customer can't buy what they can't access.* Here is a product problem that has nothing to do with the product. Outstanding Foods makes PigOut — a vegan,...
+- **Chapter 21: Chapter 21 — Retailing and Wholesaling.** *The two intermediary categories that move most consumer products from manufacturers to customers.* Retailing is the business of selling goods and services to end consumers. Retailers are the final link between manufacturer and consumer in most distribution channels — the point at...
+- **Chapter 22: Chapter 22 — Sustainable Marketing: The New Paradigm.** *Every framework in this book has been about how the firm creates value for customers. This chapter asks the next question: at whose expense, and for how long?* Here is an unusual origin story. Dan Buettner rode his bicycle around the world....
 
-1. **Chapter 1 — Setting the Stage** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
-2. **Chapter 2 — Marketing and Customer Value** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
-3. **Chapter 3 — Strategic Planning in Marketing** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
-4. **Chapter 4 — Understanding the Marketplace** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
-5. **Chapter 5 — Consumer Markets and Purchasing Behavior** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
-6. **Chapter 6 — Business Markets and Purchasing Behavior** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
-7. **Chapter 7 — Market Segmentation, Targeting, and Positioning** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
-8. **Chapter 8 — Marketing Research and Market Intelligence** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
-9. **Chapter 9 — Marketing in a Global Environment** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
-10. **Chapter 10 — Marketing in a Diverse Marketplace** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
-11. **Chapter 11 — Product, Promotion, Price, and Place** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
-12. **Chapter 12 — Products: Consumer Offerings** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
-13. **Chapter 13 — Maintaining a Competitive Edge with New Offerings** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
-14. **Chapter 14 — Services: The Intangible Product** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
-15. **Chapter 15 — Pricing Products and Services** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
-16. **Chapter 16 — Integrated Marketing Communications** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
-17. **Chapter 17 — The Promotion Mix: Advertising and Public Relations** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
-18. **Chapter 18 — The Promotion Mix: Personal Selling and Sales Promotion** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
-19. **Chapter 19 — Direct, Online, Social Media, and Mobile Marketing** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
-20. **Chapter 20 — Distribution: Delivering Customer Value** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
-21. **Chapter 21 — Retailing and Wholesaling** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
-22. **Chapter 22 — Sustainable Marketing: The New Paradigm** — This chapter develops one part of the book's argument and gives the reader a concrete place to practice it.
+## How to Read This Book
 
-## How To Read This Book
-
-Read the opening chapters in order if you are new to the subject. They establish the vocabulary and the boundary conditions. Later chapters can usually be read as focused modules, especially if you are looking for a specific workflow, case, or professional risk.
-
-Do the exercises. The point of an AI-era textbook is not recognition. It is transfer: can you take the distinction from the page and use it on a task the book has never seen?
+Read the chapters in order if you are new to the subject. If you already know the area, use the chapter titles as a map and move directly to the parts where your understanding is weakest. The chapters are designed to be self-contained enough for reference, but they work best as a progression from Chapter 1 — Setting the Stage to Chapter 22 — Sustainable Marketing: The New Paradigm.
 
 ## A Note About AI
 
-This book was made in the same world it describes. Agentic AI systems were used to gather source material, draft candidate passages, check assertions, generate examples, and support editorial workflows. That does not make the book machine-authored. It makes the production boundary explicit.
-
-The editorial claim of the AI+1 series is that AI can help with execution while humans remain responsible for judgment. That means the book must be read with the same discipline it teaches. Claims should be checked. Examples should be tested. Definitions should be compared with practice. If something looks too smooth, slow down.
-
-The most important AI skill is not prompting. It is accountability. A prompt can produce output. A professional has to decide whether the output belongs in the world.
+AI matters to *Principles of Marketing: with LLMs* because the modern textbook is no longer only a static container. It is also part of a learning system: searchable, remixable, explainable, and increasingly connected to tools such as Medhavy. For Humanitarians AI books, the relevant question is not whether AI can replace the learner or the teacher. It cannot. The useful question is what AI can make easier to inspect: definitions, worked examples, misconceptions, practice sequences, alternate explanations, and the structure of an argument. This book treats AI as infrastructure for open, public-interest learning infrastructure. The chapters should still stand on their own as readable prose, but they are also designed to be legible to an intelligent textbook system.
 
 ## Closing Return
 
-Return to the professional at the beginning: the familiar task, the new machine, the old responsibility. The machine has changed the tempo of the work. It has not removed the need for judgment. Start there. Then build.
+The learner at the opening does not need more noise. They need a path. This book is that path: not the whole territory, but a reliable way to begin moving through it.
+
+Let's go.
 
 ## Tags
 
-Principles of Marketing, AI+1, Humanitarians AI, Irreducibly Human, agentic AI, computational skepticism
+Principles of Marketing: with LLMs, textbook, Medhavy, AI-assisted learning, Humanitarians AI Incorporated

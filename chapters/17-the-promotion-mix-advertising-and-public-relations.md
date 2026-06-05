@@ -324,6 +324,10 @@ the brand survives the moment.
 
 **Edward Bernays** was the nephew of Sigmund Freud and "father of public relations" — pioneered using psychoanalysis to shape mass opinion.
 
+![Edward Bernays](../images/edward-bernays-0am.png)
+
+*Puppet Art by [Nik Bear Brown](https://www.nikbearbrown.com/).*
+
 **Run this:**
 
 ```
